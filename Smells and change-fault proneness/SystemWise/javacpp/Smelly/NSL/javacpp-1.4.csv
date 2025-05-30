@@ -1,0 +1,3 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotSecuringLibraries,libname,loadLibrary,Loader,org.bytedeco.javacpp,/home/shahrukh/smellDetection/Detection/cloned_abidi/javacpp-1.4/src/main/java/org/bytedeco/javacpp/Loader.java,Loader.java
+CS2,NotSecuringLibraries,filename2,loadLibrary,Loader,org.bytedeco.javacpp,/home/shahrukh/smellDetection/Detection/cloned_abidi/javacpp-1.4/src/main/java/org/bytedeco/javacpp/Loader.java,Loader.java

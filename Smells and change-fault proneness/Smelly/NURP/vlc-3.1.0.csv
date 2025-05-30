@@ -1,0 +1,6 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotUsingRelativePath,"c++_shared",loadLibraries,LibVLC,org.videolan.libvlc,/home/shahrukh/smellDetection/Detection/cloned_abidi/vlc-3.1.0/libvlc/src/org/videolan/libvlc/LibVLC.java,LibVLC.java
+CS2,NotUsingRelativePath,"vlc",loadLibraries,LibVLC,org.videolan.libvlc,/home/shahrukh/smellDetection/Detection/cloned_abidi/vlc-3.1.0/libvlc/src/org/videolan/libvlc/LibVLC.java,LibVLC.java
+CS3,NotUsingRelativePath,"mla",init,Medialibrary,org.videolan.medialibrary,/home/shahrukh/smellDetection/Detection/cloned_abidi/vlc-3.1.0/medialibrary/src/org/videolan/medialibrary/Medialibrary.java,Medialibrary.java
+CS4,NotUsingRelativePath,"c++_shared",init,Medialibrary,org.videolan.medialibrary,/home/shahrukh/smellDetection/Detection/cloned_abidi/vlc-3.1.0/medialibrary/src/org/videolan/medialibrary/Medialibrary.java,Medialibrary.java
+CS5,NotUsingRelativePath,"vlcjni",loadLibraries,LibVLC,org.videolan.libvlc,/home/shahrukh/smellDetection/Detection/cloned_abidi/vlc-3.1.0/libvlc/src/org/videolan/libvlc/LibVLC.java,LibVLC.java

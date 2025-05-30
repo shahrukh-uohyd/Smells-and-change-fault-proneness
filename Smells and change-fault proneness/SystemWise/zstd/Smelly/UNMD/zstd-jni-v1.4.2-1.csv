@@ -1,0 +1,5 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,UnusedDeclarationDetectio,,frameHeaderSizeMin,Zstd,com.github.luben.zstd,/home/abhaya/shahrukh/cloned_abidi/zstd-jni-v1.4.2-1/src/main/java/com/github/luben/zstd/Zstd.java,Zstd.java
+CS2,UnusedDeclarationDetectio,,searchLengthMin,Zstd,com.github.luben.zstd,/home/abhaya/shahrukh/cloned_abidi/zstd-jni-v1.4.2-1/src/main/java/com/github/luben/zstd/Zstd.java,Zstd.java
+CS3,UnusedDeclarationDetectio,,frameHeaderSizeMax,Zstd,com.github.luben.zstd,/home/abhaya/shahrukh/cloned_abidi/zstd-jni-v1.4.2-1/src/main/java/com/github/luben/zstd/Zstd.java,Zstd.java
+CS4,UnusedDeclarationDetectio,,searchLengthMax,Zstd,com.github.luben.zstd,/home/abhaya/shahrukh/cloned_abidi/zstd-jni-v1.4.2-1/src/main/java/com/github/luben/zstd/Zstd.java,Zstd.java

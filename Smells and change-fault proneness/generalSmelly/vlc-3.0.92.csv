@@ -1,0 +1,15 @@
+File Path
+libvlc/src/org/videolan/libvlc/LibVLC.java
+libvlc/src/org/videolan/libvlc/RendererItem.java
+medialibrary/src/org/videolan/medialibrary/media/Folder.java
+libvlc/src/org/videolan/libvlc/AWindow.java
+medialibrary/src/org/videolan/medialibrary/media/Playlist.java
+medialibrary/jni/medialibrary.cpp
+libvlc/src/org/videolan/libvlc/VLCObject.java
+libvlc/src/org/videolan/libvlc/MediaDiscoverer.java
+medialibrary/src/org/videolan/medialibrary/media/Genre.java
+libvlc/src/org/videolan/libvlc/MediaPlayer.java
+medialibrary/src/org/videolan/medialibrary/media/Album.java
+medialibrary/src/org/videolan/medialibrary/Medialibrary.java
+libvlc/src/org/videolan/libvlc/Media.java
+libvlc/src/org/videolan/libvlc/Dialog.java

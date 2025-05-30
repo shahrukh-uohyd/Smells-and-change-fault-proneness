@@ -1,0 +1,6 @@
+File Path
+native/common/jp_proxy.cpp
+native/common/jp_reference_queue.cpp
+native/common/jp_env.cpp
+native/jni_include/jni.h
+native/java/org/jpype/ref/JPypeReferenceQueue.java

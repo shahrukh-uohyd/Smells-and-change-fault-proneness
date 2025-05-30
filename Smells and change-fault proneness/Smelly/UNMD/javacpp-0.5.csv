@@ -1,0 +1,12 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,UnusedDeclarationDetectio,,memset,Pointer,com.googlecode.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-0.5/src/main/java/com/googlecode/javacpp/Pointer.java,Pointer.java
+CS2,UnusedDeclarationDetectio,,deallocate,NativeDeallocator,com.googlecode.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-0.5/src/main/java/com/googlecode/javacpp/Pointer.java,Pointer.java
+CS3,UnusedDeclarationDetectio,,memcmp,Pointer,com.googlecode.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-0.5/src/main/java/com/googlecode/javacpp/Pointer.java,Pointer.java
+CS4,UnusedDeclarationDetectio,,memchr,Pointer,com.googlecode.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-0.5/src/main/java/com/googlecode/javacpp/Pointer.java,Pointer.java
+CS5,UnusedDeclarationDetectio,,allocateArray,SizeTPointer,com.googlecode.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-0.5/src/main/java/com/googlecode/javacpp/SizeTPointer.java,SizeTPointer.java
+CS6,UnusedDeclarationDetectio,,memcpy,Pointer,com.googlecode.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-0.5/src/main/java/com/googlecode/javacpp/Pointer.java,Pointer.java
+CS7,UnusedDeclarationDetectio,,allocate,Pointer,com.googlecode.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-0.5/src/main/java/com/googlecode/javacpp/Pointer.java,Pointer.java
+CS8,UnusedDeclarationDetectio,,get,SizeTPointer,com.googlecode.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-0.5/src/main/java/com/googlecode/javacpp/SizeTPointer.java,SizeTPointer.java
+CS9,UnusedDeclarationDetectio,,asDirectBuffer,Pointer,com.googlecode.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-0.5/src/main/java/com/googlecode/javacpp/Pointer.java,Pointer.java
+CS10,UnusedDeclarationDetectio,,put,SizeTPointer,com.googlecode.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-0.5/src/main/java/com/googlecode/javacpp/SizeTPointer.java,SizeTPointer.java
+CS11,UnusedDeclarationDetectio,,memmove,Pointer,com.googlecode.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-0.5/src/main/java/com/googlecode/javacpp/Pointer.java,Pointer.java

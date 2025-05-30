@@ -1,0 +1,3 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,UnusedImplementationDetectio,,isCallingJava,Backend,org.postgresql.pljava.internal,/home/abhaya/shahrukh/cloned_abidi/pljava-V1_5_0/pljava/src/main/java/org/postgresql/pljava/internal/Backend.java,Backend.java
+CS2,UnusedImplementationDetectio,,_free,SQLInputFromTuple,org.postgresql.pljava.jdbc,/home/abhaya/shahrukh/cloned_abidi/pljava-V1_5_0/pljava/src/main/java/org/postgresql/pljava/jdbc/SQLInputFromTuple.java,SQLInputFromTuple.java

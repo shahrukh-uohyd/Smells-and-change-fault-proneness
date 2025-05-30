@@ -1,0 +1,13 @@
+File Path
+java/rocksjni/merge_operator.cc
+java/rocksjni/portal.h
+java/rocksjni/write_batch.cc
+java/rocksjni/write_batch_test.cc
+java/src/main/java/org/rocksdb/AbstractTableFilter.java
+java/src/main/java/org/rocksdb/ComparatorOptions.java
+java/src/main/java/org/rocksdb/HashLinkedListMemTableConfig.java
+java/src/main/java/org/rocksdb/HashSkipListMemTableConfig.java
+java/src/main/java/org/rocksdb/SkipListMemTableConfig.java
+java/src/main/java/org/rocksdb/StringAppendOperator.java
+java/src/main/java/org/rocksdb/TransactionLogIterator.java
+java/src/main/java/org/rocksdb/VectorMemTableConfig.java

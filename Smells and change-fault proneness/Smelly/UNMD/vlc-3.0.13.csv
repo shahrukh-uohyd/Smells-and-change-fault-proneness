@@ -1,0 +1,3 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,UnusedDeclarationDetectio,,nativeOnMouseEvent,AWindow,org.videolan.libvlc,/home/abhaya/shahrukh/cloned_abidi/vlc-3.0.13/libvlc/src/org/videolan/libvlc/AWindow.java,AWindow.java
+CS2,UnusedDeclarationDetectio,,nativeOnWindowSize,AWindow,org.videolan.libvlc,/home/abhaya/shahrukh/cloned_abidi/vlc-3.0.13/libvlc/src/org/videolan/libvlc/AWindow.java,AWindow.java

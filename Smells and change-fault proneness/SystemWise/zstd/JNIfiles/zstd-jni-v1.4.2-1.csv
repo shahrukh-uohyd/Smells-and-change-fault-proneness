@@ -1,0 +1,16 @@
+File Path
+cloned_abidi/zstd-jni-v1.4.2-1/src/main/java/com/github/luben/zstd/Zstd.java
+cloned_abidi/zstd-jni-v1.4.2-1/src/main/java/com/github/luben/zstd/ZstdDictCompress.java
+cloned_abidi/zstd-jni-v1.4.2-1/src/main/java/com/github/luben/zstd/ZstdDictDecompress.java
+cloned_abidi/zstd-jni-v1.4.2-1/src/main/java/com/github/luben/zstd/ZstdDirectBufferCompressingStream.java
+cloned_abidi/zstd-jni-v1.4.2-1/src/main/java/com/github/luben/zstd/ZstdDirectBufferDecompressingStream.java
+cloned_abidi/zstd-jni-v1.4.2-1/src/main/java/com/github/luben/zstd/ZstdInputStream.java
+cloned_abidi/zstd-jni-v1.4.2-1/src/main/java/com/github/luben/zstd/ZstdOutputStream.java
+cloned_abidi/zstd-jni-v1.4.2-1/jni/jni.h
+cloned_abidi/zstd-jni-v1.4.2-1/src/main/native/jni_directbuffercompress_zstd.c
+cloned_abidi/zstd-jni-v1.4.2-1/src/main/native/jni_directbufferdecompress_zstd.c
+cloned_abidi/zstd-jni-v1.4.2-1/src/main/native/jni_fast_zstd.c
+cloned_abidi/zstd-jni-v1.4.2-1/src/main/native/jni_inputstream_zstd.c
+cloned_abidi/zstd-jni-v1.4.2-1/src/main/native/jni_outputstream_zstd.c
+cloned_abidi/zstd-jni-v1.4.2-1/src/main/native/jni_zdict.c
+cloned_abidi/zstd-jni-v1.4.2-1/src/main/native/jni_zstd.c

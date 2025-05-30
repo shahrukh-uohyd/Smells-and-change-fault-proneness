@@ -1,0 +1,18 @@
+File Path
+pljava-so/src/main/c/ExecutionPlan.c
+pljava-so/src/main/c/Invocation.c
+pljava-so/src/main/c/JNICalls.c
+pljava-so/src/main/c/PgSavepoint.c
+pljava-so/src/main/c/TypeOid.c
+pljava-so/src/main/c/VarlenaWrapper.c
+pljava-so/src/main/c/type/ErrorData.c
+pljava-so/src/main/c/type/Relation.c
+pljava-so/src/main/c/type/SQLXMLImpl.c
+pljava-so/src/main/c/type/TriggerData.c
+pljava-so/src/main/c/type/Tuple.c
+pljava-so/src/main/c/type/TupleDesc.c
+pljava/src/main/java/org/postgresql/pljava/internal/DualState.java
+pljava/src/main/java/org/postgresql/pljava/internal/VarlenaWrapper.java
+pljava/src/main/java/org/postgresql/pljava/jdbc/SQLOutputToChunk.java
+pljava/src/main/java/org/postgresql/pljava/jdbc/SQLXMLImpl.java
+pljava/src/main/java/org/postgresql/pljava/jdbc/TypeOid.java

@@ -1,0 +1,8 @@
+File Path
+src/main/java/com/github/luben/zstd/Zstd.java
+src/main/java/com/github/luben/zstd/ZstdInputStream.java
+src/main/java/com/github/luben/zstd/ZstdOutputStream.java
+src/main/native/jni_directbufferdecompress_zstd.c
+src/main/native/jni_inputstream_zstd.c
+src/main/native/jni_outputstream_zstd.c
+src/main/native/jni_zstd.c

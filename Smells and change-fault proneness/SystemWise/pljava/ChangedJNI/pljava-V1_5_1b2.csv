@@ -1,0 +1,10 @@
+File Path
+pljava-so/src/main/c/Backend.c
+pljava-so/src/main/c/ExecutionPlan.c
+pljava-so/src/main/c/VarlenaWrapper.c
+pljava-so/src/main/c/type/Oid.c
+pljava/src/main/java/org/postgresql/pljava/internal/DualState.java
+pljava/src/main/java/org/postgresql/pljava/internal/ExecutionPlan.java
+pljava/src/main/java/org/postgresql/pljava/internal/Oid.java
+pljava/src/main/java/org/postgresql/pljava/internal/SPI.java
+pljava/src/main/java/org/postgresql/pljava/jdbc/SQLXMLImpl.java

@@ -1,0 +1,5 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotHandlingExceptions,"()Ljava/lang/String;",getNameMethodId,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/rocksdb-v6.1.1/java/rocksjni/portal.h,portal.h
+CS2,NotHandlingExceptions,"()J",getGetFileSizeMethodId,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/rocksdb-v6.1.1/java/rocksjni/portal.h,portal.h
+CS3,NotHandlingExceptions,"(JLjava/lang/String;JJ)S",getLogRecordFoundProxyMethodId,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/rocksdb-v6.1.1/java/rocksjni/portal.h,portal.h
+CS4,NotHandlingExceptions,"()S",getCloseWriterProxyMethodId,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/rocksdb-v6.1.1/java/rocksjni/portal.h,portal.h

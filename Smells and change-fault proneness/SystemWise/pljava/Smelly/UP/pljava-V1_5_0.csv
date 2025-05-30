@@ -1,0 +1,4 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,UnusedParameters,pos,Java_org_postgresql_pljava_internal_LargeObject__1truncate,,,/home/abhaya/shahrukh/cloned_abidi/pljava-V1_5_0/pljava-so/src/main/c/type/LargeObject.c,LargeObject.c
+CS2,UnusedParameters,pos,Java_org_postgresql_pljava_internal_LargeObject__1seek,,,/home/abhaya/shahrukh/cloned_abidi/pljava-V1_5_0/pljava-so/src/main/c/type/LargeObject.c,LargeObject.c
+CS3,UnusedParameters,whence,Java_org_postgresql_pljava_internal_LargeObject__1seek,,,/home/abhaya/shahrukh/cloned_abidi/pljava-V1_5_0/pljava-so/src/main/c/type/LargeObject.c,LargeObject.c

@@ -1,0 +1,18 @@
+File Path
+java/rocksjni/backupenginejni.cc
+java/rocksjni/compression_options.cc
+java/rocksjni/merge_operator.cc
+java/rocksjni/options.cc
+java/rocksjni/portal.h
+java/rocksjni/rocksjni.cc
+java/rocksjni/table.cc
+java/rocksjni/transaction.cc
+java/rocksjni/transaction_db.cc
+java/rocksjni/writebatchhandlerjnicallback.cc
+java/rocksjni/writebatchhandlerjnicallback.h
+java/src/main/java/org/rocksdb/BackupEngine.java
+java/src/main/java/org/rocksdb/BlockBasedTableConfig.java
+java/src/main/java/org/rocksdb/ColumnFamilyHandle.java
+java/src/main/java/org/rocksdb/RocksDB.java
+java/src/main/java/org/rocksdb/StringAppendOperator.java
+java/src/main/java/org/rocksdb/WriteBatch.java

@@ -1,0 +1,4 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+AP1,TooMuchClusteringDetectio,,,TableQuery,io.realm.internal,/home/abhaya/shahrukh/cloned_abidi/realm-java-v2.3.2/realm/realm-library/src/main/java/io/realm/internal/TableQuery.java
+AP2,TooMuchClusteringDetectio,,,Table,io.realm.internal,/home/abhaya/shahrukh/cloned_abidi/realm-java-v2.3.2/realm/realm-library/src/main/java/io/realm/internal/Table.java
+AP3,TooMuchClusteringDetectio,,,LinkView,io.realm.internal,/home/abhaya/shahrukh/cloned_abidi/realm-java-v2.3.2/realm/realm-library/src/main/java/io/realm/internal/LinkView.java

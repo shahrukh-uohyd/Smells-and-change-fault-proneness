@@ -1,0 +1,15 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,UnusedDeclarationDetectio,,purgeOldBackups0,RestoreBackupableDB,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v5.4.6/java/src/main/java/org/rocksdb/RestoreBackupableDB.java,RestoreBackupableDB.java
+CS2,UnusedDeclarationDetectio,,setUseOsBuffer,EnvOptions,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v5.4.6/java/src/main/java/org/rocksdb/EnvOptions.java,EnvOptions.java
+CS3,UnusedDeclarationDetectio,,disposeInternal,RestoreBackupableDB,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v5.4.6/java/src/main/java/org/rocksdb/RestoreBackupableDB.java,RestoreBackupableDB.java
+CS4,UnusedDeclarationDetectio,,restoreDBFromBackup0,RestoreBackupableDB,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v5.4.6/java/src/main/java/org/rocksdb/RestoreBackupableDB.java,RestoreBackupableDB.java
+CS5,UnusedDeclarationDetectio,,createNewBackup,BackupableDB,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v5.4.6/java/src/main/java/org/rocksdb/BackupableDB.java,BackupableDB.java
+CS6,UnusedDeclarationDetectio,,useOsBuffer,EnvOptions,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v5.4.6/java/src/main/java/org/rocksdb/EnvOptions.java,EnvOptions.java
+CS7,UnusedDeclarationDetectio,,purgeOldBackups,BackupableDB,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v5.4.6/java/src/main/java/org/rocksdb/BackupableDB.java,BackupableDB.java
+CS8,UnusedDeclarationDetectio,,getBackupInfo,RestoreBackupableDB,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v5.4.6/java/src/main/java/org/rocksdb/RestoreBackupableDB.java,RestoreBackupableDB.java
+CS9,UnusedDeclarationDetectio,,garbageCollect,RestoreBackupableDB,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v5.4.6/java/src/main/java/org/rocksdb/RestoreBackupableDB.java,RestoreBackupableDB.java
+CS10,UnusedDeclarationDetectio,,restoreDBFromLatestBackup0,RestoreBackupableDB,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v5.4.6/java/src/main/java/org/rocksdb/RestoreBackupableDB.java,RestoreBackupableDB.java
+CS11,UnusedDeclarationDetectio,,open,BackupableDB,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v5.4.6/java/src/main/java/org/rocksdb/BackupableDB.java,BackupableDB.java
+CS12,UnusedDeclarationDetectio,,deleteBackup0,RestoreBackupableDB,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v5.4.6/java/src/main/java/org/rocksdb/RestoreBackupableDB.java,RestoreBackupableDB.java
+CS13,UnusedDeclarationDetectio,,newRestoreBackupableDB,RestoreBackupableDB,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v5.4.6/java/src/main/java/org/rocksdb/RestoreBackupableDB.java,RestoreBackupableDB.java
+CS14,UnusedDeclarationDetectio,,getCorruptedBackups,RestoreBackupableDB,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v5.4.6/java/src/main/java/org/rocksdb/RestoreBackupableDB.java,RestoreBackupableDB.java

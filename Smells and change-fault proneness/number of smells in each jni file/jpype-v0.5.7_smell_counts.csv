@@ -1,0 +1,6 @@
+JNI_File,NCOE,LRA1,NSL1,HCL1,MMM,TMS,UP,TMC,PEO1,ASMRV1,UNMI,UNMD,NURP1,NHE1,Changed
+cloned_abidi/jpype-v0.5.7/native/common/include/jp_javaenv.h,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+cloned_abidi/jpype-v0.5.7/native/common/jp_javaenv.cpp,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+cloned_abidi/jpype-v0.5.7/native/common/jp_javaenv_autogen.cpp,0,0,0,0,10,0,0,0,0,5,0,0,0,5,0
+cloned_abidi/jpype-v0.5.7/native/common/jp_proxy.cpp,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+cloned_abidi/jpype-v0.5.7/native/jni_include/jni.h,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0

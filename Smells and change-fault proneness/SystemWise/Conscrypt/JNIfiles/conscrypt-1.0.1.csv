@@ -1,0 +1,14 @@
+File Path
+cloned_abidi/conscrypt-1.0.1/common/src/main/java/org/conscrypt/NativeCrypto.java
+cloned_abidi/conscrypt-1.0.1/common/src/jni/main/cpp/conscrypt/jniload.cc
+cloned_abidi/conscrypt-1.0.1/common/src/jni/main/cpp/conscrypt/jniutil.cc
+cloned_abidi/conscrypt-1.0.1/common/src/jni/main/cpp/conscrypt/native_crypto.cc
+cloned_abidi/conscrypt-1.0.1/common/src/jni/main/include/conscrypt/app_data.h
+cloned_abidi/conscrypt-1.0.1/common/src/jni/main/include/conscrypt/bio_input_stream.h
+cloned_abidi/conscrypt-1.0.1/common/src/jni/main/include/conscrypt/bio_output_stream.h
+cloned_abidi/conscrypt-1.0.1/common/src/jni/main/include/conscrypt/bio_stream.h
+cloned_abidi/conscrypt-1.0.1/common/src/jni/main/include/conscrypt/jniutil.h
+cloned_abidi/conscrypt-1.0.1/common/src/jni/main/include/conscrypt/native_crypto.h
+cloned_abidi/conscrypt-1.0.1/common/src/jni/unbundled/include/NetFd.h
+cloned_abidi/conscrypt-1.0.1/common/src/jni/unbundled/include/nativehelper/ScopedLocalRef.h
+cloned_abidi/conscrypt-1.0.1/common/src/jni/unbundled/include/nativehelper/ScopedUtfChars.h

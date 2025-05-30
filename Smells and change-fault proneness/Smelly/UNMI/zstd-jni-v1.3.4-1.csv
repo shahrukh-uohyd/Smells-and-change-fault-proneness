@@ -1,0 +1,20 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,UnusedImplementationDetectio,,decompressedSize,Zstd,com.github.luben.zstd,/home/abhaya/shahrukh/cloned_abidi/zstd-jni-v1.3.4-1/src/main/java/com/github/luben/zstd/Zstd.java,Zstd.java
+CS2,UnusedImplementationDetectio,,windowLogMin,Zstd,com.github.luben.zstd,/home/abhaya/shahrukh/cloned_abidi/zstd-jni-v1.3.4-1/src/main/java/com/github/luben/zstd/Zstd.java,Zstd.java
+CS3,UnusedImplementationDetectio,,chainLogMin,Zstd,com.github.luben.zstd,/home/abhaya/shahrukh/cloned_abidi/zstd-jni-v1.3.4-1/src/main/java/com/github/luben/zstd/Zstd.java,Zstd.java
+CS4,UnusedImplementationDetectio,,compressByteArray,Zstd,com.github.luben.zstd,/home/abhaya/shahrukh/cloned_abidi/zstd-jni-v1.3.4-1/src/main/java/com/github/luben/zstd/Zstd.java,Zstd.java
+CS5,UnusedImplementationDetectio,,hashLogMin,Zstd,com.github.luben.zstd,/home/abhaya/shahrukh/cloned_abidi/zstd-jni-v1.3.4-1/src/main/java/com/github/luben/zstd/Zstd.java,Zstd.java
+CS6,UnusedImplementationDetectio,,searchLogMax,Zstd,com.github.luben.zstd,/home/abhaya/shahrukh/cloned_abidi/zstd-jni-v1.3.4-1/src/main/java/com/github/luben/zstd/Zstd.java,Zstd.java
+CS7,UnusedImplementationDetectio,,searchLogMin,Zstd,com.github.luben.zstd,/home/abhaya/shahrukh/cloned_abidi/zstd-jni-v1.3.4-1/src/main/java/com/github/luben/zstd/Zstd.java,Zstd.java
+CS8,UnusedImplementationDetectio,,searchLengthMax,Zstd,com.github.luben.zstd,/home/abhaya/shahrukh/cloned_abidi/zstd-jni-v1.3.4-1/src/main/java/com/github/luben/zstd/Zstd.java,Zstd.java
+CS9,UnusedImplementationDetectio,,blockSizeMax,Zstd,com.github.luben.zstd,/home/abhaya/shahrukh/cloned_abidi/zstd-jni-v1.3.4-1/src/main/java/com/github/luben/zstd/Zstd.java,Zstd.java
+CS10,UnusedImplementationDetectio,,magicNumber,Zstd,com.github.luben.zstd,/home/abhaya/shahrukh/cloned_abidi/zstd-jni-v1.3.4-1/src/main/java/com/github/luben/zstd/Zstd.java,Zstd.java
+CS11,UnusedImplementationDetectio,,hashLogMax,Zstd,com.github.luben.zstd,/home/abhaya/shahrukh/cloned_abidi/zstd-jni-v1.3.4-1/src/main/java/com/github/luben/zstd/Zstd.java,Zstd.java
+CS12,UnusedImplementationDetectio,,decompressByteArray,Zstd,com.github.luben.zstd,/home/abhaya/shahrukh/cloned_abidi/zstd-jni-v1.3.4-1/src/main/java/com/github/luben/zstd/Zstd.java,Zstd.java
+CS13,UnusedImplementationDetectio,,frameHeaderSizeMin,Zstd,com.github.luben.zstd,/home/abhaya/shahrukh/cloned_abidi/zstd-jni-v1.3.4-1/src/main/java/com/github/luben/zstd/Zstd.java,Zstd.java
+CS14,UnusedImplementationDetectio,,searchLengthMin,Zstd,com.github.luben.zstd,/home/abhaya/shahrukh/cloned_abidi/zstd-jni-v1.3.4-1/src/main/java/com/github/luben/zstd/Zstd.java,Zstd.java
+CS15,UnusedImplementationDetectio,,targetLengthMin,Zstd,com.github.luben.zstd,/home/abhaya/shahrukh/cloned_abidi/zstd-jni-v1.3.4-1/src/main/java/com/github/luben/zstd/Zstd.java,Zstd.java
+CS16,UnusedImplementationDetectio,,frameHeaderSizeMax,Zstd,com.github.luben.zstd,/home/abhaya/shahrukh/cloned_abidi/zstd-jni-v1.3.4-1/src/main/java/com/github/luben/zstd/Zstd.java,Zstd.java
+CS17,UnusedImplementationDetectio,,chainLogMax,Zstd,com.github.luben.zstd,/home/abhaya/shahrukh/cloned_abidi/zstd-jni-v1.3.4-1/src/main/java/com/github/luben/zstd/Zstd.java,Zstd.java
+CS18,UnusedImplementationDetectio,,trainFromBuffer,Zstd,com.github.luben.zstd,/home/abhaya/shahrukh/cloned_abidi/zstd-jni-v1.3.4-1/src/main/java/com/github/luben/zstd/Zstd.java,Zstd.java
+CS19,UnusedImplementationDetectio,,windowLogMax,Zstd,com.github.luben.zstd,/home/abhaya/shahrukh/cloned_abidi/zstd-jni-v1.3.4-1/src/main/java/com/github/luben/zstd/Zstd.java,Zstd.java

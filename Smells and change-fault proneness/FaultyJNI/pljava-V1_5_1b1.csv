@@ -1,0 +1,20 @@
+File Path
+pljava-so/src/main/c/Backend.c
+pljava-so/src/main/c/ExecutionPlan.c
+pljava-so/src/main/c/Invocation.c
+pljava-so/src/main/c/SQLInputFromTuple.c
+pljava-so/src/main/c/type/Composite.c
+pljava-so/src/main/c/type/HeapTupleHeader.c
+pljava-so/src/main/c/type/JavaWrapper.c
+pljava-so/src/main/c/type/Oid.c
+pljava-so/src/main/c/type/Portal.c
+pljava-so/src/main/c/type/Relation.c
+pljava-so/src/main/c/type/Tuple.c
+pljava-so/src/main/c/type/TupleDesc.c
+pljava-so/src/main/include/pljava/pljava.h
+pljava-so/src/main/include/pljava/type/HeapTupleHeader.h
+pljava/src/main/java/org/postgresql/pljava/internal/Oid.java
+pljava/src/main/java/org/postgresql/pljava/internal/Relation.java
+pljava/src/main/java/org/postgresql/pljava/internal/TriggerData.java
+pljava/src/main/java/org/postgresql/pljava/internal/Tuple.java
+pljava/src/main/java/org/postgresql/pljava/jdbc/SingleRowReader.java

@@ -1,0 +1,7 @@
+File Path
+common/src/jni/main/cpp/conscrypt/jniload.cc
+common/src/jni/main/cpp/conscrypt/jniutil.cc
+common/src/jni/main/cpp/conscrypt/native_crypto.cc
+common/src/jni/main/include/conscrypt/app_data.h
+common/src/jni/main/include/conscrypt/jniutil.h
+common/src/main/java/org/conscrypt/NativeCrypto.java

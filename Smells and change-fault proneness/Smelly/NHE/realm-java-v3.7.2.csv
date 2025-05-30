@@ -1,0 +1,15 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotHandlingExceptions,method_name,,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/realm-java-v3.7.2/realm/realm-library/src/main/cpp/jni_util/java_method.cpp,java_method.cpp
+CS2,NotHandlingExceptions,"io/realm/exceptions/RealmFileException",ThrowRealmFileException,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/realm-java-v3.7.2/realm/realm-library/src/main/cpp/util.cpp,util.cpp
+CS3,NotHandlingExceptions,"java/lang/UnsupportedOperationException",ThrowException,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/realm-java-v3.7.2/realm/realm-library/src/main/cpp/util.cpp,util.cpp
+CS4,NotHandlingExceptions,"java/lang/RuntimeException",ThrowException,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/realm-java-v3.7.2/realm/realm-library/src/main/cpp/util.cpp,util.cpp
+CS5,NotHandlingExceptions,"java/lang/ArrayIndexOutOfBoundsException",ThrowException,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/realm-java-v3.7.2/realm/realm-library/src/main/cpp/util.cpp,util.cpp
+CS6,NotHandlingExceptions,JavaExceptionDef::OutOfMemory,ThrowException,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/realm-java-v3.7.2/realm/realm-library/src/main/cpp/util.cpp,util.cpp
+CS7,NotHandlingExceptions,"io/realm/internal/async/BadVersionException",ThrowException,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/realm-java-v3.7.2/realm/realm-library/src/main/cpp/util.cpp,util.cpp
+CS8,NotHandlingExceptions,class_name,JavaClass::get_jclass,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/realm-java-v3.7.2/realm/realm-library/src/main/cpp/jni_util/java_class.cpp,java_class.cpp
+CS9,NotHandlingExceptions,"java/lang/IllegalArgumentException",ThrowException,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/realm-java-v3.7.2/realm/realm-library/src/main/cpp/util.cpp,util.cpp
+CS10,NotHandlingExceptions,"java/lang/IllegalStateException",ThrowException,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/realm-java-v3.7.2/realm/realm-library/src/main/cpp/util.cpp,util.cpp
+CS11,NotHandlingExceptions,"java/lang/ClassNotFoundException",ThrowException,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/realm-java-v3.7.2/realm/realm-library/src/main/cpp/util.cpp,util.cpp
+CS12,NotHandlingExceptions,"log",,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/realm-java-v3.7.2/realm/realm-library/src/main/cpp/jni_util/log.cpp,log.cpp
+CS13,NotHandlingExceptions,"<init>",ThrowRealmFileException,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/realm-java-v3.7.2/realm/realm-library/src/main/cpp/util.cpp,util.cpp
+CS14,NotHandlingExceptions,"io/realm/exceptions/RealmError",ThrowException,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/realm-java-v3.7.2/realm/realm-library/src/main/cpp/util.cpp,util.cpp

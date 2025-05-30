@@ -1,0 +1,9 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,MemoryManagementMismatch,ShortArrayElements,JNI_getShortArrayElements,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/pljava-V1_5_3/pljava-so/src/main/c/JNICalls.c,JNICalls.c
+CS2,MemoryManagementMismatch,DoubleArrayElements,JNI_getDoubleArrayElements,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/pljava-V1_5_3/pljava-so/src/main/c/JNICalls.c,JNICalls.c
+CS3,MemoryManagementMismatch,StringUTFChars,JNI_getStringUTFChars,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/pljava-V1_5_3/pljava-so/src/main/c/JNICalls.c,JNICalls.c
+CS4,MemoryManagementMismatch,BooleanArrayElements,JNI_getBooleanArrayElements,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/pljava-V1_5_3/pljava-so/src/main/c/JNICalls.c,JNICalls.c
+CS5,MemoryManagementMismatch,FloatArrayElements,JNI_getFloatArrayElements,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/pljava-V1_5_3/pljava-so/src/main/c/JNICalls.c,JNICalls.c
+CS6,MemoryManagementMismatch,ByteArrayElements,JNI_getByteArrayElements,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/pljava-V1_5_3/pljava-so/src/main/c/JNICalls.c,JNICalls.c
+CS7,MemoryManagementMismatch,IntArrayElements,JNI_getIntArrayElements,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/pljava-V1_5_3/pljava-so/src/main/c/JNICalls.c,JNICalls.c
+CS8,MemoryManagementMismatch,LongArrayElements,JNI_getLongArrayElements,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/pljava-V1_5_3/pljava-so/src/main/c/JNICalls.c,JNICalls.c

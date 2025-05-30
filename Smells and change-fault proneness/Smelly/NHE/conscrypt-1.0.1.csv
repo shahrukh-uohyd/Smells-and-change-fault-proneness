@@ -1,0 +1,6 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotHandlingExceptions,sig,getMethodRef,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/conscrypt-1.0.1/common/src/jni/main/include/conscrypt/jniutil.h,jniutil.h
+CS2,NotHandlingExceptions,,findClass,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/conscrypt-1.0.1/common/src/jni/main/include/conscrypt/jniutil.h,jniutil.h
+CS3,NotHandlingExceptions,sig,getFieldRef,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/conscrypt-1.0.1/common/src/jni/main/include/conscrypt/jniutil.h,jniutil.h
+CS4,NotHandlingExceptions,sig,,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/conscrypt-1.0.1/common/src/jni/main/include/conscrypt/jniutil.h,jniutil.h
+CS5,NotHandlingExceptions,,getGlobalRefToClass,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/conscrypt-1.0.1/common/src/jni/main/include/conscrypt/jniutil.h,jniutil.h

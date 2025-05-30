@@ -1,0 +1,4 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,MemoryManagementMismatch,ByteArrayElements,txn_write_kv_parts_helper,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/rocksdb-v6.2.2/java/rocksjni/transaction.cc,transaction.cc
+CS2,MemoryManagementMismatch,ByteArrayElements,txn_multi_get_helper,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/rocksdb-v6.2.2/java/rocksjni/transaction.cc,transaction.cc
+CS3,MemoryManagementMismatch,ByteArrayElements,txn_write_k_parts_helper,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/rocksdb-v6.2.2/java/rocksjni/transaction.cc,transaction.cc

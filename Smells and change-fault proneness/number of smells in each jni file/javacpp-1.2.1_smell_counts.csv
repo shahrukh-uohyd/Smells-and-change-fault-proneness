@@ -1,0 +1,14 @@
+JNI_File,NCOE,LRA1,NSL1,HCL1,MMM,TMS,UP,TMC,PEO1,ASMRV1,UNMI,UNMD,NURP1,NHE1,Changed
+cloned_abidi/javacpp-1.2.1/src/main/java/org/bytedeco/javacpp/BoolPointer.java,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+cloned_abidi/javacpp-1.2.1/src/main/java/org/bytedeco/javacpp/BytePointer.java,0,0,0,0,0,0,0,1,0,0,0,17,0,0,1
+cloned_abidi/javacpp-1.2.1/src/main/java/org/bytedeco/javacpp/CLongPointer.java,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+cloned_abidi/javacpp-1.2.1/src/main/java/org/bytedeco/javacpp/CharPointer.java,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+cloned_abidi/javacpp-1.2.1/src/main/java/org/bytedeco/javacpp/DoublePointer.java,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+cloned_abidi/javacpp-1.2.1/src/main/java/org/bytedeco/javacpp/FloatPointer.java,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+cloned_abidi/javacpp-1.2.1/src/main/java/org/bytedeco/javacpp/IntPointer.java,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+cloned_abidi/javacpp-1.2.1/src/main/java/org/bytedeco/javacpp/LongPointer.java,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+cloned_abidi/javacpp-1.2.1/src/main/java/org/bytedeco/javacpp/Pointer.java,0,0,0,0,0,1,0,0,0,0,0,7,0,0,1
+cloned_abidi/javacpp-1.2.1/src/main/java/org/bytedeco/javacpp/PointerPointer.java,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+cloned_abidi/javacpp-1.2.1/src/main/java/org/bytedeco/javacpp/ShortPointer.java,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+cloned_abidi/javacpp-1.2.1/src/main/java/org/bytedeco/javacpp/SizeTPointer.java,0,0,0,0,0,1,0,0,0,0,0,3,0,0,1
+cloned_abidi/javacpp-1.2.1/src/test/java/org/bytedeco/javacpp/AdapterTest.java,0,0,0,0,0,1,0,0,0,0,0,14,0,0,1

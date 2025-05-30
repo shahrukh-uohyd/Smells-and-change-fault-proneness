@@ -1,0 +1,2 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotCachingObjectsElements,"<init>",Java_org_rocksdb_TransactionLogIterator_getBatch,,,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v5.0.2/java/rocksjni/transaction_log.cc,transaction_log.cc

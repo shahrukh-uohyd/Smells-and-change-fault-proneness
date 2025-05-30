@@ -1,0 +1,9 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,PassingExcessiveObjects,src,Java_com_github_luben_zstd_Zstd_decompressDirectByteBufferFastDict,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/zstd-jni-v1.3.0-1/src/main/native/jni_fast_zstd.c,jni_fast_zstd.c
+CS2,PassingExcessiveObjects,dict,Java_com_github_luben_zstd_Zstd_compressFastDict,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/zstd-jni-v1.3.0-1/src/main/native/jni_fast_zstd.c,jni_fast_zstd.c
+CS3,PassingExcessiveObjects,dst,Java_com_github_luben_zstd_Zstd_decompressDirectByteBufferFastDict,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/zstd-jni-v1.3.0-1/src/main/native/jni_fast_zstd.c,jni_fast_zstd.c
+CS4,PassingExcessiveObjects,dict,Java_com_github_luben_zstd_Zstd_compressDirectByteBufferFastDict,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/zstd-jni-v1.3.0-1/src/main/native/jni_fast_zstd.c,jni_fast_zstd.c
+CS5,PassingExcessiveObjects,src,Java_com_github_luben_zstd_Zstd_compressDirectByteBufferFastDict,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/zstd-jni-v1.3.0-1/src/main/native/jni_fast_zstd.c,jni_fast_zstd.c
+CS6,PassingExcessiveObjects,dst,Java_com_github_luben_zstd_Zstd_compressDirectByteBufferFastDict,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/zstd-jni-v1.3.0-1/src/main/native/jni_fast_zstd.c,jni_fast_zstd.c
+CS7,PassingExcessiveObjects,dict,Java_com_github_luben_zstd_Zstd_decompressDirectByteBufferFastDict,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/zstd-jni-v1.3.0-1/src/main/native/jni_fast_zstd.c,jni_fast_zstd.c
+CS8,PassingExcessiveObjects,dict,Java_com_github_luben_zstd_Zstd_decompressFastDict,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/zstd-jni-v1.3.0-1/src/main/native/jni_fast_zstd.c,jni_fast_zstd.c

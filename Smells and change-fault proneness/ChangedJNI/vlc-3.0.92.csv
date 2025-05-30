@@ -1,0 +1,10 @@
+File Path
+libvlc/src/org/videolan/libvlc/Dialog.java
+medialibrary/jni/medialibrary.cpp
+medialibrary/src/org/videolan/medialibrary/Medialibrary.java
+medialibrary/src/org/videolan/medialibrary/media/Album.java
+medialibrary/src/org/videolan/medialibrary/media/Artist.java
+medialibrary/src/org/videolan/medialibrary/media/Folder.java
+medialibrary/src/org/videolan/medialibrary/media/Genre.java
+medialibrary/src/org/videolan/medialibrary/media/MediaWrapper.java
+medialibrary/src/org/videolan/medialibrary/media/Playlist.java

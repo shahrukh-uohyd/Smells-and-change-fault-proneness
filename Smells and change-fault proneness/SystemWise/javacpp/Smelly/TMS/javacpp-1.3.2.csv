@@ -1,0 +1,15 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+AP1,TooMuchScatteringDetectio,,,NativeDeallocator,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-1.3.2/src/main/java/org/bytedeco/javacpp/Pointer.java
+AP2,TooMuchScatteringDetectio,,,SharedData,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-1.3.2/src/test/java/org/bytedeco/javacpp/AdapterTest.java
+AP3,TooMuchScatteringDetectio,,,UniqueData,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-1.3.2/src/test/java/org/bytedeco/javacpp/AdapterTest.java
+AP4,TooMuchScatteringDetectio,,,Loader,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-1.3.2/src/main/java/org/bytedeco/javacpp/Loader.java
+AP5,TooMuchScatteringDetectio,,,PointerPointer<P extends Pointer>,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-1.3.2/src/main/java/org/bytedeco/javacpp/PointerPointer.java
+AP6,TooMuchScatteringDetectio,,,SizeTPointer,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-1.3.2/src/main/java/org/bytedeco/javacpp/SizeTPointer.java
+AP7,TooMuchScatteringDetectio,,,CLongPointer,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-1.3.2/src/main/java/org/bytedeco/javacpp/CLongPointer.java
+AP8,TooMuchScatteringDetectio,,,DoublePointer,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-1.3.2/src/main/java/org/bytedeco/javacpp/DoublePointer.java
+AP9,TooMuchScatteringDetectio,,,FloatPointer,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-1.3.2/src/main/java/org/bytedeco/javacpp/FloatPointer.java
+AP10,TooMuchScatteringDetectio,,,IntPointer,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-1.3.2/src/main/java/org/bytedeco/javacpp/IntPointer.java
+AP11,TooMuchScatteringDetectio,,,BoolPointer,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-1.3.2/src/main/java/org/bytedeco/javacpp/BoolPointer.java
+AP12,TooMuchScatteringDetectio,,,ShortPointer,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-1.3.2/src/main/java/org/bytedeco/javacpp/ShortPointer.java
+AP13,TooMuchScatteringDetectio,,,LongPointer,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-1.3.2/src/main/java/org/bytedeco/javacpp/LongPointer.java
+AP14,TooMuchScatteringDetectio,,,CharPointer,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-1.3.2/src/main/java/org/bytedeco/javacpp/CharPointer.java

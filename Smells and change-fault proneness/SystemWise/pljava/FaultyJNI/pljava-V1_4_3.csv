@@ -1,0 +1,10 @@
+File Path
+src/C/pljava/Backend.c
+src/C/pljava/JNICalls.c
+src/C/pljava/type/HeapTupleHeader.c
+src/C/pljava/type/Portal.c
+src/java/pljava/org/postgresql/pljava/internal/Backend.java
+src/java/pljava/org/postgresql/pljava/jdbc/SQLInputFromChunk.java
+src/java/pljava/org/postgresql/pljava/jdbc/SQLInputFromTuple.java
+src/java/pljava/org/postgresql/pljava/jdbc/SQLOutputToChunk.java
+src/java/pljava/org/postgresql/pljava/jdbc/SingleRowReader.java

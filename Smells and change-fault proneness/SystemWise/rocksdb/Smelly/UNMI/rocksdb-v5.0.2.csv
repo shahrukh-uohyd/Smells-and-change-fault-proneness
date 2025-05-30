@@ -1,0 +1,20 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,UnusedImplementationDetectio,,seekToFirst0,WBWIRocksIterator,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v5.0.2/java/src/main/java/org/rocksdb/WBWIRocksIterator.java,WBWIRocksIterator.java
+CS2,UnusedImplementationDetectio,,newMemTableFactoryHandle,VectorMemTableConfig,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v5.0.2/java/src/main/java/org/rocksdb/VectorMemTableConfig.java,VectorMemTableConfig.java
+CS3,UnusedImplementationDetectio,,putLogData,WriteBatchWithIndex,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v5.0.2/java/src/main/java/org/rocksdb/WriteBatchWithIndex.java,WriteBatchWithIndex.java
+CS4,UnusedImplementationDetectio,,createNewSliceFromString,AbstractSlice,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v5.0.2/java/src/main/java/org/rocksdb/AbstractSlice.java,AbstractSlice.java
+CS5,UnusedImplementationDetectio,,prev0,WBWIRocksIterator,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v5.0.2/java/src/main/java/org/rocksdb/WBWIRocksIterator.java,WBWIRocksIterator.java
+CS6,UnusedImplementationDetectio,,seek0,WBWIRocksIterator,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v5.0.2/java/src/main/java/org/rocksdb/WBWIRocksIterator.java,WBWIRocksIterator.java
+CS7,UnusedImplementationDetectio,,isValid0,WBWIRocksIterator,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v5.0.2/java/src/main/java/org/rocksdb/WBWIRocksIterator.java,WBWIRocksIterator.java
+CS8,UnusedImplementationDetectio,,status0,WBWIRocksIterator,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v5.0.2/java/src/main/java/org/rocksdb/WBWIRocksIterator.java,WBWIRocksIterator.java
+CS9,UnusedImplementationDetectio,,count0,WriteBatchWithIndex,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v5.0.2/java/src/main/java/org/rocksdb/WriteBatchWithIndex.java,WriteBatchWithIndex.java
+CS10,UnusedImplementationDetectio,,setSavePoint0,WriteBatchWithIndex,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v5.0.2/java/src/main/java/org/rocksdb/WriteBatchWithIndex.java,WriteBatchWithIndex.java
+CS11,UnusedImplementationDetectio,,disposeInternal,WriteOptions,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v5.0.2/java/src/main/java/org/rocksdb/WriteOptions.java,WriteOptions.java
+CS12,UnusedImplementationDetectio,,put,WriteBatchWithIndex,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v5.0.2/java/src/main/java/org/rocksdb/WriteBatchWithIndex.java,WriteBatchWithIndex.java
+CS13,UnusedImplementationDetectio,,next0,WBWIRocksIterator,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v5.0.2/java/src/main/java/org/rocksdb/WBWIRocksIterator.java,WBWIRocksIterator.java
+CS14,UnusedImplementationDetectio,,remove,WriteBatchWithIndex,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v5.0.2/java/src/main/java/org/rocksdb/WriteBatchWithIndex.java,WriteBatchWithIndex.java
+CS15,UnusedImplementationDetectio,,seekToLast0,WBWIRocksIterator,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v5.0.2/java/src/main/java/org/rocksdb/WBWIRocksIterator.java,WBWIRocksIterator.java
+CS16,UnusedImplementationDetectio,,data0,Slice,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v5.0.2/java/src/main/java/org/rocksdb/Slice.java,Slice.java
+CS17,UnusedImplementationDetectio,,rollbackToSavePoint0,WriteBatchWithIndex,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v5.0.2/java/src/main/java/org/rocksdb/WriteBatchWithIndex.java,WriteBatchWithIndex.java
+CS18,UnusedImplementationDetectio,,clear0,WriteBatchWithIndex,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v5.0.2/java/src/main/java/org/rocksdb/WriteBatchWithIndex.java,WriteBatchWithIndex.java
+CS19,UnusedImplementationDetectio,,merge,WriteBatchWithIndex,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v5.0.2/java/src/main/java/org/rocksdb/WriteBatchWithIndex.java,WriteBatchWithIndex.java

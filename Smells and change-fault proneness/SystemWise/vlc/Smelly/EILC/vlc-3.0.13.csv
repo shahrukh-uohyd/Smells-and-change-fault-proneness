@@ -1,0 +1,10 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+AP1,ExcessiveInterLanguageCommunicationDetectio,,nativePlaylistAppendGroup,Playlist,org.videolan.medialibrary.media,/home/shahrukh/smellDetection/Detection/cloned_abidi/vlc-3.0.13/medialibrary/src/org/videolan/medialibrary/media/Playlist.java
+AP2,ExcessiveInterLanguageCommunicationDetectio,,nativeNewFromLibVlc,MediaPlayer,org.videolan.libvlc,/home/shahrukh/smellDetection/Detection/cloned_abidi/vlc-3.0.13/libvlc/src/org/videolan/libvlc/MediaPlayer.java
+AP3,ExcessiveInterLanguageCommunicationDetectio,,nativePlaylistAppend,Playlist,org.videolan.medialibrary.media,/home/shahrukh/smellDetection/Detection/cloned_abidi/vlc-3.0.13/medialibrary/src/org/videolan/medialibrary/media/Playlist.java
+AP4,ExcessiveInterLanguageCommunicationDetectio,,nativeNewFromLocation,Media,org.videolan.libvlc,/home/shahrukh/smellDetection/Detection/cloned_abidi/vlc-3.0.13/libvlc/src/org/videolan/libvlc/Media.java
+AP5,ExcessiveInterLanguageCommunicationDetectio,,nativeNewFromMedia,MediaPlayer,org.videolan.libvlc,/home/shahrukh/smellDetection/Detection/cloned_abidi/vlc-3.0.13/libvlc/src/org/videolan/libvlc/MediaPlayer.java
+AP6,ExcessiveInterLanguageCommunicationDetectio,,nativeOnMouseEvent,AWindow,org.videolan.libvlc,/home/shahrukh/smellDetection/Detection/cloned_abidi/vlc-3.0.13/libvlc/src/org/videolan/libvlc/AWindow.java
+AP7,ExcessiveInterLanguageCommunicationDetectio,,nativeOnWindowSize,AWindow,org.videolan.libvlc,/home/shahrukh/smellDetection/Detection/cloned_abidi/vlc-3.0.13/libvlc/src/org/videolan/libvlc/AWindow.java
+AP8,ExcessiveInterLanguageCommunicationDetectio,,nativeNewFromFd,Media,org.videolan.libvlc,/home/shahrukh/smellDetection/Detection/cloned_abidi/vlc-3.0.13/libvlc/src/org/videolan/libvlc/Media.java
+AP9,ExcessiveInterLanguageCommunicationDetectio,,nativeNewFromPath,Media,org.videolan.libvlc,/home/shahrukh/smellDetection/Detection/cloned_abidi/vlc-3.0.13/libvlc/src/org/videolan/libvlc/Media.java

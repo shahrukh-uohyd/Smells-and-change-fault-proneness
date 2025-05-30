@@ -1,0 +1,9 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+AP1,TooMuchScatteringDetectio,,,OsSchemaInfo,io.realm.internal,/home/abhaya/shahrukh/cloned_abidi/realm-java-v3.7.2/realm/realm-library/src/main/java/io/realm/internal/OsSchemaInfo.java
+AP2,TooMuchScatteringDetectio,,,TestUtil,io.realm.internal,/home/abhaya/shahrukh/cloned_abidi/realm-java-v3.7.2/realm/realm-library/src/main/java/io/realm/internal/TestUtil.java
+AP3,TooMuchScatteringDetectio,,,OsCollectionChangeSet,io.realm.internal,/home/abhaya/shahrukh/cloned_abidi/realm-java-v3.7.2/realm/realm-library/src/main/java/io/realm/internal/OsCollectionChangeSet.java
+AP4,TooMuchScatteringDetectio,,,Util,io.realm.internal,/home/abhaya/shahrukh/cloned_abidi/realm-java-v3.7.2/realm/realm-library/src/main/java/io/realm/internal/Util.java
+AP5,TooMuchScatteringDetectio,,,NativeObjectReference,io.realm.internal,/home/abhaya/shahrukh/cloned_abidi/realm-java-v3.7.2/realm/realm-library/src/main/java/io/realm/internal/NativeObjectReference.java
+AP6,TooMuchScatteringDetectio,,,SyncManager,io.realm,/home/abhaya/shahrukh/cloned_abidi/realm-java-v3.7.2/realm/realm-library/src/objectServer/java/io/realm/SyncManager.java
+AP7,TooMuchScatteringDetectio,,,ClientResetRequiredError,io.realm,/home/abhaya/shahrukh/cloned_abidi/realm-java-v3.7.2/realm/realm-library/src/objectServer/java/io/realm/ClientResetRequiredError.java
+AP8,TooMuchScatteringDetectio,,,OsObjectSchemaInfo,io.realm.internal,/home/abhaya/shahrukh/cloned_abidi/realm-java-v3.7.2/realm/realm-library/src/main/java/io/realm/internal/OsObjectSchemaInfo.java

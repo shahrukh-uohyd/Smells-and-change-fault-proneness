@@ -1,0 +1,40 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+AP1,TooMuchScatteringDetectio,,,ClockCache,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v5.17.2/java/src/main/java/org/rocksdb/ClockCache.java
+AP2,TooMuchScatteringDetectio,,,WriteBatchTestInternalHelper,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v5.17.2/java/src/test/java/org/rocksdb/WriteBatchTest.java
+AP3,TooMuchScatteringDetectio,,,RemoveEmptyValueCompactionFilter,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v5.17.2/java/src/main/java/org/rocksdb/RemoveEmptyValueCompactionFilter.java
+AP4,TooMuchScatteringDetectio,,,DirectComparator,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v5.17.2/java/src/main/java/org/rocksdb/DirectComparator.java
+AP5,TooMuchScatteringDetectio,,,HashLinkedListMemTableConfig,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v5.17.2/java/src/main/java/org/rocksdb/HashLinkedListMemTableConfig.java
+AP6,TooMuchScatteringDetectio,,,PlainTableConfig,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v5.17.2/java/src/main/java/org/rocksdb/PlainTableConfig.java
+AP7,TooMuchScatteringDetectio,,,SkipListMemTableConfig,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v5.17.2/java/src/main/java/org/rocksdb/SkipListMemTableConfig.java
+AP8,TooMuchScatteringDetectio,,,LRUCache,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v5.17.2/java/src/main/java/org/rocksdb/LRUCache.java
+AP9,TooMuchScatteringDetectio,,,OptionsUtil,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v5.17.2/java/src/main/java/org/rocksdb/OptionsUtil.java
+AP10,TooMuchScatteringDetectio,,,BloomFilter,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v5.17.2/java/src/main/java/org/rocksdb/BloomFilter.java
+AP11,TooMuchScatteringDetectio,,,AbstractCompactionFilterFactory<T extends AbstractCompactionFilter<?>>,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v5.17.2/java/src/main/java/org/rocksdb/AbstractCompactionFilterFactory.java
+AP12,TooMuchScatteringDetectio,,,Checkpoint,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v5.17.2/java/src/main/java/org/rocksdb/Checkpoint.java
+AP13,TooMuchScatteringDetectio,,,Comparator,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v5.17.2/java/src/main/java/org/rocksdb/Comparator.java
+AP14,TooMuchScatteringDetectio,,,RocksMemEnv,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v5.17.2/java/src/main/java/org/rocksdb/RocksMemEnv.java
+AP15,TooMuchScatteringDetectio,,,RestoreOptions,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v5.17.2/java/src/main/java/org/rocksdb/RestoreOptions.java
+AP16,TooMuchScatteringDetectio,,,VectorMemTableConfig,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v5.17.2/java/src/main/java/org/rocksdb/VectorMemTableConfig.java
+AP17,TooMuchScatteringDetectio,,,AbstractTransactionNotifier,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v5.17.2/java/src/main/java/org/rocksdb/AbstractTransactionNotifier.java
+AP18,TooMuchScatteringDetectio,,,WriteBatchTest,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v5.17.2/java/src/test/java/org/rocksdb/WriteBatchTest.java
+AP19,TooMuchScatteringDetectio,,,Env,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v5.17.2/java/src/main/java/org/rocksdb/Env.java
+AP20,TooMuchScatteringDetectio,,,CompactionOptionsFIFO,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v5.17.2/java/src/main/java/org/rocksdb/CompactionOptionsFIFO.java
+AP21,TooMuchScatteringDetectio,,,Filter,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v5.17.2/java/src/main/java/org/rocksdb/Filter.java
+AP22,TooMuchScatteringDetectio,,,CassandraCompactionFilter,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v5.17.2/java/src/main/java/org/rocksdb/CassandraCompactionFilter.java
+AP23,TooMuchScatteringDetectio,,,RocksCallbackObject,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v5.17.2/java/src/main/java/org/rocksdb/RocksCallbackObject.java
+AP24,TooMuchScatteringDetectio,,,FlushOptions,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v5.17.2/java/src/main/java/org/rocksdb/FlushOptions.java
+AP25,TooMuchScatteringDetectio,,,NativeComparatorWrapper,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v5.17.2/java/src/main/java/org/rocksdb/NativeComparatorWrapper.java
+AP26,TooMuchScatteringDetectio,,,TransactionLogIterator,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v5.17.2/java/src/main/java/org/rocksdb/TransactionLogIterator.java
+AP27,TooMuchScatteringDetectio,,,Snapshot,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v5.17.2/java/src/main/java/org/rocksdb/Snapshot.java
+AP28,TooMuchScatteringDetectio,,,CassandraValueMergeOperator,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v5.17.2/java/src/main/java/org/rocksdb/CassandraValueMergeOperator.java
+AP29,TooMuchScatteringDetectio,,,ColumnFamilyHandle,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v5.17.2/java/src/main/java/org/rocksdb/ColumnFamilyHandle.java
+AP30,TooMuchScatteringDetectio,,,Logger,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v5.17.2/java/src/main/java/org/rocksdb/Logger.java
+AP31,TooMuchScatteringDetectio,,,AbstractCompactionFilter<T extends AbstractSlice<?>>,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v5.17.2/java/src/main/java/org/rocksdb/AbstractCompactionFilter.java
+AP32,TooMuchScatteringDetectio,,,TtlDB,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v5.17.2/java/src/main/java/org/rocksdb/TtlDB.java
+AP33,TooMuchScatteringDetectio,,,OptimisticTransactionOptions,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v5.17.2/java/src/main/java/org/rocksdb/OptimisticTransactionOptions.java
+AP34,TooMuchScatteringDetectio,,,ComparatorOptions,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v5.17.2/java/src/main/java/org/rocksdb/ComparatorOptions.java
+AP35,TooMuchScatteringDetectio,,,Handler,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v5.17.2/java/src/main/java/org/rocksdb/WriteBatch.java
+AP36,TooMuchScatteringDetectio,,,BlockBasedTableConfig,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v5.17.2/java/src/main/java/org/rocksdb/BlockBasedTableConfig.java
+AP37,TooMuchScatteringDetectio,,,NativeStringComparatorWrapper,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v5.17.2/java/src/test/java/org/rocksdb/NativeComparatorWrapperTest.java
+AP38,TooMuchScatteringDetectio,,,StringAppendOperator,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v5.17.2/java/src/main/java/org/rocksdb/StringAppendOperator.java
+AP39,TooMuchScatteringDetectio,,,HashSkipListMemTableConfig,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v5.17.2/java/src/main/java/org/rocksdb/HashSkipListMemTableConfig.java

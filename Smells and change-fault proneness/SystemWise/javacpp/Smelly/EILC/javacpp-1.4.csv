@@ -1,0 +1,21 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+AP1,ExcessiveInterLanguageCommunicationDetectio,,put,CharPointer,org.bytedeco.javacpp,/home/shahrukh/smellDetection/Detection/cloned_abidi/javacpp-1.4/src/main/java/org/bytedeco/javacpp/CharPointer.java
+AP2,ExcessiveInterLanguageCommunicationDetectio,,get,LongPointer,org.bytedeco.javacpp,/home/shahrukh/smellDetection/Detection/cloned_abidi/javacpp-1.4/src/main/java/org/bytedeco/javacpp/LongPointer.java
+AP3,ExcessiveInterLanguageCommunicationDetectio,,get,DoublePointer,org.bytedeco.javacpp,/home/shahrukh/smellDetection/Detection/cloned_abidi/javacpp-1.4/src/main/java/org/bytedeco/javacpp/DoublePointer.java
+AP4,ExcessiveInterLanguageCommunicationDetectio,,physicalBytes,Pointer,org.bytedeco.javacpp,/home/shahrukh/smellDetection/Detection/cloned_abidi/javacpp-1.4/src/main/java/org/bytedeco/javacpp/Pointer.java
+AP5,ExcessiveInterLanguageCommunicationDetectio,,createUniqueData,AdapterTest,org.bytedeco.javacpp,/home/shahrukh/smellDetection/Detection/cloned_abidi/javacpp-1.4/src/test/java/org/bytedeco/javacpp/AdapterTest.java
+AP6,ExcessiveInterLanguageCommunicationDetectio,,put,FloatPointer,org.bytedeco.javacpp,/home/shahrukh/smellDetection/Detection/cloned_abidi/javacpp-1.4/src/main/java/org/bytedeco/javacpp/FloatPointer.java
+AP7,ExcessiveInterLanguageCommunicationDetectio,,get,BytePointer,org.bytedeco.javacpp,/home/shahrukh/smellDetection/Detection/cloned_abidi/javacpp-1.4/src/main/java/org/bytedeco/javacpp/BytePointer.java
+AP8,ExcessiveInterLanguageCommunicationDetectio,,get,FloatPointer,org.bytedeco.javacpp,/home/shahrukh/smellDetection/Detection/cloned_abidi/javacpp-1.4/src/main/java/org/bytedeco/javacpp/FloatPointer.java
+AP9,ExcessiveInterLanguageCommunicationDetectio,,put,BytePointer,org.bytedeco.javacpp,/home/shahrukh/smellDetection/Detection/cloned_abidi/javacpp-1.4/src/main/java/org/bytedeco/javacpp/BytePointer.java
+AP10,ExcessiveInterLanguageCommunicationDetectio,,get,CharPointer,org.bytedeco.javacpp,/home/shahrukh/smellDetection/Detection/cloned_abidi/javacpp-1.4/src/main/java/org/bytedeco/javacpp/CharPointer.java
+AP11,ExcessiveInterLanguageCommunicationDetectio,,trimMemory,Pointer,org.bytedeco.javacpp,/home/shahrukh/smellDetection/Detection/cloned_abidi/javacpp-1.4/src/main/java/org/bytedeco/javacpp/Pointer.java
+AP12,ExcessiveInterLanguageCommunicationDetectio,,put,DoublePointer,org.bytedeco.javacpp,/home/shahrukh/smellDetection/Detection/cloned_abidi/javacpp-1.4/src/main/java/org/bytedeco/javacpp/DoublePointer.java
+AP13,ExcessiveInterLanguageCommunicationDetectio,,realloc,Pointer,org.bytedeco.javacpp,/home/shahrukh/smellDetection/Detection/cloned_abidi/javacpp-1.4/src/main/java/org/bytedeco/javacpp/Pointer.java
+AP14,ExcessiveInterLanguageCommunicationDetectio,,free,Pointer,org.bytedeco.javacpp,/home/shahrukh/smellDetection/Detection/cloned_abidi/javacpp-1.4/src/main/java/org/bytedeco/javacpp/Pointer.java
+AP15,ExcessiveInterLanguageCommunicationDetectio,,get,ShortPointer,org.bytedeco.javacpp,/home/shahrukh/smellDetection/Detection/cloned_abidi/javacpp-1.4/src/main/java/org/bytedeco/javacpp/ShortPointer.java
+AP16,ExcessiveInterLanguageCommunicationDetectio,,put,LongPointer,org.bytedeco.javacpp,/home/shahrukh/smellDetection/Detection/cloned_abidi/javacpp-1.4/src/main/java/org/bytedeco/javacpp/LongPointer.java
+AP17,ExcessiveInterLanguageCommunicationDetectio,,put,IntPointer,org.bytedeco.javacpp,/home/shahrukh/smellDetection/Detection/cloned_abidi/javacpp-1.4/src/main/java/org/bytedeco/javacpp/IntPointer.java
+AP18,ExcessiveInterLanguageCommunicationDetectio,,put,ShortPointer,org.bytedeco.javacpp,/home/shahrukh/smellDetection/Detection/cloned_abidi/javacpp-1.4/src/main/java/org/bytedeco/javacpp/ShortPointer.java
+AP19,ExcessiveInterLanguageCommunicationDetectio,,storeUniqueData,AdapterTest,org.bytedeco.javacpp,/home/shahrukh/smellDetection/Detection/cloned_abidi/javacpp-1.4/src/test/java/org/bytedeco/javacpp/AdapterTest.java
+AP20,ExcessiveInterLanguageCommunicationDetectio,,get,IntPointer,org.bytedeco.javacpp,/home/shahrukh/smellDetection/Detection/cloned_abidi/javacpp-1.4/src/main/java/org/bytedeco/javacpp/IntPointer.java

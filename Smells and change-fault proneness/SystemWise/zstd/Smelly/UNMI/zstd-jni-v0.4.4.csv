@@ -1,0 +1,6 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,UnusedImplementationDetectio,,compressContinue,ZstdOutputStream,com.github.luben.zstd,/home/abhaya/shahrukh/cloned_abidi/zstd-jni-v0.4.4/src/main/java/com/github/luben/zstd/ZstdOutputStream.java,ZstdOutputStream.java
+CS2,UnusedImplementationDetectio,,decompressContinue,ZstdInputStream,com.github.luben.zstd,/home/abhaya/shahrukh/cloned_abidi/zstd-jni-v0.4.4/src/main/java/com/github/luben/zstd/ZstdInputStream.java,ZstdInputStream.java
+CS3,UnusedImplementationDetectio,,compressEnd,ZstdOutputStream,com.github.luben.zstd,/home/abhaya/shahrukh/cloned_abidi/zstd-jni-v0.4.4/src/main/java/com/github/luben/zstd/ZstdOutputStream.java,ZstdOutputStream.java
+CS4,UnusedImplementationDetectio,,compressBegin,ZstdOutputStream,com.github.luben.zstd,/home/abhaya/shahrukh/cloned_abidi/zstd-jni-v0.4.4/src/main/java/com/github/luben/zstd/ZstdOutputStream.java,ZstdOutputStream.java
+CS5,UnusedImplementationDetectio,,findOBuffSize,ZstdInputStream,com.github.luben.zstd,/home/abhaya/shahrukh/cloned_abidi/zstd-jni-v0.4.4/src/main/java/com/github/luben/zstd/ZstdInputStream.java,ZstdInputStream.java

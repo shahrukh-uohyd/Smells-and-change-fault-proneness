@@ -1,0 +1,6 @@
+File Path
+src/main/java/com/github/luben/zstd/Zstd.java
+src/main/java/com/github/luben/zstd/ZstdDictDecompress.java
+src/main/java/com/github/luben/zstd/ZstdInputStream.java
+src/main/native/jni_zdict.c
+src/main/native/jni_zstd.c

@@ -1,0 +1,8 @@
+File Path
+java/rocksjni/portal.h
+java/rocksjni/rocksjni.cc
+java/rocksjni/table.cc
+java/rocksjni/write_batch_test.cc
+java/src/main/java/org/rocksdb/BlockBasedTableConfig.java
+java/src/main/java/org/rocksdb/Options.java
+java/src/main/java/org/rocksdb/RocksDB.java

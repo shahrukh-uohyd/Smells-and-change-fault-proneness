@@ -1,0 +1,4 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,LocalReferencesAbuse,column_order_array,Java_io_realm_internal_TableQuery_nativeBatchUpdateQueries,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/realm-java-v0.90.0/realm/realm-jni/src/io_realm_internal_TableQuery.cpp,io_realm_internal_TableQuery.cpp
+CS2,LocalReferencesAbuse,query_param_array,Java_io_realm_internal_TableQuery_nativeBatchUpdateQueries,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/realm-java-v0.90.0/realm/realm-jni/src/io_realm_internal_TableQuery.cpp,io_realm_internal_TableQuery.cpp
+CS3,LocalReferencesAbuse,column_indices_array,Java_io_realm_internal_TableQuery_nativeBatchUpdateQueries,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/realm-java-v0.90.0/realm/realm-jni/src/io_realm_internal_TableQuery.cpp,io_realm_internal_TableQuery.cpp

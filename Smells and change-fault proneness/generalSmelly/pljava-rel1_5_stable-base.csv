@@ -1,0 +1,21 @@
+File Path
+pljava/src/main/java/org/postgresql/pljava/internal/SubXactListener.java
+pljava/src/main/java/org/postgresql/pljava/internal/Oid.java
+pljava/src/main/java/org/postgresql/pljava/internal/SPI.java
+pljava/src/main/java/org/postgresql/pljava/internal/Tuple.java
+pljava/src/main/java/org/postgresql/pljava/internal/ExecutionPlan.java
+pljava/src/main/java/org/postgresql/pljava/internal/JavaWrapper.java
+pljava/src/main/java/org/postgresql/pljava/internal/XactListener.java
+pljava-so/src/main/c/JNICalls.c
+pljava/src/main/java/org/postgresql/pljava/jdbc/SingleRowReader.java
+pljava/src/main/java/org/postgresql/pljava/jdbc/SQLInputFromChunk.java
+pljava-so/src/main/c/type/LargeObject.c
+pljava/src/main/java/org/postgresql/pljava/jdbc/Invocation.java
+pljava/src/main/java/org/postgresql/pljava/internal/TupleDesc.java
+pljava/src/main/java/org/postgresql/pljava/internal/Relation.java
+pljava/src/main/java/org/postgresql/pljava/internal/PgSavepoint.java
+pljava/src/main/java/org/postgresql/pljava/jdbc/SQLInputFromTuple.java
+pljava/src/main/java/org/postgresql/pljava/jdbc/SQLOutputToChunk.java
+pljava/src/main/java/org/postgresql/pljava/internal/Session.java
+pljava/src/main/java/org/postgresql/pljava/internal/HeapTupleHeader.java
+pljava/src/main/java/org/postgresql/pljava/internal/Backend.java

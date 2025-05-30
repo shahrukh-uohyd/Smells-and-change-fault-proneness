@@ -1,0 +1,13 @@
+File Path
+src/main/java/com/googlecode/javacpp/BytePointer.java
+src/main/java/com/googlecode/javacpp/IntPointer.java
+src/main/java/com/googlecode/javacpp/BoolPointer.java
+src/main/java/com/googlecode/javacpp/Pointer.java
+src/main/java/com/googlecode/javacpp/SizeTPointer.java
+src/main/java/com/googlecode/javacpp/DoublePointer.java
+src/main/java/com/googlecode/javacpp/PointerPointer.java
+src/main/java/com/googlecode/javacpp/FloatPointer.java
+src/main/java/com/googlecode/javacpp/ShortPointer.java
+src/main/java/com/googlecode/javacpp/LongPointer.java
+src/main/java/com/googlecode/javacpp/CharPointer.java
+src/main/java/com/googlecode/javacpp/CLongPointer.java

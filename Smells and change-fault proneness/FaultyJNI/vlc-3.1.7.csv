@@ -1,0 +1,9 @@
+File Path
+libvlc/jni/libvlcjni-mediaplayer.c
+medialibrary/jni/AndroidMediaLibrary.cpp
+medialibrary/jni/AndroidMediaLibrary.h
+medialibrary/jni/medialibrary.cpp
+medialibrary/jni/utils.cpp
+medialibrary/jni/utils.h
+medialibrary/src/org/videolan/medialibrary/Medialibrary.java
+medialibrary/src/org/videolan/medialibrary/media/Genre.java

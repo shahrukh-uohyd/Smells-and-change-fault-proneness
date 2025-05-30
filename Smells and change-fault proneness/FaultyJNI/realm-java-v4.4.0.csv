@@ -1,0 +1,9 @@
+File Path
+realm/realm-library/src/main/cpp/io_realm_internal_OsRealmConfig.cpp
+realm/realm-library/src/main/cpp/io_realm_internal_Table.cpp
+realm/realm-library/src/main/cpp/io_realm_internal_TableQuery.cpp
+realm/realm-library/src/main/java/io/realm/internal/OsSharedRealm.java
+realm/realm-library/src/main/java/io/realm/internal/Table.java
+realm/realm-library/src/main/java/io/realm/internal/TableQuery.java
+realm/realm-library/src/main/java/io/realm/internal/Util.java
+realm/realm-library/src/objectServer/java/io/realm/SyncManager.java

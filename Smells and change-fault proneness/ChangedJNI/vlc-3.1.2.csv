@@ -1,0 +1,14 @@
+File Path
+libvlc/jni/libvlcjni-mediaplayer.c
+libvlc/jni/libvlcjni-vlcobject.c
+libvlc/jni/libvlcjni-vlcobject.h
+libvlc/jni/libvlcjni.c
+libvlc/src/org/videolan/libvlc/LibVLC.java
+libvlc/src/org/videolan/libvlc/Media.java
+libvlc/src/org/videolan/libvlc/MediaDiscoverer.java
+libvlc/src/org/videolan/libvlc/MediaList.java
+libvlc/src/org/videolan/libvlc/MediaPlayer.java
+libvlc/src/org/videolan/libvlc/RendererDiscoverer.java
+libvlc/src/org/videolan/libvlc/RendererItem.java
+libvlc/src/org/videolan/libvlc/VLCObject.java
+medialibrary/jni/utils.cpp

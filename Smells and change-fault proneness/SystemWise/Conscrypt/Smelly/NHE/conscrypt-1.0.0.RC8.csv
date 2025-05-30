@@ -1,0 +1,12 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotHandlingExceptions,sig,getMethodRef,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/conscrypt-1.0.0.RC8/common/src/jni/main/include/conscrypt/jniutil.h,jniutil.h
+CS2,NotHandlingExceptions,"fd",jniGetFDFromFileDescriptor,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/conscrypt-1.0.0.RC8/common/src/jni/main/cpp/conscrypt/jniutil.cc,jniutil.cc
+CS3,NotHandlingExceptions,className,jniThrowException,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/conscrypt-1.0.0.RC8/common/src/jni/main/cpp/conscrypt/jniutil.cc,jniutil.cc
+CS4,NotHandlingExceptions,,findClass,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/conscrypt-1.0.0.RC8/common/src/jni/main/include/conscrypt/jniutil.h,jniutil.h
+CS5,NotHandlingExceptions,sig,getFieldRef,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/conscrypt-1.0.0.RC8/common/src/jni/main/include/conscrypt/jniutil.h,jniutil.h
+CS6,NotHandlingExceptions,"descriptor",jniGetFDFromFileDescriptor,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/conscrypt-1.0.0.RC8/common/src/jni/main/cpp/conscrypt/jniutil.cc,jniutil.cc
+CS7,NotHandlingExceptions,className,jniRegisterNativeMethods,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/conscrypt-1.0.0.RC8/common/src/jni/main/cpp/conscrypt/jniutil.cc,jniutil.cc
+CS8,NotHandlingExceptions,sig,,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/conscrypt-1.0.0.RC8/common/src/jni/main/include/conscrypt/jniutil.h,jniutil.h
+CS9,NotHandlingExceptions,,getGlobalRefToClass,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/conscrypt-1.0.0.RC8/common/src/jni/main/include/conscrypt/jniutil.h,jniutil.h
+CS10,NotHandlingExceptions,"valueOf",init,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/conscrypt-1.0.0.RC8/common/src/jni/main/cpp/conscrypt/jniutil.cc,jniutil.cc
+CS11,NotHandlingExceptions,"java/io/FileDescriptor",jniGetFDFromFileDescriptor,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/conscrypt-1.0.0.RC8/common/src/jni/main/cpp/conscrypt/jniutil.cc,jniutil.cc

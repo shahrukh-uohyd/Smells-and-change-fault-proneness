@@ -1,0 +1,15 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+AP1,ExcessiveInterLanguageCommunicationDetectio,,get,IntPointer,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-1.2.1/src/main/java/org/bytedeco/javacpp/IntPointer.java
+AP2,ExcessiveInterLanguageCommunicationDetectio,,put,DoublePointer,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-1.2.1/src/main/java/org/bytedeco/javacpp/DoublePointer.java
+AP3,ExcessiveInterLanguageCommunicationDetectio,,get,DoublePointer,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-1.2.1/src/main/java/org/bytedeco/javacpp/DoublePointer.java
+AP4,ExcessiveInterLanguageCommunicationDetectio,,put,FloatPointer,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-1.2.1/src/main/java/org/bytedeco/javacpp/FloatPointer.java
+AP5,ExcessiveInterLanguageCommunicationDetectio,,get,FloatPointer,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-1.2.1/src/main/java/org/bytedeco/javacpp/FloatPointer.java
+AP6,ExcessiveInterLanguageCommunicationDetectio,,get,LongPointer,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-1.2.1/src/main/java/org/bytedeco/javacpp/LongPointer.java
+AP7,ExcessiveInterLanguageCommunicationDetectio,,put,IntPointer,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-1.2.1/src/main/java/org/bytedeco/javacpp/IntPointer.java
+AP8,ExcessiveInterLanguageCommunicationDetectio,,get,BytePointer,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-1.2.1/src/main/java/org/bytedeco/javacpp/BytePointer.java
+AP9,ExcessiveInterLanguageCommunicationDetectio,,put,ShortPointer,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-1.2.1/src/main/java/org/bytedeco/javacpp/ShortPointer.java
+AP10,ExcessiveInterLanguageCommunicationDetectio,,put,BytePointer,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-1.2.1/src/main/java/org/bytedeco/javacpp/BytePointer.java
+AP11,ExcessiveInterLanguageCommunicationDetectio,,get,ShortPointer,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-1.2.1/src/main/java/org/bytedeco/javacpp/ShortPointer.java
+AP12,ExcessiveInterLanguageCommunicationDetectio,,put,LongPointer,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-1.2.1/src/main/java/org/bytedeco/javacpp/LongPointer.java
+AP13,ExcessiveInterLanguageCommunicationDetectio,,put,CharPointer,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-1.2.1/src/main/java/org/bytedeco/javacpp/CharPointer.java
+AP14,ExcessiveInterLanguageCommunicationDetectio,,get,CharPointer,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-1.2.1/src/main/java/org/bytedeco/javacpp/CharPointer.java

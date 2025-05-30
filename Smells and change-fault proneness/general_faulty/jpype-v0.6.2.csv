@@ -1,0 +1,380 @@
+buggy_file_path,fix_commit_hash,fix_date,buggy_commit_hash,buggy_date,fix_message
+native/common/include/jp_field.h,c3578c3488de35236f73b6eb27428b1f1526c45b,2017-02-11 23:31:27-05:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Mark destructor that throws as noexcept(false) for >=C++11
+native/common/include/jpype.h,c3578c3488de35236f73b6eb27428b1f1526c45b,2017-02-11 23:31:27-05:00,84f68c72d876d3d57c7df758ca0d7250f787167b,2014-02-20 16:39:12+01:00,Mark destructor that throws as noexcept(false) for >=C++11
+native/common/include/jpype.h,c3578c3488de35236f73b6eb27428b1f1526c45b,2017-02-11 23:31:27-05:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Mark destructor that throws as noexcept(false) for >=C++11
+native/common/include/jpype.h,c3578c3488de35236f73b6eb27428b1f1526c45b,2017-02-11 23:31:27-05:00,8d180cedbf05dd20281a630fb86b8a790b7f8b2a,2015-04-07 10:28:58-07:00,Mark destructor that throws as noexcept(false) for >=C++11
+native/common/include/jpype.h,c3578c3488de35236f73b6eb27428b1f1526c45b,2017-02-11 23:31:27-05:00,f31be77e6a646233a3ddda1e55def0b5c13646cf,2015-04-07 12:06:35-07:00,Mark destructor that throws as noexcept(false) for >=C++11
+native/common/jp_field.cpp,c3578c3488de35236f73b6eb27428b1f1526c45b,2017-02-11 23:31:27-05:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Mark destructor that throws as noexcept(false) for >=C++11
+native/python/jpype_javaarray.cpp,9f3c1feb000eee1f571c3136ed1f77aba284b2c6,2017-06-18 07:13:06-07:00,7a9a83dd275904cd4ab7838c1161279202b841e8,2017-06-18 07:05:17-07:00,Fixed indentation on bulletproof patch.
+native/python/jpype_javaarray.cpp,9f3c1feb000eee1f571c3136ed1f77aba284b2c6,2017-06-18 07:13:06-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Fixed indentation on bulletproof patch.
+native/python/jpype_javaclass.cpp,9f3c1feb000eee1f571c3136ed1f77aba284b2c6,2017-06-18 07:13:06-07:00,7a9a83dd275904cd4ab7838c1161279202b841e8,2017-06-18 07:05:17-07:00,Fixed indentation on bulletproof patch.
+native/python/jpype_javanio.cpp,9f3c1feb000eee1f571c3136ed1f77aba284b2c6,2017-06-18 07:13:06-07:00,7a9a83dd275904cd4ab7838c1161279202b841e8,2017-06-18 07:05:17-07:00,Fixed indentation on bulletproof patch.
+native/python/jpype_module.cpp,9f3c1feb000eee1f571c3136ed1f77aba284b2c6,2017-06-18 07:13:06-07:00,7a9a83dd275904cd4ab7838c1161279202b841e8,2017-06-18 07:05:17-07:00,Fixed indentation on bulletproof patch.
+native/python/jpype_module.cpp,9f3c1feb000eee1f571c3136ed1f77aba284b2c6,2017-06-18 07:13:06-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Fixed indentation on bulletproof patch.
+native/python/jpype_python.cpp,9f3c1feb000eee1f571c3136ed1f77aba284b2c6,2017-06-18 07:13:06-07:00,7a9a83dd275904cd4ab7838c1161279202b841e8,2017-06-18 07:05:17-07:00,Fixed indentation on bulletproof patch.
+native/python/jpype_python.cpp,9f3c1feb000eee1f571c3136ed1f77aba284b2c6,2017-06-18 07:13:06-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Fixed indentation on bulletproof patch.
+native/common/jp_typemanager.cpp,90407bdfc40aae34b354d2510a7c853137686298,2017-06-30 13:33:06+02:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Fix bug for access violation in multithreaded Java calls.
+native/common/jp_typemanager.cpp,90407bdfc40aae34b354d2510a7c853137686298,2017-06-30 13:33:06+02:00,fd4153c8c0fc590b2a0cc9f83383ac9ceb186e34,2014-02-03 22:59:40+01:00,Fix bug for access violation in multithreaded Java calls.
+native/common/jp_typemanager.cpp,1cfb89739147192320400a9d7fd3adcfe3ae9cb8,2017-07-07 12:26:17+02:00,90407bdfc40aae34b354d2510a7c853137686298,2017-06-30 13:33:06+02:00,Fix typos
+native/common/jp_typemanager.cpp,1cfb89739147192320400a9d7fd3adcfe3ae9cb8,2017-07-07 12:26:17+02:00,5b28c3b98c58586806c8d7063522206525ad4951,2014-02-20 16:39:12+01:00,Fix typos
+native/common/jp_typemanager.cpp,1cfb89739147192320400a9d7fd3adcfe3ae9cb8,2017-07-07 12:26:17+02:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Fix typos
+native/common/jp_typemanager.cpp,1cfb89739147192320400a9d7fd3adcfe3ae9cb8,2017-07-07 12:26:17+02:00,fd4153c8c0fc590b2a0cc9f83383ac9ceb186e34,2014-02-03 22:59:40+01:00,Fix typos
+native/common/jp_typemanager.cpp,1cfb89739147192320400a9d7fd3adcfe3ae9cb8,2017-07-07 12:26:17+02:00,fe864e42f30b114dfe331bd9ac1716676e8e76ec,2014-02-19 21:14:44+01:00,Fix typos
+native/common/jp_typemanager.cpp,f16f070173da9a0fc3c55b32f4ba344d960db56e,2017-07-19 14:06:14+02:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Fix bug for access violation in multithreaded Java calls.
+native/common/jp_typemanager.cpp,e07982d692aa4186a931485acfb875e0f8270a27,2017-07-19 14:06:14+02:00,f16f070173da9a0fc3c55b32f4ba344d960db56e,2017-07-19 14:06:14+02:00,Fix typos
+native/common/jp_typemanager.cpp,e07982d692aa4186a931485acfb875e0f8270a27,2017-07-19 14:06:14+02:00,5b28c3b98c58586806c8d7063522206525ad4951,2014-02-20 16:39:12+01:00,Fix typos
+native/common/jp_typemanager.cpp,e07982d692aa4186a931485acfb875e0f8270a27,2017-07-19 14:06:14+02:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Fix typos
+native/common/jp_typemanager.cpp,e07982d692aa4186a931485acfb875e0f8270a27,2017-07-19 14:06:14+02:00,fd4153c8c0fc590b2a0cc9f83383ac9ceb186e34,2014-02-03 22:59:40+01:00,Fix typos
+native/common/jp_typemanager.cpp,e07982d692aa4186a931485acfb875e0f8270a27,2017-07-19 14:06:14+02:00,fe864e42f30b114dfe331bd9ac1716676e8e76ec,2014-02-19 21:14:44+01:00,Fix typos
+native/common/include/jp_array.h,4dcad749d09810675b22d63004418a2e95c78e3c,2017-08-15 11:32:11-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Work on fixing leak.
+native/common/include/jp_class.h,4dcad749d09810675b22d63004418a2e95c78e3c,2017-08-15 11:32:11-07:00,ff298b9ba6727ff28e4afe381615ee4f9cf1f3d0,2014-02-19 21:14:25+01:00,Work on fixing leak.
+native/common/include/jp_class.h,4dcad749d09810675b22d63004418a2e95c78e3c,2017-08-15 11:32:11-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Work on fixing leak.
+native/common/include/jp_classbase.h,4dcad749d09810675b22d63004418a2e95c78e3c,2017-08-15 11:32:11-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Work on fixing leak.
+native/common/include/jp_classbase.h,4dcad749d09810675b22d63004418a2e95c78e3c,2017-08-15 11:32:11-07:00,cb4326c8ed40d29a45ea12d43b53368951097409,2016-02-22 08:34:40+01:00,Work on fixing leak.
+native/common/include/jp_object.h,4dcad749d09810675b22d63004418a2e95c78e3c,2017-08-15 11:32:11-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Work on fixing leak.
+native/common/include/jp_object.h,4dcad749d09810675b22d63004418a2e95c78e3c,2017-08-15 11:32:11-07:00,6d19b20932d53636f3e2c744d4c8593ee637af61,2014-02-19 20:55:40+01:00,Work on fixing leak.
+native/common/include/jp_objecttypes.h,4dcad749d09810675b22d63004418a2e95c78e3c,2017-08-15 11:32:11-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Work on fixing leak.
+native/common/include/jp_objecttypes.h,4dcad749d09810675b22d63004418a2e95c78e3c,2017-08-15 11:32:11-07:00,1fb9b076b76f42565534b3ccb63a2370b022a10a,2014-02-24 22:25:44+01:00,Work on fixing leak.
+native/common/jp_class.cpp,4dcad749d09810675b22d63004418a2e95c78e3c,2017-08-15 11:32:11-07:00,8175145e63cb86542f21e61984f18b185f1b8a6b,2017-07-21 08:41:42-07:00,Work on fixing leak.
+native/common/jp_class.cpp,4dcad749d09810675b22d63004418a2e95c78e3c,2017-08-15 11:32:11-07:00,6d19b20932d53636f3e2c744d4c8593ee637af61,2014-02-19 20:55:40+01:00,Work on fixing leak.
+native/common/jp_class.cpp,4dcad749d09810675b22d63004418a2e95c78e3c,2017-08-15 11:32:11-07:00,ff298b9ba6727ff28e4afe381615ee4f9cf1f3d0,2014-02-19 21:14:25+01:00,Work on fixing leak.
+native/common/jp_class.cpp,4dcad749d09810675b22d63004418a2e95c78e3c,2017-08-15 11:32:11-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Work on fixing leak.
+native/common/jp_class.cpp,4dcad749d09810675b22d63004418a2e95c78e3c,2017-08-15 11:32:11-07:00,af2adc4226d4022befcea131066382ed4972c71e,2016-08-18 22:48:47+01:00,Work on fixing leak.
+native/common/jp_class.cpp,4dcad749d09810675b22d63004418a2e95c78e3c,2017-08-15 11:32:11-07:00,e820abe8314ac3ded31593ea3c5643f79ff9ec99,2017-06-20 09:34:36-07:00,Work on fixing leak.
+native/common/jp_env.cpp,4dcad749d09810675b22d63004418a2e95c78e3c,2017-08-15 11:32:11-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Work on fixing leak.
+native/common/jp_env.cpp,4dcad749d09810675b22d63004418a2e95c78e3c,2017-08-15 11:32:11-07:00,0afb3e612069e941d921bcd4c52ae674edd4dd64,2014-02-19 20:31:28+01:00,Work on fixing leak.
+native/common/jp_env.cpp,4dcad749d09810675b22d63004418a2e95c78e3c,2017-08-15 11:32:11-07:00,9faecb6dff8256a4554277cee93603deb821605a,2014-05-12 18:31:34+02:00,Work on fixing leak.
+native/common/jp_env.cpp,4dcad749d09810675b22d63004418a2e95c78e3c,2017-08-15 11:32:11-07:00,c79e7b7a5cb08489160bfaf388075a626d6eef1d,2015-04-13 20:31:42+02:00,Work on fixing leak.
+native/common/jp_env.cpp,4dcad749d09810675b22d63004418a2e95c78e3c,2017-08-15 11:32:11-07:00,e3fac2485db9ab739a2af9461e5b18ecd874f233,2015-04-07 10:28:59-07:00,Work on fixing leak.
+native/common/jp_field.cpp,4dcad749d09810675b22d63004418a2e95c78e3c,2017-08-15 11:32:11-07:00,5eab7cb1e6af407f89935863c73cf1d45c40712c,2015-03-03 08:28:31+01:00,Work on fixing leak.
+native/common/jp_field.cpp,4dcad749d09810675b22d63004418a2e95c78e3c,2017-08-15 11:32:11-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Work on fixing leak.
+native/common/jp_methodoverload.cpp,4dcad749d09810675b22d63004418a2e95c78e3c,2017-08-15 11:32:11-07:00,5eab7cb1e6af407f89935863c73cf1d45c40712c,2015-03-03 08:28:31+01:00,Work on fixing leak.
+native/common/jp_methodoverload.cpp,4dcad749d09810675b22d63004418a2e95c78e3c,2017-08-15 11:32:11-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Work on fixing leak.
+native/common/jp_methodoverload.cpp,4dcad749d09810675b22d63004418a2e95c78e3c,2017-08-15 11:32:11-07:00,cb4326c8ed40d29a45ea12d43b53368951097409,2016-02-22 08:34:40+01:00,Work on fixing leak.
+native/common/jp_methodoverload.cpp,4dcad749d09810675b22d63004418a2e95c78e3c,2017-08-15 11:32:11-07:00,2aa10ef569a1eeb3e098ad8a789f1c1863b89419,2017-06-16 08:33:58-07:00,Work on fixing leak.
+native/common/jp_objecttypes.cpp,4dcad749d09810675b22d63004418a2e95c78e3c,2017-08-15 11:32:11-07:00,5eab7cb1e6af407f89935863c73cf1d45c40712c,2015-03-03 08:28:31+01:00,Work on fixing leak.
+native/common/jp_objecttypes.cpp,4dcad749d09810675b22d63004418a2e95c78e3c,2017-08-15 11:32:11-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Work on fixing leak.
+native/common/jp_objecttypes.cpp,4dcad749d09810675b22d63004418a2e95c78e3c,2017-08-15 11:32:11-07:00,cb4326c8ed40d29a45ea12d43b53368951097409,2016-02-22 08:34:40+01:00,Work on fixing leak.
+native/common/jp_objecttypes.cpp,4dcad749d09810675b22d63004418a2e95c78e3c,2017-08-15 11:32:11-07:00,1a9b3cdf9e1c3b5ae71abb37d031af74d25725e3,2013-09-06 15:56:25+01:00,Work on fixing leak.
+native/common/jp_primitivetypes.cpp,4dcad749d09810675b22d63004418a2e95c78e3c,2017-08-15 11:32:11-07:00,1a9b3cdf9e1c3b5ae71abb37d031af74d25725e3,2013-09-06 15:56:25+01:00,Work on fixing leak.
+native/common/jp_primitivetypes.cpp,4dcad749d09810675b22d63004418a2e95c78e3c,2017-08-15 11:32:11-07:00,5a90161a1cc9512e82f4b28cae5fdaa1663d7738,2015-12-21 10:59:20+01:00,Work on fixing leak.
+native/common/jp_primitivetypes.cpp,4dcad749d09810675b22d63004418a2e95c78e3c,2017-08-15 11:32:11-07:00,5eab7cb1e6af407f89935863c73cf1d45c40712c,2015-03-03 08:28:31+01:00,Work on fixing leak.
+native/common/jp_primitivetypes.cpp,4dcad749d09810675b22d63004418a2e95c78e3c,2017-08-15 11:32:11-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Work on fixing leak.
+native/common/jp_primitivetypes.cpp,4dcad749d09810675b22d63004418a2e95c78e3c,2017-08-15 11:32:11-07:00,e820abe8314ac3ded31593ea3c5643f79ff9ec99,2017-06-20 09:34:36-07:00,Work on fixing leak.
+native/common/jp_proxy.cpp,4dcad749d09810675b22d63004418a2e95c78e3c,2017-08-15 11:32:11-07:00,15c401521d97468c35e1d4bbc5d96ab84391dc34,2015-04-07 11:14:24-07:00,Work on fixing leak.
+native/common/jp_proxy.cpp,4dcad749d09810675b22d63004418a2e95c78e3c,2017-08-15 11:32:11-07:00,1a9b3cdf9e1c3b5ae71abb37d031af74d25725e3,2013-09-06 15:56:25+01:00,Work on fixing leak.
+native/common/jp_proxy.cpp,4dcad749d09810675b22d63004418a2e95c78e3c,2017-08-15 11:32:11-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Work on fixing leak.
+native/common/jp_proxy.cpp,4dcad749d09810675b22d63004418a2e95c78e3c,2017-08-15 11:32:11-07:00,02a8b086de66c1ed54969e4831d7d1a8b0c727aa,2014-10-17 18:25:29+02:00,Work on fixing leak.
+native/common/jp_proxy.cpp,4dcad749d09810675b22d63004418a2e95c78e3c,2017-08-15 11:32:11-07:00,2ba569f667082018029c0aa3ae45c5d15e45e4c2,2014-07-08 18:13:59+02:00,Work on fixing leak.
+native/common/jp_proxy.cpp,4dcad749d09810675b22d63004418a2e95c78e3c,2017-08-15 11:32:11-07:00,841289c3ae05a8fbbf47e30531483bfaf7d92498,2016-03-05 14:44:58+01:00,Work on fixing leak.
+native/common/jp_proxy.cpp,4dcad749d09810675b22d63004418a2e95c78e3c,2017-08-15 11:32:11-07:00,e1d5d83c4c580334ba04bdceccb0d12c0f5a8d8c,2014-02-20 16:39:12+01:00,Work on fixing leak.
+native/python/jpype_module.cpp,4dcad749d09810675b22d63004418a2e95c78e3c,2017-08-15 11:32:11-07:00,7a9a83dd275904cd4ab7838c1161279202b841e8,2017-06-18 07:05:17-07:00,Work on fixing leak.
+native/python/jpype_module.cpp,4dcad749d09810675b22d63004418a2e95c78e3c,2017-08-15 11:32:11-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Work on fixing leak.
+native/python/jpype_module.cpp,4dcad749d09810675b22d63004418a2e95c78e3c,2017-08-15 11:32:11-07:00,e2288a3ca3c8a3fa52aac2413b18797298c8d065,2017-07-21 07:25:33-07:00,Work on fixing leak.
+native/python/jpype_python.cpp,4dcad749d09810675b22d63004418a2e95c78e3c,2017-08-15 11:32:11-07:00,1a9b3cdf9e1c3b5ae71abb37d031af74d25725e3,2013-09-06 15:56:25+01:00,Work on fixing leak.
+native/python/jpype_python.cpp,4dcad749d09810675b22d63004418a2e95c78e3c,2017-08-15 11:32:11-07:00,5eab7cb1e6af407f89935863c73cf1d45c40712c,2015-03-03 08:28:31+01:00,Work on fixing leak.
+native/python/jpype_python.cpp,4dcad749d09810675b22d63004418a2e95c78e3c,2017-08-15 11:32:11-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Work on fixing leak.
+native/python/jpype_python.cpp,4dcad749d09810675b22d63004418a2e95c78e3c,2017-08-15 11:32:11-07:00,80d9e868a76e35eea32fb53f0f28d0660aa5ac23,2014-07-14 19:13:12+02:00,Work on fixing leak.
+native/python/jpype_python.cpp,4dcad749d09810675b22d63004418a2e95c78e3c,2017-08-15 11:32:11-07:00,e2288a3ca3c8a3fa52aac2413b18797298c8d065,2017-07-21 07:25:33-07:00,Work on fixing leak.
+native/python/jpype_python.cpp,4dcad749d09810675b22d63004418a2e95c78e3c,2017-08-15 11:32:11-07:00,b97f50391fb5bf768ec11f55f9631315412fe2ac,2015-04-07 10:28:58-07:00,Work on fixing leak.
+native/python/jpype_python.cpp,4dcad749d09810675b22d63004418a2e95c78e3c,2017-08-15 11:32:11-07:00,118280c87092cccc66519a80044f2f94c870768f,2015-04-07 10:28:58-07:00,Work on fixing leak.
+native/python/py_class.cpp,4dcad749d09810675b22d63004418a2e95c78e3c,2017-08-15 11:32:11-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Work on fixing leak.
+native/python/py_field.cpp,4dcad749d09810675b22d63004418a2e95c78e3c,2017-08-15 11:32:11-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Work on fixing leak.
+native/python/py_field.cpp,4dcad749d09810675b22d63004418a2e95c78e3c,2017-08-15 11:32:11-07:00,a770594b0dc46b64adf5fb5d2148a42d250e2279,2015-04-07 10:28:58-07:00,Work on fixing leak.
+native/python/py_hostenv.cpp,4dcad749d09810675b22d63004418a2e95c78e3c,2017-08-15 11:32:11-07:00,b97f50391fb5bf768ec11f55f9631315412fe2ac,2015-04-07 10:28:58-07:00,Work on fixing leak.
+native/python/py_hostenv.cpp,4dcad749d09810675b22d63004418a2e95c78e3c,2017-08-15 11:32:11-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Work on fixing leak.
+native/python/py_hostenv.cpp,4dcad749d09810675b22d63004418a2e95c78e3c,2017-08-15 11:32:11-07:00,1a9b3cdf9e1c3b5ae71abb37d031af74d25725e3,2013-09-06 15:56:25+01:00,Work on fixing leak.
+native/python/py_hostenv.cpp,4dcad749d09810675b22d63004418a2e95c78e3c,2017-08-15 11:32:11-07:00,e2288a3ca3c8a3fa52aac2413b18797298c8d065,2017-07-21 07:25:33-07:00,Work on fixing leak.
+native/common/include/jp_arrayclass.h,c5eba42a94dfb6eed857f752a10929aeaa1a3b51,2017-08-15 11:33:31-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Work on fixing leaks.
+native/common/include/jp_class.h,c5eba42a94dfb6eed857f752a10929aeaa1a3b51,2017-08-15 11:33:31-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Work on fixing leaks.
+native/common/include/jp_objecttypes.h,c5eba42a94dfb6eed857f752a10929aeaa1a3b51,2017-08-15 11:33:31-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Work on fixing leaks.
+native/common/include/jp_primitivetypes.h,c5eba42a94dfb6eed857f752a10929aeaa1a3b51,2017-08-15 11:33:31-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Work on fixing leaks.
+native/common/include/jp_type.h,c5eba42a94dfb6eed857f752a10929aeaa1a3b51,2017-08-15 11:33:31-07:00,6d19b20932d53636f3e2c744d4c8593ee637af61,2014-02-19 20:55:40+01:00,Work on fixing leaks.
+native/common/include/jp_type.h,c5eba42a94dfb6eed857f752a10929aeaa1a3b51,2017-08-15 11:33:31-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Work on fixing leaks.
+native/common/jp_arrayclass.cpp,c5eba42a94dfb6eed857f752a10929aeaa1a3b51,2017-08-15 11:33:31-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Work on fixing leaks.
+native/common/jp_arrayclass.cpp,c5eba42a94dfb6eed857f752a10929aeaa1a3b51,2017-08-15 11:33:31-07:00,2aa10ef569a1eeb3e098ad8a789f1c1863b89419,2017-06-16 08:33:58-07:00,Work on fixing leaks.
+native/common/jp_arrayclass.cpp,c5eba42a94dfb6eed857f752a10929aeaa1a3b51,2017-08-15 11:33:31-07:00,e2288a3ca3c8a3fa52aac2413b18797298c8d065,2017-07-21 07:25:33-07:00,Work on fixing leaks.
+native/common/jp_class.cpp,c5eba42a94dfb6eed857f752a10929aeaa1a3b51,2017-08-15 11:33:31-07:00,4dcad749d09810675b22d63004418a2e95c78e3c,2017-08-15 11:32:11-07:00,Work on fixing leaks.
+native/common/jp_class.cpp,c5eba42a94dfb6eed857f752a10929aeaa1a3b51,2017-08-15 11:33:31-07:00,8175145e63cb86542f21e61984f18b185f1b8a6b,2017-07-21 08:41:42-07:00,Work on fixing leaks.
+native/common/jp_class.cpp,c5eba42a94dfb6eed857f752a10929aeaa1a3b51,2017-08-15 11:33:31-07:00,6d19b20932d53636f3e2c744d4c8593ee637af61,2014-02-19 20:55:40+01:00,Work on fixing leaks.
+native/common/jp_class.cpp,c5eba42a94dfb6eed857f752a10929aeaa1a3b51,2017-08-15 11:33:31-07:00,ff298b9ba6727ff28e4afe381615ee4f9cf1f3d0,2014-02-19 21:14:25+01:00,Work on fixing leaks.
+native/common/jp_class.cpp,c5eba42a94dfb6eed857f752a10929aeaa1a3b51,2017-08-15 11:33:31-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Work on fixing leaks.
+native/common/jp_class.cpp,c5eba42a94dfb6eed857f752a10929aeaa1a3b51,2017-08-15 11:33:31-07:00,af2adc4226d4022befcea131066382ed4972c71e,2016-08-18 22:48:47+01:00,Work on fixing leaks.
+native/common/jp_class.cpp,c5eba42a94dfb6eed857f752a10929aeaa1a3b51,2017-08-15 11:33:31-07:00,e820abe8314ac3ded31593ea3c5643f79ff9ec99,2017-06-20 09:34:36-07:00,Work on fixing leaks.
+native/common/jp_methodoverload.cpp,c5eba42a94dfb6eed857f752a10929aeaa1a3b51,2017-08-15 11:33:31-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Work on fixing leaks.
+native/common/jp_methodoverload.cpp,c5eba42a94dfb6eed857f752a10929aeaa1a3b51,2017-08-15 11:33:31-07:00,cb4326c8ed40d29a45ea12d43b53368951097409,2016-02-22 08:34:40+01:00,Work on fixing leaks.
+native/common/jp_methodoverload.cpp,c5eba42a94dfb6eed857f752a10929aeaa1a3b51,2017-08-15 11:33:31-07:00,2aa10ef569a1eeb3e098ad8a789f1c1863b89419,2017-06-16 08:33:58-07:00,Work on fixing leaks.
+native/common/jp_methodoverload.cpp,c5eba42a94dfb6eed857f752a10929aeaa1a3b51,2017-08-15 11:33:31-07:00,4dcad749d09810675b22d63004418a2e95c78e3c,2017-08-15 11:32:11-07:00,Work on fixing leaks.
+native/common/jp_objecttypes.cpp,c5eba42a94dfb6eed857f752a10929aeaa1a3b51,2017-08-15 11:33:31-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Work on fixing leaks.
+native/common/jp_objecttypes.cpp,c5eba42a94dfb6eed857f752a10929aeaa1a3b51,2017-08-15 11:33:31-07:00,cb4326c8ed40d29a45ea12d43b53368951097409,2016-02-22 08:34:40+01:00,Work on fixing leaks.
+native/common/jp_objecttypes.cpp,c5eba42a94dfb6eed857f752a10929aeaa1a3b51,2017-08-15 11:33:31-07:00,1a9b3cdf9e1c3b5ae71abb37d031af74d25725e3,2013-09-06 15:56:25+01:00,Work on fixing leaks.
+native/common/jp_objecttypes.cpp,c5eba42a94dfb6eed857f752a10929aeaa1a3b51,2017-08-15 11:33:31-07:00,4dcad749d09810675b22d63004418a2e95c78e3c,2017-08-15 11:32:11-07:00,Work on fixing leaks.
+native/common/jp_primitivetypes.cpp,c5eba42a94dfb6eed857f752a10929aeaa1a3b51,2017-08-15 11:33:31-07:00,4dcad749d09810675b22d63004418a2e95c78e3c,2017-08-15 11:32:11-07:00,Work on fixing leaks.
+native/common/jp_primitivetypes.cpp,c5eba42a94dfb6eed857f752a10929aeaa1a3b51,2017-08-15 11:33:31-07:00,1a9b3cdf9e1c3b5ae71abb37d031af74d25725e3,2013-09-06 15:56:25+01:00,Work on fixing leaks.
+native/common/jp_primitivetypes.cpp,c5eba42a94dfb6eed857f752a10929aeaa1a3b51,2017-08-15 11:33:31-07:00,5a90161a1cc9512e82f4b28cae5fdaa1663d7738,2015-12-21 10:59:20+01:00,Work on fixing leaks.
+native/common/jp_primitivetypes.cpp,c5eba42a94dfb6eed857f752a10929aeaa1a3b51,2017-08-15 11:33:31-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Work on fixing leaks.
+native/common/jp_primitivetypes.cpp,c5eba42a94dfb6eed857f752a10929aeaa1a3b51,2017-08-15 11:33:31-07:00,e820abe8314ac3ded31593ea3c5643f79ff9ec99,2017-06-20 09:34:36-07:00,Work on fixing leaks.
+native/common/jp_primitivetypes_autogen.cpp,c5eba42a94dfb6eed857f752a10929aeaa1a3b51,2017-08-15 11:33:31-07:00,a38142e7b8fd724a7b26c3f293644d3d66d11f54,2014-02-25 16:29:42+01:00,Work on fixing leaks.
+native/common/jp_primitivetypes_autogen.cpp,c5eba42a94dfb6eed857f752a10929aeaa1a3b51,2017-08-15 11:33:31-07:00,3b215bbd15b5b7b0ee1a4e384d0575c4790d499f,2014-04-22 20:57:22+02:00,Work on fixing leaks.
+native/common/jp_primitivetypes_autogen.cpp,c5eba42a94dfb6eed857f752a10929aeaa1a3b51,2017-08-15 11:33:31-07:00,e443f57c976c63c3adbaf1ccf27d1912c02986e8,2014-02-06 15:30:45+01:00,Work on fixing leaks.
+native/common/jp_primitivetypes_autogen.cpp,c5eba42a94dfb6eed857f752a10929aeaa1a3b51,2017-08-15 11:33:31-07:00,a0dd27ce5d7a041dceee374e2071a1fa668ce3b1,2014-04-29 14:15:23-07:00,Work on fixing leaks.
+native/common/jp_primitivetypes_autogen.cpp,c5eba42a94dfb6eed857f752a10929aeaa1a3b51,2017-08-15 11:33:31-07:00,f49b78d8ed51be16818edf6cda22198c435d277e,2014-02-06 16:04:21+01:00,Work on fixing leaks.
+native/common/jp_primitivetypes_autogen.cpp,c5eba42a94dfb6eed857f752a10929aeaa1a3b51,2017-08-15 11:33:31-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Work on fixing leaks.
+native/common/jp_primitivetypes_autogen.cpp,c5eba42a94dfb6eed857f752a10929aeaa1a3b51,2017-08-15 11:33:31-07:00,cec8f336d24bc77059d6c2cd2717ec62c88aa0d0,2014-07-17 16:59:49+02:00,Work on fixing leaks.
+native/common/jp_primitivetypes_autogen.cpp,c5eba42a94dfb6eed857f752a10929aeaa1a3b51,2017-08-15 11:33:31-07:00,841289c3ae05a8fbbf47e30531483bfaf7d92498,2016-03-05 14:44:58+01:00,Work on fixing leaks.
+native/common/jp_primitivetypes_autogen.cpp,c5eba42a94dfb6eed857f752a10929aeaa1a3b51,2017-08-15 11:33:31-07:00,80d9e868a76e35eea32fb53f0f28d0660aa5ac23,2014-07-14 19:13:12+02:00,Work on fixing leaks.
+native/common/jp_primitivetypes_autogen.cpp,c5eba42a94dfb6eed857f752a10929aeaa1a3b51,2017-08-15 11:33:31-07:00,6e217b28777c79a902b6b463063b4f3295621c7b,2014-07-17 17:43:15+02:00,Work on fixing leaks.
+native/common/jp_primitivetypes_autogen.cpp,c5eba42a94dfb6eed857f752a10929aeaa1a3b51,2017-08-15 11:33:31-07:00,85051ec8c0279601dd753febb90aa6735120845c,2014-02-24 22:25:44+01:00,Work on fixing leaks.
+native/common/jp_proxy.cpp,c5eba42a94dfb6eed857f752a10929aeaa1a3b51,2017-08-15 11:33:31-07:00,4dcad749d09810675b22d63004418a2e95c78e3c,2017-08-15 11:32:11-07:00,Work on fixing leaks.
+native/common/jp_proxy.cpp,c5eba42a94dfb6eed857f752a10929aeaa1a3b51,2017-08-15 11:33:31-07:00,15c401521d97468c35e1d4bbc5d96ab84391dc34,2015-04-07 11:14:24-07:00,Work on fixing leaks.
+native/common/jp_proxy.cpp,c5eba42a94dfb6eed857f752a10929aeaa1a3b51,2017-08-15 11:33:31-07:00,1a9b3cdf9e1c3b5ae71abb37d031af74d25725e3,2013-09-06 15:56:25+01:00,Work on fixing leaks.
+native/common/jp_proxy.cpp,c5eba42a94dfb6eed857f752a10929aeaa1a3b51,2017-08-15 11:33:31-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Work on fixing leaks.
+native/common/jp_proxy.cpp,c5eba42a94dfb6eed857f752a10929aeaa1a3b51,2017-08-15 11:33:31-07:00,02a8b086de66c1ed54969e4831d7d1a8b0c727aa,2014-10-17 18:25:29+02:00,Work on fixing leaks.
+native/common/jp_proxy.cpp,c5eba42a94dfb6eed857f752a10929aeaa1a3b51,2017-08-15 11:33:31-07:00,2ba569f667082018029c0aa3ae45c5d15e45e4c2,2014-07-08 18:13:59+02:00,Work on fixing leaks.
+native/common/jp_proxy.cpp,c5eba42a94dfb6eed857f752a10929aeaa1a3b51,2017-08-15 11:33:31-07:00,841289c3ae05a8fbbf47e30531483bfaf7d92498,2016-03-05 14:44:58+01:00,Work on fixing leaks.
+native/common/jp_proxy.cpp,c5eba42a94dfb6eed857f752a10929aeaa1a3b51,2017-08-15 11:33:31-07:00,e1d5d83c4c580334ba04bdceccb0d12c0f5a8d8c,2014-02-20 16:39:12+01:00,Work on fixing leaks.
+native/common/jp_voidtype.cpp,c5eba42a94dfb6eed857f752a10929aeaa1a3b51,2017-08-15 11:33:31-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Work on fixing leaks.
+native/python/jpype_python.cpp,c5eba42a94dfb6eed857f752a10929aeaa1a3b51,2017-08-15 11:33:31-07:00,4dcad749d09810675b22d63004418a2e95c78e3c,2017-08-15 11:32:11-07:00,Work on fixing leaks.
+native/python/jpype_python.cpp,c5eba42a94dfb6eed857f752a10929aeaa1a3b51,2017-08-15 11:33:31-07:00,7a9a83dd275904cd4ab7838c1161279202b841e8,2017-06-18 07:05:17-07:00,Work on fixing leaks.
+native/python/jpype_python.cpp,c5eba42a94dfb6eed857f752a10929aeaa1a3b51,2017-08-15 11:33:31-07:00,1a9b3cdf9e1c3b5ae71abb37d031af74d25725e3,2013-09-06 15:56:25+01:00,Work on fixing leaks.
+native/python/jpype_python.cpp,c5eba42a94dfb6eed857f752a10929aeaa1a3b51,2017-08-15 11:33:31-07:00,5eab7cb1e6af407f89935863c73cf1d45c40712c,2015-03-03 08:28:31+01:00,Work on fixing leaks.
+native/python/jpype_python.cpp,c5eba42a94dfb6eed857f752a10929aeaa1a3b51,2017-08-15 11:33:31-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Work on fixing leaks.
+native/python/jpype_python.cpp,c5eba42a94dfb6eed857f752a10929aeaa1a3b51,2017-08-15 11:33:31-07:00,80d9e868a76e35eea32fb53f0f28d0660aa5ac23,2014-07-14 19:13:12+02:00,Work on fixing leaks.
+native/python/jpype_python.cpp,c5eba42a94dfb6eed857f752a10929aeaa1a3b51,2017-08-15 11:33:31-07:00,e2288a3ca3c8a3fa52aac2413b18797298c8d065,2017-07-21 07:25:33-07:00,Work on fixing leaks.
+native/python/jpype_python.cpp,c5eba42a94dfb6eed857f752a10929aeaa1a3b51,2017-08-15 11:33:31-07:00,b97f50391fb5bf768ec11f55f9631315412fe2ac,2015-04-07 10:28:58-07:00,Work on fixing leaks.
+native/python/jpype_python.cpp,c5eba42a94dfb6eed857f752a10929aeaa1a3b51,2017-08-15 11:33:31-07:00,118280c87092cccc66519a80044f2f94c870768f,2015-04-07 10:28:58-07:00,Work on fixing leaks.
+native/common/include/jp_object.h,d4c3c8bcb65bf61709d7d07eaed4bc2f5bdd19f5,2017-08-15 11:33:31-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Work for leak fix.
+native/common/jp_class.cpp,d4c3c8bcb65bf61709d7d07eaed4bc2f5bdd19f5,2017-08-15 11:33:31-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Work for leak fix.
+native/common/jp_objecttypes.cpp,d4c3c8bcb65bf61709d7d07eaed4bc2f5bdd19f5,2017-08-15 11:33:31-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Work for leak fix.
+native/common/jp_primitivetypes.cpp,d4c3c8bcb65bf61709d7d07eaed4bc2f5bdd19f5,2017-08-15 11:33:31-07:00,c5eba42a94dfb6eed857f752a10929aeaa1a3b51,2017-08-15 11:33:31-07:00,Work for leak fix.
+native/common/jp_primitivetypes.cpp,d4c3c8bcb65bf61709d7d07eaed4bc2f5bdd19f5,2017-08-15 11:33:31-07:00,4dcad749d09810675b22d63004418a2e95c78e3c,2017-08-15 11:32:11-07:00,Work for leak fix.
+native/common/jp_primitivetypes.cpp,d4c3c8bcb65bf61709d7d07eaed4bc2f5bdd19f5,2017-08-15 11:33:31-07:00,1a9b3cdf9e1c3b5ae71abb37d031af74d25725e3,2013-09-06 15:56:25+01:00,Work for leak fix.
+native/common/jp_primitivetypes.cpp,d4c3c8bcb65bf61709d7d07eaed4bc2f5bdd19f5,2017-08-15 11:33:31-07:00,5a90161a1cc9512e82f4b28cae5fdaa1663d7738,2015-12-21 10:59:20+01:00,Work for leak fix.
+native/common/jp_primitivetypes.cpp,d4c3c8bcb65bf61709d7d07eaed4bc2f5bdd19f5,2017-08-15 11:33:31-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Work for leak fix.
+native/common/jp_primitivetypes.cpp,d4c3c8bcb65bf61709d7d07eaed4bc2f5bdd19f5,2017-08-15 11:33:31-07:00,e820abe8314ac3ded31593ea3c5643f79ff9ec99,2017-06-20 09:34:36-07:00,Work for leak fix.
+native/common/jp_proxy.cpp,d4c3c8bcb65bf61709d7d07eaed4bc2f5bdd19f5,2017-08-15 11:33:31-07:00,c5eba42a94dfb6eed857f752a10929aeaa1a3b51,2017-08-15 11:33:31-07:00,Work for leak fix.
+native/common/jp_proxy.cpp,d4c3c8bcb65bf61709d7d07eaed4bc2f5bdd19f5,2017-08-15 11:33:31-07:00,4dcad749d09810675b22d63004418a2e95c78e3c,2017-08-15 11:32:11-07:00,Work for leak fix.
+native/common/jp_proxy.cpp,d4c3c8bcb65bf61709d7d07eaed4bc2f5bdd19f5,2017-08-15 11:33:31-07:00,15c401521d97468c35e1d4bbc5d96ab84391dc34,2015-04-07 11:14:24-07:00,Work for leak fix.
+native/common/jp_proxy.cpp,d4c3c8bcb65bf61709d7d07eaed4bc2f5bdd19f5,2017-08-15 11:33:31-07:00,1a9b3cdf9e1c3b5ae71abb37d031af74d25725e3,2013-09-06 15:56:25+01:00,Work for leak fix.
+native/common/jp_proxy.cpp,d4c3c8bcb65bf61709d7d07eaed4bc2f5bdd19f5,2017-08-15 11:33:31-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Work for leak fix.
+native/common/jp_proxy.cpp,d4c3c8bcb65bf61709d7d07eaed4bc2f5bdd19f5,2017-08-15 11:33:31-07:00,02a8b086de66c1ed54969e4831d7d1a8b0c727aa,2014-10-17 18:25:29+02:00,Work for leak fix.
+native/common/jp_proxy.cpp,d4c3c8bcb65bf61709d7d07eaed4bc2f5bdd19f5,2017-08-15 11:33:31-07:00,2ba569f667082018029c0aa3ae45c5d15e45e4c2,2014-07-08 18:13:59+02:00,Work for leak fix.
+native/common/jp_proxy.cpp,d4c3c8bcb65bf61709d7d07eaed4bc2f5bdd19f5,2017-08-15 11:33:31-07:00,e1d5d83c4c580334ba04bdceccb0d12c0f5a8d8c,2014-02-20 16:39:12+01:00,Work for leak fix.
+test/jpypetest/proxy.py,d4c3c8bcb65bf61709d7d07eaed4bc2f5bdd19f5,2017-08-15 11:33:31-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Work for leak fix.
+test/jpypetest/proxy.py,d4c3c8bcb65bf61709d7d07eaed4bc2f5bdd19f5,2017-08-15 11:33:31-07:00,de9df9fbb158a2e9869b488a3238130b340fc589,2015-02-14 23:29:12+01:00,Work for leak fix.
+native/common/jp_javaenv.cpp,ce2177d6e2bbb6c1fa4088cf5baee5adb2d61f23,2017-08-15 11:33:31-07:00,d183bac29c78300038b747f7bf6fea9f09d192e9,2014-07-14 17:08:52+02:00,Work on leak.
+native/common/jp_javaenv.cpp,ce2177d6e2bbb6c1fa4088cf5baee5adb2d61f23,2017-08-15 11:33:31-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Work on leak.
+native/common/jp_javaenv.cpp,ce2177d6e2bbb6c1fa4088cf5baee5adb2d61f23,2017-08-15 11:33:31-07:00,e820abe8314ac3ded31593ea3c5643f79ff9ec99,2017-06-20 09:34:36-07:00,Work on leak.
+native/common/include/jp_array.h,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Work on local reference leaks.
+native/common/include/jp_array.h,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,4dcad749d09810675b22d63004418a2e95c78e3c,2017-08-15 11:32:11-07:00,Work on local reference leaks.
+native/common/include/jp_arrayclass.h,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Work on local reference leaks.
+native/common/include/jp_class.h,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,c5eba42a94dfb6eed857f752a10929aeaa1a3b51,2017-08-15 11:33:31-07:00,Work on local reference leaks.
+native/common/include/jp_class.h,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,4dcad749d09810675b22d63004418a2e95c78e3c,2017-08-15 11:32:11-07:00,Work on local reference leaks.
+native/common/include/jp_class.h,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,ff298b9ba6727ff28e4afe381615ee4f9cf1f3d0,2014-02-19 21:14:25+01:00,Work on local reference leaks.
+native/common/include/jp_class.h,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Work on local reference leaks.
+native/common/include/jp_class.h,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,75d1e0c7c0e34ffa32a618ccd2155d01fea131ec,2017-08-15 11:33:31-07:00,Work on local reference leaks.
+native/common/include/jp_classbase.h,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Work on local reference leaks.
+native/common/include/jp_classbase.h,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,4dcad749d09810675b22d63004418a2e95c78e3c,2017-08-15 11:32:11-07:00,Work on local reference leaks.
+native/common/include/jp_env.h,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,5b28c3b98c58586806c8d7063522206525ad4951,2014-02-20 16:39:12+01:00,Work on local reference leaks.
+native/common/include/jp_env.h,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Work on local reference leaks.
+native/common/include/jp_javaenv.h,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,d183bac29c78300038b747f7bf6fea9f09d192e9,2014-07-14 17:08:52+02:00,Work on local reference leaks.
+native/common/include/jp_javaenv.h,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Work on local reference leaks.
+native/common/include/jp_jniutil.h,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,5b28c3b98c58586806c8d7063522206525ad4951,2014-02-20 16:39:12+01:00,Work on local reference leaks.
+native/common/include/jp_jniutil.h,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Work on local reference leaks.
+native/common/include/jp_jniutil.h,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,cb4326c8ed40d29a45ea12d43b53368951097409,2016-02-22 08:34:40+01:00,Work on local reference leaks.
+native/common/include/jp_methodoverload.h,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Work on local reference leaks.
+native/common/include/jp_object.h,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Work on local reference leaks.
+native/common/include/jp_object.h,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,6d19b20932d53636f3e2c744d4c8593ee637af61,2014-02-19 20:55:40+01:00,Work on local reference leaks.
+native/common/include/jp_object.h,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,4dcad749d09810675b22d63004418a2e95c78e3c,2017-08-15 11:32:11-07:00,Work on local reference leaks.
+native/common/include/jp_objecttypes.h,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Work on local reference leaks.
+native/common/include/jp_objecttypes.h,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,1fb9b076b76f42565534b3ccb63a2370b022a10a,2014-02-24 22:25:44+01:00,Work on local reference leaks.
+native/common/include/jp_primitivetypes.h,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Work on local reference leaks.
+native/common/include/jp_proxy.h,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Work on local reference leaks.
+native/common/include/jp_proxy.h,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,1b3b0b6736b0e35d5dc63b55af50f11ed21848b7,2014-02-20 16:31:19+01:00,Work on local reference leaks.
+native/common/include/jp_type.h,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,6d19b20932d53636f3e2c744d4c8593ee637af61,2014-02-19 20:55:40+01:00,Work on local reference leaks.
+native/common/include/jp_type.h,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Work on local reference leaks.
+native/common/jp_arrayclass.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,c5eba42a94dfb6eed857f752a10929aeaa1a3b51,2017-08-15 11:33:31-07:00,Work on local reference leaks.
+native/common/jp_arrayclass.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Work on local reference leaks.
+native/common/jp_arrayclass.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,2aa10ef569a1eeb3e098ad8a789f1c1863b89419,2017-06-16 08:33:58-07:00,Work on local reference leaks.
+native/common/jp_arrayclass.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,e2288a3ca3c8a3fa52aac2413b18797298c8d065,2017-07-21 07:25:33-07:00,Work on local reference leaks.
+native/common/jp_class.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,c5eba42a94dfb6eed857f752a10929aeaa1a3b51,2017-08-15 11:33:31-07:00,Work on local reference leaks.
+native/common/jp_class.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,4dcad749d09810675b22d63004418a2e95c78e3c,2017-08-15 11:32:11-07:00,Work on local reference leaks.
+native/common/jp_class.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,ff298b9ba6727ff28e4afe381615ee4f9cf1f3d0,2014-02-19 21:14:25+01:00,Work on local reference leaks.
+native/common/jp_class.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,6d19b20932d53636f3e2c744d4c8593ee637af61,2014-02-19 20:55:40+01:00,Work on local reference leaks.
+native/common/jp_class.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,8175145e63cb86542f21e61984f18b185f1b8a6b,2017-07-21 08:41:42-07:00,Work on local reference leaks.
+native/common/jp_class.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Work on local reference leaks.
+native/common/jp_class.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,cb4326c8ed40d29a45ea12d43b53368951097409,2016-02-22 08:34:40+01:00,Work on local reference leaks.
+native/common/jp_class.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,6ba930287e924fbf3f43b8fdfbc47025e8d0c8a1,2014-01-24 19:06:55+01:00,Work on local reference leaks.
+native/common/jp_class.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,e820abe8314ac3ded31593ea3c5643f79ff9ec99,2017-06-20 09:34:36-07:00,Work on local reference leaks.
+native/common/jp_class.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,e2288a3ca3c8a3fa52aac2413b18797298c8d065,2017-07-21 07:25:33-07:00,Work on local reference leaks.
+native/common/jp_class.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,d4c3c8bcb65bf61709d7d07eaed4bc2f5bdd19f5,2017-08-15 11:33:31-07:00,Work on local reference leaks.
+native/common/jp_class.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,af2adc4226d4022befcea131066382ed4972c71e,2016-08-18 22:48:47+01:00,Work on local reference leaks.
+native/common/jp_env.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Work on local reference leaks.
+native/common/jp_env.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,0afb3e612069e941d921bcd4c52ae674edd4dd64,2014-02-19 20:31:28+01:00,Work on local reference leaks.
+native/common/jp_env.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,9faecb6dff8256a4554277cee93603deb821605a,2014-05-12 18:31:34+02:00,Work on local reference leaks.
+native/common/jp_env.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,c79e7b7a5cb08489160bfaf388075a626d6eef1d,2015-04-13 20:31:42+02:00,Work on local reference leaks.
+native/common/jp_env.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,e3fac2485db9ab739a2af9461e5b18ecd874f233,2015-04-07 10:28:59-07:00,Work on local reference leaks.
+native/common/jp_javaenv.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,d183bac29c78300038b747f7bf6fea9f09d192e9,2014-07-14 17:08:52+02:00,Work on local reference leaks.
+native/common/jp_javaenv.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Work on local reference leaks.
+native/common/jp_javaenv.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,e820abe8314ac3ded31593ea3c5643f79ff9ec99,2017-06-20 09:34:36-07:00,Work on local reference leaks.
+native/common/jp_javaenv.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,ce2177d6e2bbb6c1fa4088cf5baee5adb2d61f23,2017-08-15 11:33:31-07:00,Work on local reference leaks.
+native/common/jp_jniutil.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,5b28c3b98c58586806c8d7063522206525ad4951,2014-02-20 16:39:12+01:00,Work on local reference leaks.
+native/common/jp_jniutil.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,228372df6437dfcb1f2d892bcdc46ed24d061eba,2014-02-19 20:31:28+01:00,Work on local reference leaks.
+native/common/jp_jniutil.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Work on local reference leaks.
+native/common/jp_jniutil.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,cb4326c8ed40d29a45ea12d43b53368951097409,2016-02-22 08:34:40+01:00,Work on local reference leaks.
+native/common/jp_methodoverload.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,c5eba42a94dfb6eed857f752a10929aeaa1a3b51,2017-08-15 11:33:31-07:00,Work on local reference leaks.
+native/common/jp_methodoverload.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,4dcad749d09810675b22d63004418a2e95c78e3c,2017-08-15 11:32:11-07:00,Work on local reference leaks.
+native/common/jp_methodoverload.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Work on local reference leaks.
+native/common/jp_methodoverload.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,cb4326c8ed40d29a45ea12d43b53368951097409,2016-02-22 08:34:40+01:00,Work on local reference leaks.
+native/common/jp_methodoverload.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,2aa10ef569a1eeb3e098ad8a789f1c1863b89419,2017-06-16 08:33:58-07:00,Work on local reference leaks.
+native/common/jp_methodoverload.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,75d1e0c7c0e34ffa32a618ccd2155d01fea131ec,2017-08-15 11:33:31-07:00,Work on local reference leaks.
+native/common/jp_object.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Work on local reference leaks.
+native/common/jp_object.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,6d19b20932d53636f3e2c744d4c8593ee637af61,2014-02-19 20:55:40+01:00,Work on local reference leaks.
+native/common/jp_objecttypes.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,c5eba42a94dfb6eed857f752a10929aeaa1a3b51,2017-08-15 11:33:31-07:00,Work on local reference leaks.
+native/common/jp_objecttypes.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,4dcad749d09810675b22d63004418a2e95c78e3c,2017-08-15 11:32:11-07:00,Work on local reference leaks.
+native/common/jp_objecttypes.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,7fb153c4b83e77200380c89d862ca12b5d63fa6e,2014-02-19 21:14:44+01:00,Work on local reference leaks.
+native/common/jp_objecttypes.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Work on local reference leaks.
+native/common/jp_objecttypes.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,cb4326c8ed40d29a45ea12d43b53368951097409,2016-02-22 08:34:40+01:00,Work on local reference leaks.
+native/common/jp_objecttypes.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,d4c3c8bcb65bf61709d7d07eaed4bc2f5bdd19f5,2017-08-15 11:33:31-07:00,Work on local reference leaks.
+native/common/jp_primitivetypes.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,c5eba42a94dfb6eed857f752a10929aeaa1a3b51,2017-08-15 11:33:31-07:00,Work on local reference leaks.
+native/common/jp_primitivetypes.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,1a9b3cdf9e1c3b5ae71abb37d031af74d25725e3,2013-09-06 15:56:25+01:00,Work on local reference leaks.
+native/common/jp_primitivetypes.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,042fe999e6fd5bdcbab5f2a9f9d1b5e2e2ca7ac7,2017-08-15 11:33:31-07:00,Work on local reference leaks.
+native/common/jp_primitivetypes.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,5a90161a1cc9512e82f4b28cae5fdaa1663d7738,2015-12-21 10:59:20+01:00,Work on local reference leaks.
+native/common/jp_primitivetypes.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Work on local reference leaks.
+native/common/jp_primitivetypes.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,e820abe8314ac3ded31593ea3c5643f79ff9ec99,2017-06-20 09:34:36-07:00,Work on local reference leaks.
+native/common/jp_primitivetypes.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,75d1e0c7c0e34ffa32a618ccd2155d01fea131ec,2017-08-15 11:33:31-07:00,Work on local reference leaks.
+native/common/jp_primitivetypes_autogen.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Work on local reference leaks.
+native/common/jp_primitivetypes_autogen.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,3b215bbd15b5b7b0ee1a4e384d0575c4790d499f,2014-04-22 20:57:22+02:00,Work on local reference leaks.
+native/common/jp_primitivetypes_autogen.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,85051ec8c0279601dd753febb90aa6735120845c,2014-02-24 22:25:44+01:00,Work on local reference leaks.
+native/common/jp_proxy.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,c5eba42a94dfb6eed857f752a10929aeaa1a3b51,2017-08-15 11:33:31-07:00,Work on local reference leaks.
+native/common/jp_proxy.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,4dcad749d09810675b22d63004418a2e95c78e3c,2017-08-15 11:32:11-07:00,Work on local reference leaks.
+native/common/jp_proxy.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,15c401521d97468c35e1d4bbc5d96ab84391dc34,2015-04-07 11:14:24-07:00,Work on local reference leaks.
+native/common/jp_proxy.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,1a9b3cdf9e1c3b5ae71abb37d031af74d25725e3,2013-09-06 15:56:25+01:00,Work on local reference leaks.
+native/common/jp_proxy.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,042fe999e6fd5bdcbab5f2a9f9d1b5e2e2ca7ac7,2017-08-15 11:33:31-07:00,Work on local reference leaks.
+native/common/jp_proxy.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Work on local reference leaks.
+native/common/jp_proxy.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,02a8b086de66c1ed54969e4831d7d1a8b0c727aa,2014-10-17 18:25:29+02:00,Work on local reference leaks.
+native/common/jp_proxy.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,2ba569f667082018029c0aa3ae45c5d15e45e4c2,2014-07-08 18:13:59+02:00,Work on local reference leaks.
+native/common/jp_proxy.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,841289c3ae05a8fbbf47e30531483bfaf7d92498,2016-03-05 14:44:58+01:00,Work on local reference leaks.
+native/common/jp_proxy.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,d4c3c8bcb65bf61709d7d07eaed4bc2f5bdd19f5,2017-08-15 11:33:31-07:00,Work on local reference leaks.
+native/common/jp_proxy.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,e1d5d83c4c580334ba04bdceccb0d12c0f5a8d8c,2014-02-20 16:39:12+01:00,Work on local reference leaks.
+native/common/jp_typemanager.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,5b28c3b98c58586806c8d7063522206525ad4951,2014-02-20 16:39:12+01:00,Work on local reference leaks.
+native/common/jp_typemanager.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Work on local reference leaks.
+native/common/jp_typemanager.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,e820abe8314ac3ded31593ea3c5643f79ff9ec99,2017-06-20 09:34:36-07:00,Work on local reference leaks.
+native/common/jp_typemanager.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,fd4153c8c0fc590b2a0cc9f83383ac9ceb186e34,2014-02-03 22:59:40+01:00,Work on local reference leaks.
+native/common/jp_typemanager.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,fe864e42f30b114dfe331bd9ac1716676e8e76ec,2014-02-19 21:14:44+01:00,Work on local reference leaks.
+native/common/jp_voidtype.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Work on local reference leaks.
+native/python/jpype_javaclass.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,7a9a83dd275904cd4ab7838c1161279202b841e8,2017-06-18 07:05:17-07:00,Work on local reference leaks.
+native/python/jpype_javaclass.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Work on local reference leaks.
+native/python/jpype_module.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,7a9a83dd275904cd4ab7838c1161279202b841e8,2017-06-18 07:05:17-07:00,Work on local reference leaks.
+native/python/jpype_module.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Work on local reference leaks.
+native/python/jpype_module.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,e2288a3ca3c8a3fa52aac2413b18797298c8d065,2017-07-21 07:25:33-07:00,Work on local reference leaks.
+native/python/jpype_module.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,4dcad749d09810675b22d63004418a2e95c78e3c,2017-08-15 11:32:11-07:00,Work on local reference leaks.
+native/python/jpype_python.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,4dcad749d09810675b22d63004418a2e95c78e3c,2017-08-15 11:32:11-07:00,Work on local reference leaks.
+native/python/jpype_python.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,7a9a83dd275904cd4ab7838c1161279202b841e8,2017-06-18 07:05:17-07:00,Work on local reference leaks.
+native/python/jpype_python.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,1a9b3cdf9e1c3b5ae71abb37d031af74d25725e3,2013-09-06 15:56:25+01:00,Work on local reference leaks.
+native/python/jpype_python.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,5eab7cb1e6af407f89935863c73cf1d45c40712c,2015-03-03 08:28:31+01:00,Work on local reference leaks.
+native/python/jpype_python.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Work on local reference leaks.
+native/python/jpype_python.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,80d9e868a76e35eea32fb53f0f28d0660aa5ac23,2014-07-14 19:13:12+02:00,Work on local reference leaks.
+native/python/jpype_python.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,e2288a3ca3c8a3fa52aac2413b18797298c8d065,2017-07-21 07:25:33-07:00,Work on local reference leaks.
+native/python/jpype_python.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,b97f50391fb5bf768ec11f55f9631315412fe2ac,2015-04-07 10:28:58-07:00,Work on local reference leaks.
+native/python/jpype_python.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,118280c87092cccc66519a80044f2f94c870768f,2015-04-07 10:28:58-07:00,Work on local reference leaks.
+native/python/py_class.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,6d19b20932d53636f3e2c744d4c8593ee637af61,2014-02-19 20:55:40+01:00,Work on local reference leaks.
+native/python/py_class.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Work on local reference leaks.
+native/python/py_class.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,cb4326c8ed40d29a45ea12d43b53368951097409,2016-02-22 08:34:40+01:00,Work on local reference leaks.
+native/python/py_class.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,b97f50391fb5bf768ec11f55f9631315412fe2ac,2015-04-07 10:28:58-07:00,Work on local reference leaks.
+native/python/py_class.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,75d1e0c7c0e34ffa32a618ccd2155d01fea131ec,2017-08-15 11:33:31-07:00,Work on local reference leaks.
+native/python/py_field.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Work on local reference leaks.
+native/python/py_field.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,a770594b0dc46b64adf5fb5d2148a42d250e2279,2015-04-07 10:28:58-07:00,Work on local reference leaks.
+native/python/py_field.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,4dcad749d09810675b22d63004418a2e95c78e3c,2017-08-15 11:32:11-07:00,Work on local reference leaks.
+native/python/py_hostenv.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Work on local reference leaks.
+native/python/py_method.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Work on local reference leaks.
+native/python/py_method.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,118280c87092cccc66519a80044f2f94c870768f,2015-04-07 10:28:58-07:00,Work on local reference leaks.
+native/python/py_method.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,5a90161a1cc9512e82f4b28cae5fdaa1663d7738,2015-12-21 10:59:20+01:00,Work on local reference leaks.
+native/python/py_monitor.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Work on local reference leaks.
+native/python/py_monitor.cpp,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,118280c87092cccc66519a80044f2f94c870768f,2015-04-07 10:28:58-07:00,Work on local reference leaks.
+native/common/include/jp_env.h,98688898abd109141f06883a5f8aef195f179867,2017-08-15 11:34:25-07:00,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,"One bug removed, one bug to go."
+native/common/include/jp_env.h,98688898abd109141f06883a5f8aef195f179867,2017-08-15 11:34:25-07:00,5b28c3b98c58586806c8d7063522206525ad4951,2014-02-20 16:39:12+01:00,"One bug removed, one bug to go."
+native/common/include/jp_env.h,98688898abd109141f06883a5f8aef195f179867,2017-08-15 11:34:25-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,"One bug removed, one bug to go."
+native/common/include/jp_jniutil.h,98688898abd109141f06883a5f8aef195f179867,2017-08-15 11:34:25-07:00,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,"One bug removed, one bug to go."
+native/common/include/jp_jniutil.h,98688898abd109141f06883a5f8aef195f179867,2017-08-15 11:34:25-07:00,5b28c3b98c58586806c8d7063522206525ad4951,2014-02-20 16:39:12+01:00,"One bug removed, one bug to go."
+native/common/include/jp_jniutil.h,98688898abd109141f06883a5f8aef195f179867,2017-08-15 11:34:25-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,"One bug removed, one bug to go."
+native/common/include/jp_jniutil.h,98688898abd109141f06883a5f8aef195f179867,2017-08-15 11:34:25-07:00,cb4326c8ed40d29a45ea12d43b53368951097409,2016-02-22 08:34:40+01:00,"One bug removed, one bug to go."
+native/common/include/jpype.h,98688898abd109141f06883a5f8aef195f179867,2017-08-15 11:34:25-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,"One bug removed, one bug to go."
+native/common/jp_arrayclass.cpp,98688898abd109141f06883a5f8aef195f179867,2017-08-15 11:34:25-07:00,2aa10ef569a1eeb3e098ad8a789f1c1863b89419,2017-06-16 08:33:58-07:00,"One bug removed, one bug to go."
+native/common/jp_env.cpp,98688898abd109141f06883a5f8aef195f179867,2017-08-15 11:34:25-07:00,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,"One bug removed, one bug to go."
+native/common/jp_env.cpp,98688898abd109141f06883a5f8aef195f179867,2017-08-15 11:34:25-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,"One bug removed, one bug to go."
+native/common/jp_env.cpp,98688898abd109141f06883a5f8aef195f179867,2017-08-15 11:34:25-07:00,0afb3e612069e941d921bcd4c52ae674edd4dd64,2014-02-19 20:31:28+01:00,"One bug removed, one bug to go."
+native/common/jp_env.cpp,98688898abd109141f06883a5f8aef195f179867,2017-08-15 11:34:25-07:00,9faecb6dff8256a4554277cee93603deb821605a,2014-05-12 18:31:34+02:00,"One bug removed, one bug to go."
+native/common/jp_env.cpp,98688898abd109141f06883a5f8aef195f179867,2017-08-15 11:34:25-07:00,c79e7b7a5cb08489160bfaf388075a626d6eef1d,2015-04-13 20:31:42+02:00,"One bug removed, one bug to go."
+native/common/jp_env.cpp,98688898abd109141f06883a5f8aef195f179867,2017-08-15 11:34:25-07:00,e3fac2485db9ab739a2af9461e5b18ecd874f233,2015-04-07 10:28:59-07:00,"One bug removed, one bug to go."
+native/common/jp_objecttypes.cpp,98688898abd109141f06883a5f8aef195f179867,2017-08-15 11:34:25-07:00,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,"One bug removed, one bug to go."
+native/common/jp_objecttypes.cpp,98688898abd109141f06883a5f8aef195f179867,2017-08-15 11:34:25-07:00,1a9b3cdf9e1c3b5ae71abb37d031af74d25725e3,2013-09-06 15:56:25+01:00,"One bug removed, one bug to go."
+native/common/jp_objecttypes.cpp,98688898abd109141f06883a5f8aef195f179867,2017-08-15 11:34:25-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,"One bug removed, one bug to go."
+native/common/jp_objecttypes.cpp,98688898abd109141f06883a5f8aef195f179867,2017-08-15 11:34:25-07:00,cb4326c8ed40d29a45ea12d43b53368951097409,2016-02-22 08:34:40+01:00,"One bug removed, one bug to go."
+native/common/jp_objecttypes.cpp,98688898abd109141f06883a5f8aef195f179867,2017-08-15 11:34:25-07:00,d4c3c8bcb65bf61709d7d07eaed4bc2f5bdd19f5,2017-08-15 11:33:31-07:00,"One bug removed, one bug to go."
+test/jpypetest/attr.py,98688898abd109141f06883a5f8aef195f179867,2017-08-15 11:34:25-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,"One bug removed, one bug to go."
+test/jpypetest/attr.py,98688898abd109141f06883a5f8aef195f179867,2017-08-15 11:34:25-07:00,daff8f5bbd42176f4b9de240c4016a6ad3d1c1c7,2015-02-11 20:01:28+01:00,"One bug removed, one bug to go."
+native/common/include/jp_class.h,d96cf8a6d0b4010fb484cef4de1668ecbee310de,2017-08-15 11:34:25-07:00,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,"Cleanup, trying to isolate last bug."
+native/common/include/jp_class.h,d96cf8a6d0b4010fb484cef4de1668ecbee310de,2017-08-15 11:34:25-07:00,ff298b9ba6727ff28e4afe381615ee4f9cf1f3d0,2014-02-19 21:14:25+01:00,"Cleanup, trying to isolate last bug."
+native/common/include/jp_class.h,d96cf8a6d0b4010fb484cef4de1668ecbee310de,2017-08-15 11:34:25-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,"Cleanup, trying to isolate last bug."
+native/common/include/jp_class.h,d96cf8a6d0b4010fb484cef4de1668ecbee310de,2017-08-15 11:34:25-07:00,75d1e0c7c0e34ffa32a618ccd2155d01fea131ec,2017-08-15 11:33:31-07:00,"Cleanup, trying to isolate last bug."
+native/common/jp_class.cpp,d96cf8a6d0b4010fb484cef4de1668ecbee310de,2017-08-15 11:34:25-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,"Cleanup, trying to isolate last bug."
+native/common/jp_field.cpp,d96cf8a6d0b4010fb484cef4de1668ecbee310de,2017-08-15 11:34:25-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,"Cleanup, trying to isolate last bug."
+native/common/jp_methodoverload.cpp,d96cf8a6d0b4010fb484cef4de1668ecbee310de,2017-08-15 11:34:25-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,"Cleanup, trying to isolate last bug."
+native/common/jp_methodoverload.cpp,d96cf8a6d0b4010fb484cef4de1668ecbee310de,2017-08-15 11:34:25-07:00,2aa10ef569a1eeb3e098ad8a789f1c1863b89419,2017-06-16 08:33:58-07:00,"Cleanup, trying to isolate last bug."
+native/common/jp_primitivetypes.cpp,d96cf8a6d0b4010fb484cef4de1668ecbee310de,2017-08-15 11:34:25-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,"Cleanup, trying to isolate last bug."
+native/python/py_class.cpp,d96cf8a6d0b4010fb484cef4de1668ecbee310de,2017-08-15 11:34:25-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,"Cleanup, trying to isolate last bug."
+native/common/include/jp_javaenv.h,253ed0ad7b400c490d9740db7d4e9c0f18177c6a,2017-08-15 11:34:26-07:00,d183bac29c78300038b747f7bf6fea9f09d192e9,2014-07-14 17:08:52+02:00,Visual C++ change.
+native/common/jp_javaenv.cpp,253ed0ad7b400c490d9740db7d4e9c0f18177c6a,2017-08-15 11:34:26-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Visual C++ change.
+native/python/jpype_module.cpp,6f12c8171b653e996ae23504ac7c9add03b95f80,2017-09-06 15:18:08+02:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,[jvm-shutdown] disable jvm activity report  Fixes #259
+native/common/jp_javaenv.cpp,a405f278553f666c71014a55a7f9e41c3a056a9d,2017-09-22 11:24:11+02:00,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,"Describe exception when tracing is enabled  When the TRACING compile flag is enabled, use the JNI ``ExceptionDescribe()`` method to have more information about what happens."
+native/common/jp_javaenv.cpp,a405f278553f666c71014a55a7f9e41c3a056a9d,2017-09-22 11:24:11+02:00,1c44a734ce4a3ad735b1abb64b43f02a3aa562e5,2017-08-15 11:34:26-07:00,"Describe exception when tracing is enabled  When the TRACING compile flag is enabled, use the JNI ``ExceptionDescribe()`` method to have more information about what happens."
+native/common/jp_javaenv.cpp,a405f278553f666c71014a55a7f9e41c3a056a9d,2017-09-22 11:24:11+02:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,"Describe exception when tracing is enabled  When the TRACING compile flag is enabled, use the JNI ``ExceptionDescribe()`` method to have more information about what happens."
+native/common/jp_javaenv.cpp,a405f278553f666c71014a55a7f9e41c3a056a9d,2017-09-22 11:24:11+02:00,d183bac29c78300038b747f7bf6fea9f09d192e9,2014-07-14 17:08:52+02:00,"Describe exception when tracing is enabled  When the TRACING compile flag is enabled, use the JNI ``ExceptionDescribe()`` method to have more information about what happens."
+native/common/jp_primitivetypes_autogen.cpp,d64fd63c9dd491682325fb511381faef1386f3e1,2018-02-20 10:45:38-08:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Fix for errors on windows platform with long array.
+test/jpypetest/array.py,d64fd63c9dd491682325fb511381faef1386f3e1,2018-02-20 10:45:38-08:00,1b5ed110e320c54cdfe95be9ec63e6e27879b636,2014-07-17 16:59:50+02:00,Fix for errors on windows platform with long array.
+native/common/jp_field.cpp,e85e459ad500239a52d2b2cb89ce3ff44c9ab0ff,2018-03-27 10:46:17-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Work on float bug.
+native/common/jp_primitivetypes.cpp,e85e459ad500239a52d2b2cb89ce3ff44c9ab0ff,2018-03-27 10:46:17-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Work on float bug.
+native/common/jp_primitivetypes.cpp,e85e459ad500239a52d2b2cb89ce3ff44c9ab0ff,2018-03-27 10:46:17-07:00,e820abe8314ac3ded31593ea3c5643f79ff9ec99,2017-06-20 09:34:36-07:00,Work on float bug.
+test/jpypetest/varargs.py,e85e459ad500239a52d2b2cb89ce3ff44c9ab0ff,2018-03-27 10:46:17-07:00,2aa10ef569a1eeb3e098ad8a789f1c1863b89419,2017-06-16 08:33:58-07:00,Work on float bug.
+appveyor.yml,205d9ff98ef109fdf039a3b6e1e8da5c2eb8e38f,2018-03-28 17:13:16+02:00,f25025130af419ea4cad90abe251462a69e82162,2016-12-22 02:25:19+01:00,Fix for cygwin setup on 64 bit. (#302)
+appveyor.yml,205d9ff98ef109fdf039a3b6e1e8da5c2eb8e38f,2018-03-28 17:13:16+02:00,a3adea7a01afbe0ac95578567b9af86d01da4176,2015-05-19 12:03:19+02:00,Fix for cygwin setup on 64 bit. (#302)
+appveyor.yml,205d9ff98ef109fdf039a3b6e1e8da5c2eb8e38f,2018-03-28 17:13:16+02:00,ddb9814f3623eef81c149e25050f04ea2fd4ba39,2014-09-20 15:02:05+02:00,Fix for cygwin setup on 64 bit. (#302)
+appveyor.yml,205d9ff98ef109fdf039a3b6e1e8da5c2eb8e38f,2018-03-28 17:13:16+02:00,2c726f82429277cd05bd1137aa92020f8c7306fd,2016-12-22 01:57:12+01:00,Fix for cygwin setup on 64 bit. (#302)
+appveyor.yml,205d9ff98ef109fdf039a3b6e1e8da5c2eb8e38f,2018-03-28 17:13:16+02:00,c66f0a9a1f2548688b1cf9467aa9c8fba149cefc,2017-06-20 09:30:53-07:00,Fix for cygwin setup on 64 bit. (#302)
+appveyor/install.sh,205d9ff98ef109fdf039a3b6e1e8da5c2eb8e38f,2018-03-28 17:13:16+02:00,c66f0a9a1f2548688b1cf9467aa9c8fba149cefc,2017-06-20 09:30:53-07:00,Fix for cygwin setup on 64 bit. (#302)
+appveyor/runTestsuite.sh,205d9ff98ef109fdf039a3b6e1e8da5c2eb8e38f,2018-03-28 17:13:16+02:00,c66f0a9a1f2548688b1cf9467aa9c8fba149cefc,2017-06-20 09:30:53-07:00,Fix for cygwin setup on 64 bit. (#302)
+native/common/include/jp_utility.h,205d9ff98ef109fdf039a3b6e1e8da5c2eb8e38f,2018-03-28 17:13:16+02:00,1a9b3cdf9e1c3b5ae71abb37d031af74d25725e3,2013-09-06 15:56:25+01:00,Fix for cygwin setup on 64 bit. (#302)
+native/common/include/jp_utility.h,205d9ff98ef109fdf039a3b6e1e8da5c2eb8e38f,2018-03-28 17:13:16+02:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Fix for cygwin setup on 64 bit. (#302)
+native/common/include/jp_utility.h,205d9ff98ef109fdf039a3b6e1e8da5c2eb8e38f,2018-03-28 17:13:16+02:00,2ba569f667082018029c0aa3ae45c5d15e45e4c2,2014-07-08 18:13:59+02:00,Fix for cygwin setup on 64 bit. (#302)
+native/common/include/jp_utility.h,205d9ff98ef109fdf039a3b6e1e8da5c2eb8e38f,2018-03-28 17:13:16+02:00,84f68c72d876d3d57c7df758ca0d7250f787167b,2014-02-20 16:39:12+01:00,Fix for cygwin setup on 64 bit. (#302)
+native/common/include/jp_utility.h,205d9ff98ef109fdf039a3b6e1e8da5c2eb8e38f,2018-03-28 17:13:16+02:00,711b89cdc9139618da093355c5571347e3e77543,2014-02-08 17:19:56+01:00,Fix for cygwin setup on 64 bit. (#302)
+native/common/include/jpype.h,205d9ff98ef109fdf039a3b6e1e8da5c2eb8e38f,2018-03-28 17:13:16+02:00,496336221843a82905c2fb52cb56fb4876ecc910,2015-04-07 10:28:58-07:00,Fix for cygwin setup on 64 bit. (#302)
+native/common/include/jpype.h,205d9ff98ef109fdf039a3b6e1e8da5c2eb8e38f,2018-03-28 17:13:16+02:00,c3578c3488de35236f73b6eb27428b1f1526c45b,2017-02-11 23:31:27-05:00,Fix for cygwin setup on 64 bit. (#302)
+native/common/include/jpype.h,205d9ff98ef109fdf039a3b6e1e8da5c2eb8e38f,2018-03-28 17:13:16+02:00,98688898abd109141f06883a5f8aef195f179867,2017-08-15 11:34:25-07:00,Fix for cygwin setup on 64 bit. (#302)
+native/common/include/jpype.h,205d9ff98ef109fdf039a3b6e1e8da5c2eb8e38f,2018-03-28 17:13:16+02:00,5a90161a1cc9512e82f4b28cae5fdaa1663d7738,2015-12-21 10:59:20+01:00,Fix for cygwin setup on 64 bit. (#302)
+native/common/include/jpype.h,205d9ff98ef109fdf039a3b6e1e8da5c2eb8e38f,2018-03-28 17:13:16+02:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Fix for cygwin setup on 64 bit. (#302)
+native/common/include/jpype.h,205d9ff98ef109fdf039a3b6e1e8da5c2eb8e38f,2018-03-28 17:13:16+02:00,8d180cedbf05dd20281a630fb86b8a790b7f8b2a,2015-04-07 10:28:58-07:00,Fix for cygwin setup on 64 bit. (#302)
+native/common/include/jpype.h,205d9ff98ef109fdf039a3b6e1e8da5c2eb8e38f,2018-03-28 17:13:16+02:00,f31be77e6a646233a3ddda1e55def0b5c13646cf,2015-04-07 12:06:35-07:00,Fix for cygwin setup on 64 bit. (#302)
+native/common/include/jpype.h,205d9ff98ef109fdf039a3b6e1e8da5c2eb8e38f,2018-03-28 17:13:16+02:00,84f68c72d876d3d57c7df758ca0d7250f787167b,2014-02-20 16:39:12+01:00,Fix for cygwin setup on 64 bit. (#302)
+native/common/include/jpype.h,205d9ff98ef109fdf039a3b6e1e8da5c2eb8e38f,2018-03-28 17:13:16+02:00,c66f0a9a1f2548688b1cf9467aa9c8fba149cefc,2017-06-20 09:30:53-07:00,Fix for cygwin setup on 64 bit. (#302)
+native/common/include/jpype.h,205d9ff98ef109fdf039a3b6e1e8da5c2eb8e38f,2018-03-28 17:13:16+02:00,93f52e3b1ca65192ddf35772fee1436e166e16e2,2015-04-07 10:28:58-07:00,Fix for cygwin setup on 64 bit. (#302)
+setup.py,205d9ff98ef109fdf039a3b6e1e8da5c2eb8e38f,2018-03-28 17:13:16+02:00,b0d63500b63525e43a32a7d6bc57cb4afdec3f77,2014-09-20 16:17:22+02:00,Fix for cygwin setup on 64 bit. (#302)
+setup.py,205d9ff98ef109fdf039a3b6e1e8da5c2eb8e38f,2018-03-28 17:13:16+02:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Fix for cygwin setup on 64 bit. (#302)
+setup.py,205d9ff98ef109fdf039a3b6e1e8da5c2eb8e38f,2018-03-28 17:13:16+02:00,ac836099414215f4cec3822f0813c6781a798aea,2013-07-27 15:51:10+02:00,Fix for cygwin setup on 64 bit. (#302)
+setup.py,205d9ff98ef109fdf039a3b6e1e8da5c2eb8e38f,2018-03-28 17:13:16+02:00,5ffdaafdf87bda7313ac0c0831ffaa28f95ff5a0,2013-07-27 14:51:41+02:00,Fix for cygwin setup on 64 bit. (#302)
+native/common/include/jp_hostenv.h,c8ce3eff1f7c24132d833e3a75d8c243fbb5b159,2018-03-28 08:32:41-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Attempt to fix proxy thread issue.
+native/common/jp_proxy.cpp,c8ce3eff1f7c24132d833e3a75d8c243fbb5b159,2018-03-28 08:32:41-07:00,cb7705c9272ab339f4b13ebaf18b2f81272d1746,2017-08-15 11:34:25-07:00,Attempt to fix proxy thread issue.
+native/common/jp_proxy.cpp,c8ce3eff1f7c24132d833e3a75d8c243fbb5b159,2018-03-28 08:32:41-07:00,15c401521d97468c35e1d4bbc5d96ab84391dc34,2015-04-07 11:14:24-07:00,Attempt to fix proxy thread issue.
+native/common/jp_proxy.cpp,c8ce3eff1f7c24132d833e3a75d8c243fbb5b159,2018-03-28 08:32:41-07:00,1a9b3cdf9e1c3b5ae71abb37d031af74d25725e3,2013-09-06 15:56:25+01:00,Attempt to fix proxy thread issue.
+native/common/jp_proxy.cpp,c8ce3eff1f7c24132d833e3a75d8c243fbb5b159,2018-03-28 08:32:41-07:00,042fe999e6fd5bdcbab5f2a9f9d1b5e2e2ca7ac7,2017-08-15 11:33:31-07:00,Attempt to fix proxy thread issue.
+native/common/jp_proxy.cpp,c8ce3eff1f7c24132d833e3a75d8c243fbb5b159,2018-03-28 08:32:41-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Attempt to fix proxy thread issue.
+native/common/jp_proxy.cpp,c8ce3eff1f7c24132d833e3a75d8c243fbb5b159,2018-03-28 08:32:41-07:00,02a8b086de66c1ed54969e4831d7d1a8b0c727aa,2014-10-17 18:25:29+02:00,Attempt to fix proxy thread issue.
+native/common/jp_proxy.cpp,c8ce3eff1f7c24132d833e3a75d8c243fbb5b159,2018-03-28 08:32:41-07:00,2ba569f667082018029c0aa3ae45c5d15e45e4c2,2014-07-08 18:13:59+02:00,Attempt to fix proxy thread issue.
+native/common/jp_proxy.cpp,c8ce3eff1f7c24132d833e3a75d8c243fbb5b159,2018-03-28 08:32:41-07:00,d4c3c8bcb65bf61709d7d07eaed4bc2f5bdd19f5,2017-08-15 11:33:31-07:00,Attempt to fix proxy thread issue.
+native/common/jp_proxy.cpp,c8ce3eff1f7c24132d833e3a75d8c243fbb5b159,2018-03-28 08:32:41-07:00,e1d5d83c4c580334ba04bdceccb0d12c0f5a8d8c,2014-02-20 16:39:12+01:00,Attempt to fix proxy thread issue.
+native/python/include/py_hostenv.h,c8ce3eff1f7c24132d833e3a75d8c243fbb5b159,2018-03-28 08:32:41-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Attempt to fix proxy thread issue.
+native/python/py_hostenv.cpp,c8ce3eff1f7c24132d833e3a75d8c243fbb5b159,2018-03-28 08:32:41-07:00,aeb03eb3165cb6cd73d050864fa8ebd247f08b5d,2017-08-15 11:34:26-07:00,Attempt to fix proxy thread issue.
+native/python/py_hostenv.cpp,c8ce3eff1f7c24132d833e3a75d8c243fbb5b159,2018-03-28 08:32:41-07:00,b97f50391fb5bf768ec11f55f9631315412fe2ac,2015-04-07 10:28:58-07:00,Attempt to fix proxy thread issue.
+native/python/py_hostenv.cpp,c8ce3eff1f7c24132d833e3a75d8c243fbb5b159,2018-03-28 08:32:41-07:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,Attempt to fix proxy thread issue.
+native/python/py_hostenv.cpp,c8ce3eff1f7c24132d833e3a75d8c243fbb5b159,2018-03-28 08:32:41-07:00,1a9b3cdf9e1c3b5ae71abb37d031af74d25725e3,2013-09-06 15:56:25+01:00,Attempt to fix proxy thread issue.

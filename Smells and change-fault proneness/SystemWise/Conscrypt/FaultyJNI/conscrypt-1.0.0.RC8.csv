@@ -1,0 +1,10 @@
+File Path
+common/src/jni/main/cpp/conscrypt/native_crypto.cc
+common/src/jni/main/include/conscrypt/app_data.h
+common/src/jni/main/include/conscrypt/bio_input_stream.h
+common/src/jni/main/include/conscrypt/bio_output_stream.h
+common/src/jni/main/include/conscrypt/bio_stream.h
+common/src/jni/unbundled/include/NetFd.h
+common/src/jni/unbundled/include/nativehelper/ScopedLocalRef.h
+common/src/jni/unbundled/include/nativehelper/ScopedUtfChars.h
+common/src/main/java/org/conscrypt/NativeCrypto.java

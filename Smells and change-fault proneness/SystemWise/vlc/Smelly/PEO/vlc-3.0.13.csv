@@ -1,0 +1,3 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,PassingExcessiveObjects,libVlc,Java_org_videolan_libvlc_Media_nativeNewFromFd,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/vlc-3.0.13/libvlc/jni/libvlcjni-media.c,libvlcjni-media.c
+CS2,PassingExcessiveObjects,jfd,Java_org_videolan_libvlc_Media_nativeNewFromFd,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/vlc-3.0.13/libvlc/jni/libvlcjni-media.c,libvlcjni-media.c

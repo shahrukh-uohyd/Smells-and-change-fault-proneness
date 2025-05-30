@@ -1,0 +1,9 @@
+File Path
+pljava-so/src/main/c/Backend.c
+pljava-so/src/main/c/SQLInputFromChunk.c
+pljava-so/src/main/c/SQLOutputToChunk.c
+pljava-so/src/main/c/type/TupleDesc.c
+pljava-so/src/main/include/pljava/pljava.h
+pljava/src/main/java/org/postgresql/pljava/internal/Backend.java
+pljava/src/main/java/org/postgresql/pljava/jdbc/SQLInputFromChunk.java
+pljava/src/main/java/org/postgresql/pljava/jdbc/SQLOutputToChunk.java

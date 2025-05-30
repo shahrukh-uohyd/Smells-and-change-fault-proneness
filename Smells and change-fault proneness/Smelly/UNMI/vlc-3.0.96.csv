@@ -1,0 +1,26 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,UnusedImplementationDetectio,,navigate,MediaPlayer,org.videolan.libvlc,/home/abhaya/shahrukh/cloned_abidi/vlc-3.0.96/libvlc/src/org/videolan/libvlc/MediaPlayer.java,MediaPlayer.java
+CS2,UnusedImplementationDetectio,,previousChapter,MediaPlayer,org.videolan.libvlc,/home/abhaya/shahrukh/cloned_abidi/vlc-3.0.96/libvlc/src/org/videolan/libvlc/MediaPlayer.java,MediaPlayer.java
+CS3,UnusedImplementationDetectio,,nativeGetArtistsCount,Genre,org.videolan.medialibrary.media,/home/abhaya/shahrukh/cloned_abidi/vlc-3.0.96/medialibrary/src/org/videolan/medialibrary/media/Genre.java,Genre.java
+CS4,UnusedImplementationDetectio,,getPosition,MediaPlayer,org.videolan.libvlc,/home/abhaya/shahrukh/cloned_abidi/vlc-3.0.96/libvlc/src/org/videolan/libvlc/MediaPlayer.java,MediaPlayer.java
+CS5,UnusedImplementationDetectio,,setTime,MediaPlayer,org.videolan.libvlc,/home/abhaya/shahrukh/cloned_abidi/vlc-3.0.96/libvlc/src/org/videolan/libvlc/MediaPlayer.java,MediaPlayer.java
+CS6,UnusedImplementationDetectio,,setChapter,MediaPlayer,org.videolan.libvlc,/home/abhaya/shahrukh/cloned_abidi/vlc-3.0.96/libvlc/src/org/videolan/libvlc/MediaPlayer.java,MediaPlayer.java
+CS7,UnusedImplementationDetectio,,isPlaying,MediaPlayer,org.videolan.libvlc,/home/abhaya/shahrukh/cloned_abidi/vlc-3.0.96/libvlc/src/org/videolan/libvlc/MediaPlayer.java,MediaPlayer.java
+CS8,UnusedImplementationDetectio,,getLength,MediaPlayer,org.videolan.libvlc,/home/abhaya/shahrukh/cloned_abidi/vlc-3.0.96/libvlc/src/org/videolan/libvlc/MediaPlayer.java,MediaPlayer.java
+CS9,UnusedImplementationDetectio,,getPlayerState,MediaPlayer,org.videolan.libvlc,/home/abhaya/shahrukh/cloned_abidi/vlc-3.0.96/libvlc/src/org/videolan/libvlc/MediaPlayer.java,MediaPlayer.java
+CS10,UnusedImplementationDetectio,,isSeekable,MediaPlayer,org.videolan.libvlc,/home/abhaya/shahrukh/cloned_abidi/vlc-3.0.96/libvlc/src/org/videolan/libvlc/MediaPlayer.java,MediaPlayer.java
+CS11,UnusedImplementationDetectio,,getTitle,MediaPlayer,org.videolan.libvlc,/home/abhaya/shahrukh/cloned_abidi/vlc-3.0.96/libvlc/src/org/videolan/libvlc/MediaPlayer.java,MediaPlayer.java
+CS12,UnusedImplementationDetectio,,compiler,LibVLC,org.videolan.libvlc,/home/abhaya/shahrukh/cloned_abidi/vlc-3.0.96/libvlc/src/org/videolan/libvlc/LibVLC.java,LibVLC.java
+CS13,UnusedImplementationDetectio,,setPosition,MediaPlayer,org.videolan.libvlc,/home/abhaya/shahrukh/cloned_abidi/vlc-3.0.96/libvlc/src/org/videolan/libvlc/MediaPlayer.java,MediaPlayer.java
+CS14,UnusedImplementationDetectio,,getChapter,MediaPlayer,org.videolan.libvlc,/home/abhaya/shahrukh/cloned_abidi/vlc-3.0.96/libvlc/src/org/videolan/libvlc/MediaPlayer.java,MediaPlayer.java
+CS15,UnusedImplementationDetectio,,setVolume,MediaPlayer,org.videolan.libvlc,/home/abhaya/shahrukh/cloned_abidi/vlc-3.0.96/libvlc/src/org/videolan/libvlc/MediaPlayer.java,MediaPlayer.java
+CS16,UnusedImplementationDetectio,,setTitle,MediaPlayer,org.videolan.libvlc,/home/abhaya/shahrukh/cloned_abidi/vlc-3.0.96/libvlc/src/org/videolan/libvlc/MediaPlayer.java,MediaPlayer.java
+CS17,UnusedImplementationDetectio,,getTime,MediaPlayer,org.videolan.libvlc,/home/abhaya/shahrukh/cloned_abidi/vlc-3.0.96/libvlc/src/org/videolan/libvlc/MediaPlayer.java,MediaPlayer.java
+CS18,UnusedImplementationDetectio,,changeset,LibVLC,org.videolan.libvlc,/home/abhaya/shahrukh/cloned_abidi/vlc-3.0.96/libvlc/src/org/videolan/libvlc/LibVLC.java,LibVLC.java
+CS19,UnusedImplementationDetectio,,getVolume,MediaPlayer,org.videolan.libvlc,/home/abhaya/shahrukh/cloned_abidi/vlc-3.0.96/libvlc/src/org/videolan/libvlc/MediaPlayer.java,MediaPlayer.java
+CS20,UnusedImplementationDetectio,,pause,MediaPlayer,org.videolan.libvlc,/home/abhaya/shahrukh/cloned_abidi/vlc-3.0.96/libvlc/src/org/videolan/libvlc/MediaPlayer.java,MediaPlayer.java
+CS21,UnusedImplementationDetectio,,nextChapter,MediaPlayer,org.videolan.libvlc,/home/abhaya/shahrukh/cloned_abidi/vlc-3.0.96/libvlc/src/org/videolan/libvlc/MediaPlayer.java,MediaPlayer.java
+CS22,UnusedImplementationDetectio,,getRate,MediaPlayer,org.videolan.libvlc,/home/abhaya/shahrukh/cloned_abidi/vlc-3.0.96/libvlc/src/org/videolan/libvlc/MediaPlayer.java,MediaPlayer.java
+CS23,UnusedImplementationDetectio,,version,LibVLC,org.videolan.libvlc,/home/abhaya/shahrukh/cloned_abidi/vlc-3.0.96/libvlc/src/org/videolan/libvlc/LibVLC.java,LibVLC.java
+CS24,UnusedImplementationDetectio,,nativeGetPagedArtists,Genre,org.videolan.medialibrary.media,/home/abhaya/shahrukh/cloned_abidi/vlc-3.0.96/medialibrary/src/org/videolan/medialibrary/media/Genre.java,Genre.java
+CS25,UnusedImplementationDetectio,,setRate,MediaPlayer,org.videolan.libvlc,/home/abhaya/shahrukh/cloned_abidi/vlc-3.0.96/libvlc/src/org/videolan/libvlc/MediaPlayer.java,MediaPlayer.java

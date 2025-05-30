@@ -1,0 +1,10 @@
+Project,Avg_Changed_JNI_Percentage
+pljava,30.43
+vlc,30.92
+rocksdb,32.61
+conscrypt,30.77
+javacpp,59.24
+zstd-jni,45.84
+java-smt,60.0
+realm-java,31.27
+jpype,38.29

@@ -1,0 +1,9 @@
+File Path
+realm/realm-library/src/main/cpp/io_realm_SyncSession.cpp
+realm/realm-library/src/main/cpp/io_realm_internal_OsRealmConfig.cpp
+realm/realm-library/src/main/cpp/io_realm_internal_OsResults.cpp
+realm/realm-library/src/main/java/io/realm/RealmQuery.java
+realm/realm-library/src/main/java/io/realm/internal/OsRealmConfig.java
+realm/realm-library/src/main/java/io/realm/internal/OsResults.java
+realm/realm-library/src/objectServer/java/io/realm/SyncManager.java
+realm/realm-library/src/objectServer/java/io/realm/SyncSession.java

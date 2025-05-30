@@ -1,0 +1,21 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+AP1,ExcessiveInterLanguageCommunicationDetectio,,nativeSearchMedia,Medialibrary,org.videolan.medialibrary,/home/abhaya/shahrukh/cloned_abidi/vlc-3.1.6/medialibrary/src/org/videolan/medialibrary/Medialibrary.java
+AP2,ExcessiveInterLanguageCommunicationDetectio,,nativeNewFromLocation,Media,org.videolan.libvlc,/home/abhaya/shahrukh/cloned_abidi/vlc-3.1.6/libvlc/src/org/videolan/libvlc/Media.java
+AP3,ExcessiveInterLanguageCommunicationDetectio,,nativeSearchPagedPlaylist,Medialibrary,org.videolan.medialibrary,/home/abhaya/shahrukh/cloned_abidi/vlc-3.1.6/medialibrary/src/org/videolan/medialibrary/Medialibrary.java
+AP4,ExcessiveInterLanguageCommunicationDetectio,,nativeSearchPlaylist,Medialibrary,org.videolan.medialibrary,/home/abhaya/shahrukh/cloned_abidi/vlc-3.1.6/medialibrary/src/org/videolan/medialibrary/Medialibrary.java
+AP5,ExcessiveInterLanguageCommunicationDetectio,,nativeNewFromLibVlc,MediaPlayer,org.videolan.libvlc,/home/abhaya/shahrukh/cloned_abidi/vlc-3.1.6/libvlc/src/org/videolan/libvlc/MediaPlayer.java
+AP6,ExcessiveInterLanguageCommunicationDetectio,,nativeSearchPagedMedia,Medialibrary,org.videolan.medialibrary,/home/abhaya/shahrukh/cloned_abidi/vlc-3.1.6/medialibrary/src/org/videolan/medialibrary/Medialibrary.java
+AP7,ExcessiveInterLanguageCommunicationDetectio,,nativePlaylistAppendGroup,Playlist,org.videolan.medialibrary.media,/home/abhaya/shahrukh/cloned_abidi/vlc-3.1.6/medialibrary/src/org/videolan/medialibrary/media/Playlist.java
+AP8,ExcessiveInterLanguageCommunicationDetectio,,nativeNewFromFd,Media,org.videolan.libvlc,/home/abhaya/shahrukh/cloned_abidi/vlc-3.1.6/libvlc/src/org/videolan/libvlc/Media.java
+AP9,ExcessiveInterLanguageCommunicationDetectio,,nativeSearchPagedAlbum,Medialibrary,org.videolan.medialibrary,/home/abhaya/shahrukh/cloned_abidi/vlc-3.1.6/medialibrary/src/org/videolan/medialibrary/Medialibrary.java
+AP10,ExcessiveInterLanguageCommunicationDetectio,,nativeSearchGenre,Medialibrary,org.videolan.medialibrary,/home/abhaya/shahrukh/cloned_abidi/vlc-3.1.6/medialibrary/src/org/videolan/medialibrary/Medialibrary.java
+AP11,ExcessiveInterLanguageCommunicationDetectio,,nativeSearchPagedGenre,Medialibrary,org.videolan.medialibrary,/home/abhaya/shahrukh/cloned_abidi/vlc-3.1.6/medialibrary/src/org/videolan/medialibrary/Medialibrary.java
+AP12,ExcessiveInterLanguageCommunicationDetectio,,nativeSearchArtist,Medialibrary,org.videolan.medialibrary,/home/abhaya/shahrukh/cloned_abidi/vlc-3.1.6/medialibrary/src/org/videolan/medialibrary/Medialibrary.java
+AP13,ExcessiveInterLanguageCommunicationDetectio,,nativePlaylistAppend,Playlist,org.videolan.medialibrary.media,/home/abhaya/shahrukh/cloned_abidi/vlc-3.1.6/medialibrary/src/org/videolan/medialibrary/media/Playlist.java
+AP14,ExcessiveInterLanguageCommunicationDetectio,,nativeNewFromPath,Media,org.videolan.libvlc,/home/abhaya/shahrukh/cloned_abidi/vlc-3.1.6/libvlc/src/org/videolan/libvlc/Media.java
+AP15,ExcessiveInterLanguageCommunicationDetectio,,nativeOnWindowSize,AWindow,org.videolan.libvlc,/home/abhaya/shahrukh/cloned_abidi/vlc-3.1.6/libvlc/src/org/videolan/libvlc/AWindow.java
+AP16,ExcessiveInterLanguageCommunicationDetectio,,nativeNewFromMedia,MediaPlayer,org.videolan.libvlc,/home/abhaya/shahrukh/cloned_abidi/vlc-3.1.6/libvlc/src/org/videolan/libvlc/MediaPlayer.java
+AP17,ExcessiveInterLanguageCommunicationDetectio,,nativeOnMouseEvent,AWindow,org.videolan.libvlc,/home/abhaya/shahrukh/cloned_abidi/vlc-3.1.6/libvlc/src/org/videolan/libvlc/AWindow.java
+AP18,ExcessiveInterLanguageCommunicationDetectio,,nativeSearchPagedArtist,Medialibrary,org.videolan.medialibrary,/home/abhaya/shahrukh/cloned_abidi/vlc-3.1.6/medialibrary/src/org/videolan/medialibrary/Medialibrary.java
+AP19,ExcessiveInterLanguageCommunicationDetectio,,nativeNewFromFdWithOffsetLength,Media,org.videolan.libvlc,/home/abhaya/shahrukh/cloned_abidi/vlc-3.1.6/libvlc/src/org/videolan/libvlc/Media.java
+AP20,ExcessiveInterLanguageCommunicationDetectio,,nativeSearchAlbum,Medialibrary,org.videolan.medialibrary,/home/abhaya/shahrukh/cloned_abidi/vlc-3.1.6/medialibrary/src/org/videolan/medialibrary/Medialibrary.java

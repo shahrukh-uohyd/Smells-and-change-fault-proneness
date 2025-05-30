@@ -1,0 +1,4 @@
+File Path
+native/common/include/jp_javaframe.h
+native/common/jp_proxy.cpp
+native/java/org/jpype/proxy/JPypeInvocationHandler.java

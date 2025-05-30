@@ -1,0 +1,24 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,MemoryManagementMismatch,ShortArrayElements,JPJavaFrame::GetShortArrayElements,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/jpype-v0.7/native/common/jp_env.cpp,jp_env.cpp
+CS2,MemoryManagementMismatch,DoubleArrayElements,JPJavaFrame::GetDoubleArrayElements,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/jpype-v0.7/native/common/jp_env.cpp,jp_env.cpp
+CS3,MemoryManagementMismatch,BooleanArrayElements,GetBooleanArrayElements,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/jpype-v0.7/native/jni_include/jni.h,jni.h
+CS4,MemoryManagementMismatch,ShortArrayElements,GetShortArrayElements,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/jpype-v0.7/native/jni_include/jni.h,jni.h
+CS5,MemoryManagementMismatch,FloatArrayElements,GetFloatArrayElements,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/jpype-v0.7/native/jni_include/jni.h,jni.h
+CS6,MemoryManagementMismatch,IntArrayElements,JPJavaFrame::GetIntArrayElements,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/jpype-v0.7/native/common/jp_env.cpp,jp_env.cpp
+CS7,MemoryManagementMismatch,BooleanArrayElements,JPJavaFrame::GetBooleanArrayElements,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/jpype-v0.7/native/common/jp_env.cpp,jp_env.cpp
+CS8,MemoryManagementMismatch,StringCritical,GetStringCritical,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/jpype-v0.7/native/jni_include/jni.h,jni.h
+CS9,MemoryManagementMismatch,LongArrayElements,GetLongArrayElements,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/jpype-v0.7/native/jni_include/jni.h,jni.h
+CS10,MemoryManagementMismatch,ByteArrayElements,JPJavaFrame::GetByteArrayElements,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/jpype-v0.7/native/common/jp_env.cpp,jp_env.cpp
+CS11,MemoryManagementMismatch,StringUTFChars,GetStringUTFChars,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/jpype-v0.7/native/jni_include/jni.h,jni.h
+CS12,MemoryManagementMismatch,CharArrayElements,GetCharArrayElements,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/jpype-v0.7/native/jni_include/jni.h,jni.h
+CS13,MemoryManagementMismatch,StringChars,GetStringChars,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/jpype-v0.7/native/jni_include/jni.h,jni.h
+CS14,MemoryManagementMismatch,LongArrayElements,JPJavaFrame::GetLongArrayElements,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/jpype-v0.7/native/common/jp_env.cpp,jp_env.cpp
+CS15,MemoryManagementMismatch,PrimitiveArrayCritical,GetPrimitiveArrayCritical,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/jpype-v0.7/native/jni_include/jni.h,jni.h
+CS16,MemoryManagementMismatch,DoubleArrayElements,GetDoubleArrayElements,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/jpype-v0.7/native/jni_include/jni.h,jni.h
+CS17,MemoryManagementMismatch,StringChars,JPJavaFrame::GetStringChars,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/jpype-v0.7/native/common/jp_env.cpp,jp_env.cpp
+CS18,MemoryManagementMismatch,StringUTFChars,JPJavaFrame::GetStringUTFChars,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/jpype-v0.7/native/common/jp_env.cpp,jp_env.cpp
+CS19,MemoryManagementMismatch,IntArrayElements,GetIntArrayElements,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/jpype-v0.7/native/jni_include/jni.h,jni.h
+CS20,MemoryManagementMismatch,CharArrayElements,JPJavaFrame::GetCharArrayElements,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/jpype-v0.7/native/common/jp_env.cpp,jp_env.cpp
+CS21,MemoryManagementMismatch,ByteArrayElements,GetByteArrayElements,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/jpype-v0.7/native/jni_include/jni.h,jni.h
+CS22,MemoryManagementMismatch,PrimitiveArrayCritical,JPJavaFrame::GetPrimitiveArrayCritical,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/jpype-v0.7/native/common/jp_env.cpp,jp_env.cpp
+CS23,MemoryManagementMismatch,FloatArrayElements,JPJavaFrame::GetFloatArrayElements,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/jpype-v0.7/native/common/jp_env.cpp,jp_env.cpp

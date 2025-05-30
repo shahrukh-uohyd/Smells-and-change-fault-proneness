@@ -1,0 +1,19 @@
+File Path
+libvlc/jni/libvlcjni-dialog.c
+libvlc/jni/libvlcjni-media.c
+libvlc/jni/libvlcjni-mediadiscoverer.c
+libvlc/jni/libvlcjni-mediaplayer.c
+libvlc/jni/libvlcjni-rendererdiscoverer.c
+libvlc/jni/libvlcjni-vlcobject.c
+libvlc/jni/libvlcjni-vlcobject.h
+libvlc/jni/libvlcjni.c
+libvlc/src/org/videolan/libvlc/LibVLC.java
+libvlc/src/org/videolan/libvlc/Media.java
+libvlc/src/org/videolan/libvlc/MediaPlayer.java
+medialibrary/jni/AndroidMediaLibrary.cpp
+medialibrary/jni/AndroidMediaLibrary.h
+medialibrary/jni/medialibrary.cpp
+medialibrary/jni/utils.cpp
+medialibrary/jni/utils.h
+medialibrary/src/org/videolan/medialibrary/Medialibrary.java
+medialibrary/src/org/videolan/medialibrary/media/MediaWrapper.java

@@ -1,0 +1,14 @@
+File Path
+realm/realm-library/src/main/cpp/io_realm_RealmQuery.cpp
+realm/realm-library/src/main/cpp/io_realm_internal_OsRealmConfig.cpp
+realm/realm-library/src/main/cpp/io_realm_internal_TestUtil.cpp
+realm/realm-library/src/main/cpp/io_realm_internal_core_DescriptorOrdering.cpp
+realm/realm-library/src/main/cpp/io_realm_internal_sync_OsSubscription.cpp
+realm/realm-library/src/main/cpp/util.cpp
+realm/realm-library/src/main/cpp/util.hpp
+realm/realm-library/src/main/java/io/realm/RealmQuery.java
+realm/realm-library/src/main/java/io/realm/internal/OsRealmConfig.java
+realm/realm-library/src/main/java/io/realm/internal/TestUtil.java
+realm/realm-library/src/main/java/io/realm/internal/Util.java
+realm/realm-library/src/main/java/io/realm/internal/core/DescriptorOrdering.java
+realm/realm-library/src/main/java/io/realm/internal/sync/OsSubscription.java

@@ -1,0 +1,5 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,MemoryManagementMismatch,IntArrayElements,Java_org_rocksdb_ColumnFamilyOptions_setMaxBytesForLevelMultiplierAdditional,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/rocksdb-v5.0.2/java/rocksjni/options.cc,options.cc
+CS2,MemoryManagementMismatch,StringUTFChars,rocksdb_open_helper,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/rocksdb-v5.0.2/java/rocksjni/rocksjni.cc,rocksjni.cc
+CS3,MemoryManagementMismatch,StringUTFChars,Java_org_rocksdb_TtlDB_openCF,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/rocksdb-v5.0.2/java/rocksjni/ttl.cc,ttl.cc
+CS4,MemoryManagementMismatch,IntArrayElements,Java_org_rocksdb_Options_setMaxBytesForLevelMultiplierAdditional,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/rocksdb-v5.0.2/java/rocksjni/options.cc,options.cc

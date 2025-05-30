@@ -1,0 +1,5 @@
+buggy_file_path,fix_commit_hash,fix_date,buggy_commit_hash,buggy_date,fix_message
+native/common/include/jp_objecttypes.h,4ed154fc2fb52b9cea8852c6b10f2ca0c34edb42,2014-10-13 19:11:56+02:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,avoid copy construction and add const correctness
+native/common/include/jp_primitivetypes.h,4ed154fc2fb52b9cea8852c6b10f2ca0c34edb42,2014-10-13 19:11:56+02:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,avoid copy construction and add const correctness
+native/common/include/jp_type.h,4ed154fc2fb52b9cea8852c6b10f2ca0c34edb42,2014-10-13 19:11:56+02:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,avoid copy construction and add const correctness
+native/common/jp_proxy.cpp,02a8b086de66c1ed54969e4831d7d1a8b0c727aa,2014-10-17 18:25:29+02:00,7817a78200d8100e7d0f5dfbde852aa94eed850d,2012-07-31 11:54:27+02:00,fix some compiler warnings -wwrite-strings

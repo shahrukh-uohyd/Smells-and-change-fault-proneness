@@ -1,0 +1,8 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+AP1,TooMuchClusteringDetectio,,,TableView,io.realm.internal,/home/abhaya/shahrukh/cloned_abidi/realm-java-v0.90.0/realm/realm-library/src/main/java/io/realm/internal/TableView.java
+AP2,TooMuchClusteringDetectio,,,LinkView,io.realm.internal,/home/abhaya/shahrukh/cloned_abidi/realm-java-v0.90.0/realm/realm-library/src/main/java/io/realm/internal/LinkView.java
+AP3,TooMuchClusteringDetectio,,,TableQuery,io.realm.internal,/home/abhaya/shahrukh/cloned_abidi/realm-java-v0.90.0/realm/realm-library/src/main/java/io/realm/internal/TableQuery.java
+AP4,TooMuchClusteringDetectio,,,Group,io.realm.internal,/home/abhaya/shahrukh/cloned_abidi/realm-java-v0.90.0/realm/realm-library/src/main/java/io/realm/internal/Group.java
+AP5,TooMuchClusteringDetectio,,,Table,io.realm.internal,/home/abhaya/shahrukh/cloned_abidi/realm-java-v0.90.0/realm/realm-library/src/main/java/io/realm/internal/Table.java
+AP6,TooMuchClusteringDetectio,,,SharedGroup,io.realm.internal,/home/abhaya/shahrukh/cloned_abidi/realm-java-v0.90.0/realm/realm-library/src/main/java/io/realm/internal/SharedGroup.java
+AP7,TooMuchClusteringDetectio,,,UncheckedRow,io.realm.internal,/home/abhaya/shahrukh/cloned_abidi/realm-java-v0.90.0/realm/realm-library/src/main/java/io/realm/internal/UncheckedRow.java
