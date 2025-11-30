@@ -1,0 +1,9 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+AP1,TooMuchClusteringDetectio,,,RTCRtpTransceiver,dev.onvoid.webrtc,/home/shahrukh/smellDetection/Detection/revision projects/webrtc/v0.11.0/webrtc/src/main/java/dev/onvoid/webrtc/RTCRtpTransceiver.java
+AP2,TooMuchClusteringDetectio,,,MediaStreamTrack,dev.onvoid.webrtc.media,/home/shahrukh/smellDetection/Detection/revision projects/webrtc/v0.11.0/webrtc/src/main/java/dev/onvoid/webrtc/media/MediaStreamTrack.java
+AP3,TooMuchClusteringDetectio,,,PeerConnectionFactory,dev.onvoid.webrtc,/home/shahrukh/smellDetection/Detection/revision projects/webrtc/v0.11.0/webrtc/src/main/java/dev/onvoid/webrtc/PeerConnectionFactory.java
+AP4,TooMuchClusteringDetectio,,,RTCPeerConnection,dev.onvoid.webrtc,/home/shahrukh/smellDetection/Detection/revision projects/webrtc/v0.11.0/webrtc/src/main/java/dev/onvoid/webrtc/RTCPeerConnection.java
+AP5,TooMuchClusteringDetectio,,,RTCDataChannel,dev.onvoid.webrtc,/home/shahrukh/smellDetection/Detection/revision projects/webrtc/v0.11.0/webrtc/src/main/java/dev/onvoid/webrtc/RTCDataChannel.java
+AP6,TooMuchClusteringDetectio,,,AudioProcessing,dev.onvoid.webrtc.media.audio,/home/shahrukh/smellDetection/Detection/revision projects/webrtc/v0.11.0/webrtc/src/main/java/dev/onvoid/webrtc/media/audio/AudioProcessing.java
+AP7,TooMuchClusteringDetectio,,,MediaDevices,dev.onvoid.webrtc.media,/home/shahrukh/smellDetection/Detection/revision projects/webrtc/v0.11.0/webrtc/src/main/java/dev/onvoid/webrtc/media/MediaDevices.java
+AP8,TooMuchClusteringDetectio,,,AudioDeviceModule,dev.onvoid.webrtc.media.audio,/home/shahrukh/smellDetection/Detection/revision projects/webrtc/v0.11.0/webrtc/src/main/java/dev/onvoid/webrtc/media/audio/AudioDeviceModule.java
