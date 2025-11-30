@@ -1,0 +1,6 @@
+File Path
+javatests/com/jnibind/test/ArrayTestMethodRank1.java
+javatests/com/jnibind/test/ContextTest.java
+javatests/com/jnibind/test/array_test_method_rank_1_jni.cc
+javatests/com/jnibind/test/context_test_jni.cc
+jni_bind_release.h

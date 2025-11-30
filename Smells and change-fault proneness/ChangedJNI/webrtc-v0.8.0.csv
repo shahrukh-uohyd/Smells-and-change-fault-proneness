@@ -1,0 +1,24 @@
+File Path
+webrtc-jni/src/main/cpp/dependencies/jni-voithos/src/JavaHashMap.cpp
+webrtc-jni/src/main/cpp/dependencies/jni-voithos/src/JavaUtils.cpp
+webrtc-jni/src/main/cpp/src/JNI_AudioDeviceModule.cpp
+webrtc-jni/src/main/cpp/src/JNI_MediaDevices.cpp
+webrtc-jni/src/main/cpp/src/WebRTCContext.cpp
+webrtc-jni/src/main/cpp/src/api/AudioTrackSink.cpp
+webrtc-jni/src/main/cpp/src/api/CreateSessionDescriptionObserver.cpp
+webrtc-jni/src/main/cpp/src/api/PeerConnectionObserver.cpp
+webrtc-jni/src/main/cpp/src/api/RTCDataChannelObserver.cpp
+webrtc-jni/src/main/cpp/src/api/RTCDtlsTransportObserver.cpp
+webrtc-jni/src/main/cpp/src/api/RTCRtpCodecCapability.cpp
+webrtc-jni/src/main/cpp/src/api/RTCRtpEncodingParameters.cpp
+webrtc-jni/src/main/cpp/src/api/RTCSessionDescription.cpp
+webrtc-jni/src/main/cpp/src/api/RTCStatsCollectorCallback.cpp
+webrtc-jni/src/main/cpp/src/api/SetSessionDescriptionObserver.cpp
+webrtc-jni/src/main/cpp/src/api/VideoFrame.cpp
+webrtc-jni/src/main/cpp/src/api/VideoTrackSink.cpp
+webrtc-jni/src/main/cpp/src/media/MediaStreamTrackObserver.cpp
+webrtc-jni/src/main/cpp/src/media/audio/AudioTransportSink.cpp
+webrtc-jni/src/main/cpp/src/media/video/desktop/DesktopCaptureCallback.cpp
+webrtc-jni/src/main/cpp/src/rtc/LogSink.cpp
+webrtc/src/main/java/dev/onvoid/webrtc/media/audio/AudioDeviceModule.java
+webrtc/src/main/java/dev/onvoid/webrtc/media/video/NativeI420Buffer.java

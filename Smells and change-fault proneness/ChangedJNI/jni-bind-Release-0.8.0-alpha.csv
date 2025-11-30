@@ -1,0 +1,5 @@
+File Path
+implementation/jvm_ref.h
+javatests/com/jnibind/test/StaticTest.java
+javatests/com/jnibind/test/static_test_jni.cc
+jni_bind_release.h

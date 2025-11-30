@@ -1,0 +1,9 @@
+File Path
+implementation/jvm_test.cc
+javatests/com/jnibind/test/ArrayTest.java
+javatests/com/jnibind/test/FieldTest.java
+javatests/com/jnibind/test/array_test_jni.cc
+javatests/com/jnibind/test/field_test_jni.cc
+javatests/com/jnibind/test/method_test_jni.cc
+jni_bind_release.h
+jni_test.h

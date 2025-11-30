@@ -1,0 +1,11 @@
+File Path
+implementation/jni_helper/jni_helper.h
+implementation/jvm_ref.h
+implementation/jvm_test.cc
+javatests/com/jnibind/test/ArrayTestMethodRank1.java
+javatests/com/jnibind/test/ClassLoaderTest.java
+javatests/com/jnibind/test/StringTest.java
+javatests/com/jnibind/test/array_test_method_rank_1_jni.cc
+javatests/com/jnibind/test/class_loader_test_jni.cc
+javatests/com/jnibind/test/string_test_jni.cc
+jni_bind_release.h

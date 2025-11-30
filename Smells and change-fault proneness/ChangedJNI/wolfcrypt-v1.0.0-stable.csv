@@ -1,0 +1,13 @@
+File Path
+jni/include/com_wolfssl_wolfcrypt_Ecc.h
+jni/include/com_wolfssl_wolfcrypt_Fips.h
+jni/include/com_wolfssl_wolfcrypt_Hmac.h
+jni/jni_ecc.c
+jni/jni_fips.c
+jni/jni_hmac.c
+jni/jni_md5.c
+jni/jni_sha.c
+src/main/java/com/wolfssl/wolfcrypt/Ecc.java
+src/main/java/com/wolfssl/wolfcrypt/Fips.java
+src/main/java/com/wolfssl/wolfcrypt/Hmac.java
+src/main/java/com/wolfssl/wolfcrypt/NativeStruct.java

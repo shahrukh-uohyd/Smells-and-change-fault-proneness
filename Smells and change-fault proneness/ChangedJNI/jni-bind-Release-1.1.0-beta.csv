@@ -1,0 +1,10 @@
+File Path
+implementation/jni_helper/jni_env_test.cc
+implementation/jvm_ref.h
+implementation/thread_guard.h
+implementation/thread_guard_test.cc
+javatests/com/jnibind/test/GlobalObjectTest.java
+javatests/com/jnibind/test/StringTest.java
+javatests/com/jnibind/test/global_object_test_jni.cc
+javatests/com/jnibind/test/string_test_jni.cc
+jni_bind_release.h

@@ -1,0 +1,17 @@
+File Path
+webrtc-jni/src/main/cpp/dependencies/jni-voithos/include/JavaRef.h
+webrtc-jni/src/main/cpp/include/JNI_AudioDeviceModule.h
+webrtc-jni/src/main/cpp/include/JNI_VideoBufferConverter.h
+webrtc-jni/src/main/cpp/include/api/RTCConfiguration.h
+webrtc-jni/src/main/cpp/src/JNI_AudioDeviceModule.cpp
+webrtc-jni/src/main/cpp/src/JNI_RTCPeerConnection.cpp
+webrtc-jni/src/main/cpp/src/JNI_VideoBufferConverter.cpp
+webrtc-jni/src/main/cpp/src/api/RTCConfiguration.cpp
+webrtc-jni/src/main/cpp/src/api/RTCRtpCodecCapability.cpp
+webrtc-jni/src/main/cpp/src/api/VideoFrame.cpp
+webrtc/src/main/java/dev/onvoid/webrtc/PeerConnectionFactory.java
+webrtc/src/main/java/dev/onvoid/webrtc/media/MediaStreamTrack.java
+webrtc/src/main/java/dev/onvoid/webrtc/media/audio/AudioDeviceModule.java
+webrtc/src/main/java/dev/onvoid/webrtc/media/audio/AudioTrack.java
+webrtc/src/main/java/dev/onvoid/webrtc/media/video/VideoBufferConverter.java
+webrtc/src/main/java/dev/onvoid/webrtc/media/video/VideoCapture.java

@@ -1,0 +1,20 @@
+File Path
+jni/include/com_wolfssl_wolfcrypt_Chacha.h
+jni/include/com_wolfssl_wolfcrypt_Md5.h
+jni/include/com_wolfssl_wolfcrypt_Sha.h
+jni/include/com_wolfssl_wolfcrypt_Sha256.h
+jni/include/com_wolfssl_wolfcrypt_Sha384.h
+jni/include/com_wolfssl_wolfcrypt_Sha512.h
+jni/jni_chacha.c
+jni/jni_ecc.c
+jni/jni_fips.c
+jni/jni_md5.c
+jni/jni_native_struct.c
+jni/jni_sha.c
+src/main/java/com/wolfssl/wolfcrypt/Chacha.java
+src/main/java/com/wolfssl/wolfcrypt/Fips.java
+src/main/java/com/wolfssl/wolfcrypt/Md5.java
+src/main/java/com/wolfssl/wolfcrypt/Sha.java
+src/main/java/com/wolfssl/wolfcrypt/Sha256.java
+src/main/java/com/wolfssl/wolfcrypt/Sha384.java
+src/main/java/com/wolfssl/wolfcrypt/Sha512.java

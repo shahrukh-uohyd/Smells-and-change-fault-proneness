@@ -1,0 +1,14 @@
+File Path
+webrtc-jni/src/main/cpp/dependencies/jni-voithos/include/JavaObject.h
+webrtc-jni/src/main/cpp/dependencies/jni-voithos/src/JavaObject.cpp
+webrtc-jni/src/main/cpp/include/JNI_AudioDeviceModule.h
+webrtc-jni/src/main/cpp/include/JNI_PeerConnectionFactory.h
+webrtc-jni/src/main/cpp/include/api/AudioOptions.h
+webrtc-jni/src/main/cpp/src/JNI_AudioDeviceModule.cpp
+webrtc-jni/src/main/cpp/src/JNI_PeerConnectionFactory.cpp
+webrtc-jni/src/main/cpp/src/WebRTCContext.cpp
+webrtc-jni/src/main/cpp/src/api/AudioOptions.cpp
+webrtc/src/main/java/dev/onvoid/webrtc/PeerConnectionFactory.java
+webrtc/src/main/java/dev/onvoid/webrtc/media/audio/AudioDeviceModule.java
+webrtc/src/main/java/dev/onvoid/webrtc/media/video/VideoDesktopSource.java
+webrtc/src/main/java/dev/onvoid/webrtc/media/video/VideoDeviceSource.java
