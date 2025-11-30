@@ -1,0 +1,11 @@
+File Path
+jni-bind/Release-0.9.3-alpha/javatests/com/jnibind/test/ClassLoaderTest.java
+jni-bind/Release-0.9.3-alpha/javatests/com/jnibind/test/string_test_jni.cc
+jni-bind/Release-0.9.3-alpha/javatests/com/jnibind/test/GlobalObjectTest.java
+jni-bind/Release-0.9.3-alpha/javatests/com/jnibind/test/FieldTest.java
+jni-bind/Release-0.9.3-alpha/javatests/com/jnibind/test/LocalObjectTest.java
+jni-bind/Release-0.9.3-alpha/javatests/com/jnibind/test/ArrayTestMethodRank1.java
+jni-bind/Release-0.9.3-alpha/javatests/com/jnibind/test/ContextTest.java
+jni-bind/Release-0.9.3-alpha/javatests/com/jnibind/test/StaticTest.java
+jni-bind/Release-0.9.3-alpha/javatests/com/jnibind/test/MethodTest.java
+jni-bind/Release-0.9.3-alpha/javatests/com/jnibind/test/StringTest.java

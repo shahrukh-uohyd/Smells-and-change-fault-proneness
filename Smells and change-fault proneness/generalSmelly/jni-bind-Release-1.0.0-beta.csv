@@ -1,0 +1,27 @@
+File Path
+jni-bind/Release-1.0.0-beta/javatests/com/jnibind/android/ThreadTest.java
+jni-bind/Release-1.0.0-beta/javatests/com/jnibind/android/ArrayTest.java
+jni-bind/Release-1.0.0-beta/javatests/com/jnibind/test/ArrayTestFieldRank1.java
+jni-bind/Release-1.0.0-beta/javatests/com/jnibind/test/LocalObjectTest.java
+jni-bind/Release-1.0.0-beta/javatests/com/jnibind/android/MethodTest.java
+jni-bind/Release-1.0.0-beta/javatests/com/jnibind/test/MethodTest.java
+jni-bind/Release-1.0.0-beta/javatests/com/jnibind/android/ClassLoaderTest.java
+jni-bind/Release-1.0.0-beta/javatests/com/jnibind/test/ArrayTestMethodRank2.java
+jni-bind/Release-1.0.0-beta/javatests/com/jnibind/test/ArrayTestMethodRank1.java
+jni-bind/Release-1.0.0-beta/javatests/com/jnibind/android/LocalObjectTest.java
+jni-bind/Release-1.0.0-beta/javatests/com/jnibind/android/GlobalObjectTest.java
+jni-bind/Release-1.0.0-beta/javatests/com/jnibind/android/string_test_jni.cc
+jni-bind/Release-1.0.0-beta/javatests/com/jnibind/android/ContextTest.java
+jni-bind/Release-1.0.0-beta/javatests/com/jnibind/test/ThreadTest.java
+jni-bind/Release-1.0.0-beta/javatests/com/jnibind/test/ArrayTestFieldRank2.java
+jni-bind/Release-1.0.0-beta/javatests/com/jnibind/test/ClassLoaderTest.java
+jni-bind/Release-1.0.0-beta/javatests/com/jnibind/test/ContextTest.java
+jni-bind/Release-1.0.0-beta/javatests/com/jnibind/test/GlobalObjectTest.java
+jni-bind/Release-1.0.0-beta/javatests/com/jnibind/test/StringTest.java
+jni-bind/Release-1.0.0-beta/javatests/com/jnibind/android/FieldTest.java
+jni-bind/Release-1.0.0-beta/javatests/com/jnibind/android/StringTest.java
+jni-bind/Release-1.0.0-beta/javatests/com/jnibind/test/StaticTest.java
+jni-bind/Release-1.0.0-beta/javatests/com/jnibind/test/array_test_field_rank_2_jni.cc
+jni-bind/Release-1.0.0-beta/javatests/com/jnibind/test/FieldTest.java
+jni-bind/Release-1.0.0-beta/javatests/com/jnibind/test/BuilderTest.java
+jni-bind/Release-1.0.0-beta/javatests/com/jnibind/test/string_test_jni.cc
