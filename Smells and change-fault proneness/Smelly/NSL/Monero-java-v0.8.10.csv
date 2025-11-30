@@ -1,0 +1,2 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotSecuringLibraries,libName,loadNativeLibrary,MoneroUtils,monero.common,/home/shahrukh/smellDetection/Detection/Revision_new_projects/Monero-java/v0.8.10/src/main/java/monero/common/MoneroUtils.java,MoneroUtils.java
