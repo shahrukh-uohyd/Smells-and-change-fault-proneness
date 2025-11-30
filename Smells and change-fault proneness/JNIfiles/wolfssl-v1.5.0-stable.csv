@@ -1,0 +1,25 @@
+File Path
+src/java/com/wolfssl/WolfSSL.java
+src/java/com/wolfssl/WolfSSLCertManager.java
+src/java/com/wolfssl/WolfSSLCertificate.java
+src/java/com/wolfssl/WolfSSLContext.java
+src/java/com/wolfssl/WolfSSLSession.java
+src/java/com/wolfssl/wolfcrypt/ECC.java
+src/java/com/wolfssl/wolfcrypt/EccKey.java
+src/java/com/wolfssl/wolfcrypt/RSA.java
+native/com_wolfssl_WolfSSL.c
+native/com_wolfssl_WolfSSL.h
+native/com_wolfssl_WolfSSLCertManager.c
+native/com_wolfssl_WolfSSLCertManager.h
+native/com_wolfssl_WolfSSLCertificate.c
+native/com_wolfssl_WolfSSLCertificate.h
+native/com_wolfssl_WolfSSLContext.c
+native/com_wolfssl_WolfSSLContext.h
+native/com_wolfssl_WolfSSLSession.c
+native/com_wolfssl_WolfSSLSession.h
+native/com_wolfssl_wolfcrypt_ECC.c
+native/com_wolfssl_wolfcrypt_ECC.h
+native/com_wolfssl_wolfcrypt_EccKey.c
+native/com_wolfssl_wolfcrypt_EccKey.h
+native/com_wolfssl_wolfcrypt_RSA.c
+native/com_wolfssl_wolfcrypt_RSA.h

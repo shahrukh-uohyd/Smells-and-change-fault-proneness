@@ -1,0 +1,6 @@
+File Path
+src/main/java/org/sqlite/core/NativeDB.java
+lib/inc_linux/jni.h
+lib/inc_mac/jni.h
+lib/inc_win/jni.h
+src/main/java/org/sqlite/core/NativeDB.c
