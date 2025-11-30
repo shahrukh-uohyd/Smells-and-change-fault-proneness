@@ -1,0 +1,7 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,UnusedImplementationDetectio,,jniBuildNewObjectsFromClassLoader,ClassLoaderTest,com.jnibind.test,/home/shahrukh/smellDetection/Detection/Revision_new_projects/jni-bind/Release-1.1.2-beta/javatests/com/jnibind/test/ClassLoaderTest.java,ClassLoaderTest.java
+CS2,UnusedImplementationDetectio,,nativeStringTests,ArrayTestFieldRank2,com.jnibind.test,/home/shahrukh/smellDetection/Detection/Revision_new_projects/jni-bind/Release-1.1.2-beta/javatests/com/jnibind/test/ArrayTestFieldRank2.java,ArrayTestFieldRank2.java
+CS3,UnusedImplementationDetectio,,jniDoubleMethodTakesOneDouble,MethodTest,com.jnibind.test,/home/shahrukh/smellDetection/Detection/Revision_new_projects/jni-bind/Release-1.1.2-beta/javatests/com/jnibind/test/MethodTest.java,MethodTest.java
+CS4,UnusedImplementationDetectio,,jniDoubleMethod,MethodTest,com.jnibind.test,/home/shahrukh/smellDetection/Detection/Revision_new_projects/jni-bind/Release-1.1.2-beta/javatests/com/jnibind/test/MethodTest.java,MethodTest.java
+CS5,UnusedImplementationDetectio,,jniDoubleMethodTakesFiveDoubles,MethodTest,com.jnibind.test,/home/shahrukh/smellDetection/Detection/Revision_new_projects/jni-bind/Release-1.1.2-beta/javatests/com/jnibind/test/MethodTest.java,MethodTest.java
+CS6,UnusedImplementationDetectio,,charFieldTestNative,StaticTest,com.jnibind.test,/home/shahrukh/smellDetection/Detection/Revision_new_projects/jni-bind/Release-1.1.2-beta/javatests/com/jnibind/test/StaticTest.java,StaticTest.java
