@@ -1,0 +1,8 @@
+File Path
+jni/include/com_wolfssl_wolfcrypt_Hmac.h
+jni/jni_ecc.c
+jni/jni_fips.c
+jni/jni_hmac.c
+jni/jni_md5.c
+jni/jni_sha.c
+src/main/java/com/wolfssl/wolfcrypt/Hmac.java

@@ -1,0 +1,4 @@
+File Path
+webrtc-jni/src/main/cpp/include/JNI_AudioDeviceModule.h
+webrtc-jni/src/main/cpp/src/JNI_AudioDeviceModule.cpp
+webrtc/src/main/java/dev/onvoid/webrtc/media/audio/AudioDeviceModule.java

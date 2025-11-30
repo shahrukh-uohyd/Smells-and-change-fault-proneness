@@ -1,0 +1,11 @@
+File Path
+native/com_wolfssl_WolfSSL.c
+native/com_wolfssl_WolfSSL.h
+native/com_wolfssl_WolfSSLCertificate.c
+native/com_wolfssl_WolfSSLContext.c
+native/com_wolfssl_WolfSSLSession.c
+src/java/com/wolfssl/WolfSSL.java
+src/java/com/wolfssl/WolfSSLCertManager.java
+src/java/com/wolfssl/WolfSSLCertificate.java
+src/java/com/wolfssl/WolfSSLContext.java
+src/java/com/wolfssl/WolfSSLSession.java

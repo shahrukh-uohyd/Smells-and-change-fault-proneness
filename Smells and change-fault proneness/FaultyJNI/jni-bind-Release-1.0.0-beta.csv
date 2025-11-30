@@ -1,0 +1,20 @@
+File Path
+implementation/jvm_ref.h
+javatests/com/jnibind/android/ClassLoaderTest.java
+javatests/com/jnibind/android/class_loader_test_jni.cc
+javatests/com/jnibind/test/ArrayTestFieldRank2.java
+javatests/com/jnibind/test/ArrayTestMethodRank1.java
+javatests/com/jnibind/test/ArrayTestMethodRank2.java
+javatests/com/jnibind/test/BuilderTest.java
+javatests/com/jnibind/test/ClassLoaderTest.java
+javatests/com/jnibind/test/ContextTest.java
+javatests/com/jnibind/test/FieldTest.java
+javatests/com/jnibind/test/GlobalObjectTest.java
+javatests/com/jnibind/test/LocalObjectTest.java
+javatests/com/jnibind/test/MethodTest.java
+javatests/com/jnibind/test/StringTest.java
+javatests/com/jnibind/test/ThreadTest.java
+javatests/com/jnibind/test/static_test_jni.cc
+javatests/com/jnibind/test/thread_test_jni.cc
+jni_bind_release.h
+jni_test.h

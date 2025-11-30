@@ -1,0 +1,11 @@
+File Path
+implementation/jvm_ref.h
+javatests/com/jnibind/test/ArrayTestMethodRank2.java
+javatests/com/jnibind/test/GlobalObjectTest.java
+javatests/com/jnibind/test/MethodTest.java
+javatests/com/jnibind/test/context_test_jni.cc
+javatests/com/jnibind/test/global_object_test_jni.cc
+javatests/com/jnibind/test/method_test_jni.cc
+javatests/com/jnibind/test/string_test_jni.cc
+jni_bind_release.h
+jni_test.h

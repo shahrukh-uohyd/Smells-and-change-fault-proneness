@@ -1,0 +1,10 @@
+File Path
+jni/jni_curve25519.c
+jni/jni_dh.c
+jni/jni_ecc.c
+jni/jni_ed25519.c
+jni/jni_hmac.c
+jni/jni_md5.c
+jni/jni_rng.c
+jni/jni_rsa.c
+jni/jni_sha.c

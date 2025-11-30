@@ -1,0 +1,21 @@
+File Path
+webrtc-jni/src/main/cpp/dependencies/jni-voithos/include/JavaContext.h
+webrtc-jni/src/main/cpp/dependencies/jni-voithos/include/JavaUtils.h
+webrtc-jni/src/main/cpp/dependencies/jni-voithos/src/JavaContext.cpp
+webrtc-jni/src/main/cpp/dependencies/jni-voithos/src/JavaUtils.cpp
+webrtc-jni/src/main/cpp/include/JNI_MediaDevices.h
+webrtc-jni/src/main/cpp/include/media/audio/AudioProcessingConfig.h
+webrtc-jni/src/main/cpp/include/media/audio/AudioProcessingStats.h
+webrtc-jni/src/main/cpp/src/JNI_AudioProcessing.cpp
+webrtc-jni/src/main/cpp/src/JNI_MediaDevices.cpp
+webrtc-jni/src/main/cpp/src/JNI_PeerConnectionFactory.cpp
+webrtc-jni/src/main/cpp/src/JNI_RTCPeerConnection.cpp
+webrtc-jni/src/main/cpp/src/JNI_RTCRtpTransceiver.cpp
+webrtc-jni/src/main/cpp/src/WebRTCContext.cpp
+webrtc-jni/src/main/cpp/src/media/audio/AudioProcessing.cpp
+webrtc-jni/src/main/cpp/src/media/audio/AudioProcessingConfig.cpp
+webrtc-jni/src/main/cpp/src/media/audio/AudioProcessingStats.cpp
+webrtc-jni/src/main/cpp/src/media/audio/AudioTransportSource.cpp
+webrtc-jni/src/main/cpp/src/media/video/desktop/DesktopCaptureCallback.cpp
+webrtc/src/main/java/dev/onvoid/webrtc/media/MediaDevices.java
+webrtc/src/main/java/dev/onvoid/webrtc/media/audio/AudioProcessing.java

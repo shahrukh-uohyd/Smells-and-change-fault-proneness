@@ -1,0 +1,6 @@
+File Path
+jni/include/com_wolfssl_wolfcrypt_Chacha.h
+jni/jni_chacha.c
+jni/jni_ecc.c
+jni/jni_native_struct.c
+src/main/java/com/wolfssl/wolfcrypt/Chacha.java
