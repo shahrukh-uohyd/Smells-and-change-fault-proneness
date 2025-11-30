@@ -1,0 +1,3 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,PassingExcessiveObjects,jcapability,Java_dev_onvoid_webrtc_media_video_VideoDeviceSource_setVideoCaptureCapability,,,/home/shahrukh/smellDetection/Detection/revision projects/webrtc/v0.8.0/webrtc-jni/src/main/cpp/src/JNI_VideoDeviceSource.cpp,JNI_VideoDeviceSource.cpp
+CS2,PassingExcessiveObjects,jcapability,Java_dev_onvoid_webrtc_media_video_VideoCapture_setVideoCaptureCapability,,,/home/shahrukh/smellDetection/Detection/revision projects/webrtc/v0.8.0/webrtc-jni/src/main/cpp/src/JNI_VideoCapture.cpp,JNI_VideoCapture.cpp
