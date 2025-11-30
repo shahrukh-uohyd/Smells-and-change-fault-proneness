@@ -1,4 +1,0 @@
-JNI_File,NCOE,LRA1,NSL1,HCL1,MMM,TMS,UP,TMC,PEO1,ASMRV1,UNMI,UNMD,NURP1,NHE1,Changed
-cloned_abidi/java-smt-2.0.0-alpha/src/org/sosy_lab/java_smt/solvers/mathsat5/Mathsat5NativeApi.java,0,0,0,0,0,0,0,1,0,0,43,129,0,0,1
-cloned_abidi/java-smt-2.0.0-alpha/lib/native/source/libmathsat5j/optimization.c,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-cloned_abidi/java-smt-2.0.0-alpha/lib/native/source/libmathsat5j/org_sosy_1lab_java_1smt_solvers_mathsat5_Mathsat5NativeApi.c,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1

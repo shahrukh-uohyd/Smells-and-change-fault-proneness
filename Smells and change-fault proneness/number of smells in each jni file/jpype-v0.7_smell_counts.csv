@@ -1,8 +1,0 @@
-JNI_File,NCOE,LRA1,NSL1,HCL1,MMM,TMS,UP,TMC,PEO1,ASMRV1,UNMI,UNMD,NURP1,NHE1,Changed
-cloned_abidi/jpype-v0.7/native/java/org/jpype/proxy/JPypeInvocationHandler.java,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
-cloned_abidi/jpype-v0.7/native/java/org/jpype/ref/JPypeReferenceQueue.java,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-cloned_abidi/jpype-v0.7/native/common/include/jp_javaframe.h,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
-cloned_abidi/jpype-v0.7/native/common/jp_env.cpp,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0
-cloned_abidi/jpype-v0.7/native/common/jp_proxy.cpp,0,2,0,0,0,0,0,0,0,0,0,0,0,2,1
-cloned_abidi/jpype-v0.7/native/common/jp_reference_queue.cpp,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0
-cloned_abidi/jpype-v0.7/native/jni_include/jni.h,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0
