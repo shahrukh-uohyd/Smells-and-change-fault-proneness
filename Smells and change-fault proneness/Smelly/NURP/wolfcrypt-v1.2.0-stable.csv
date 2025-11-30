@@ -1,0 +1,3 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotUsingRelativePath,"wolfcryptjni",,FeatureDetect,com.wolfssl.wolfcrypt,/home/shahrukh/smellDetection/Detection/revision projects/wolfcrypt/v1.2.0-stable/src/main/java/com/wolfssl/wolfcrypt/FeatureDetect.java,FeatureDetect.java
+CS2,NotUsingRelativePath,"wolfcryptjni",,WolfObject,com.wolfssl.wolfcrypt,/home/shahrukh/smellDetection/Detection/revision projects/wolfcrypt/v1.2.0-stable/src/main/java/com/wolfssl/wolfcrypt/WolfObject.java,WolfObject.java
