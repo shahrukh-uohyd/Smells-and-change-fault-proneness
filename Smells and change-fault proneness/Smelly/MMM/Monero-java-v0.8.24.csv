@@ -1,0 +1,6 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,MemoryManagementMismatch,StringUTFChars,Java_monero_wallet_MoneroWalletFull_changePasswordJni,,,/home/shahrukh/smellDetection/Detection/Revision_new_projects/Monero-java/v0.8.24/src/main/cpp/monero_jni_bridge.cpp,monero_jni_bridge.cpp
+CS2,MemoryManagementMismatch,IntArrayElements,Java_monero_wallet_MoneroWalletFull_getAddressBookEntriesJni,,,/home/shahrukh/smellDetection/Detection/Revision_new_projects/Monero-java/v0.8.24/src/main/cpp/monero_jni_bridge.cpp,monero_jni_bridge.cpp
+CS3,MemoryManagementMismatch,ByteArrayElements,Java_monero_common_MoneroUtils_binaryToJsonJni,,,/home/shahrukh/smellDetection/Detection/Revision_new_projects/Monero-java/v0.8.24/src/main/cpp/monero_jni_bridge.cpp,monero_jni_bridge.cpp
+CS4,MemoryManagementMismatch,ByteArrayElements,Java_monero_common_MoneroUtils_binaryBlocksToJsonJni,,,/home/shahrukh/smellDetection/Detection/Revision_new_projects/Monero-java/v0.8.24/src/main/cpp/monero_jni_bridge.cpp,monero_jni_bridge.cpp
+CS5,MemoryManagementMismatch,IntArrayElements,Java_monero_wallet_MoneroWalletFull_getSubaddressesJni,,,/home/shahrukh/smellDetection/Detection/Revision_new_projects/Monero-java/v0.8.24/src/main/cpp/monero_jni_bridge.cpp,monero_jni_bridge.cpp
