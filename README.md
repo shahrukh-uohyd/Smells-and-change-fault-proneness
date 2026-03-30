@@ -2,7 +2,8 @@
 
 This repository contains the replication package for the paper:
 
-> "Title of Your Paper"
+ "The Influence of Multi-Language Design Smells on
+Change- and Fault-Proneness: An Empirical Study"
 
 It includes all data, scripts, and instructions required to reproduce the results presented in the study.
 
