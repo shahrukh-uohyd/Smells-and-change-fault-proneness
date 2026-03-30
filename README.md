@@ -1,4 +1,4 @@
-# Replication Package: Multi-language Design Smells and Maintenance Outcomes
+# Replication Package: The Influence of Multi-Language Design Smells on Change- and Fault-Proneness: An Empirical Study
 
 This repository contains the replication package for the paper:
 
