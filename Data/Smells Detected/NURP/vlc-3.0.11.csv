@@ -1,0 +1,13 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotUsingRelativePath,"anw.13",loadLibraries,LibVLC,org.videolan.libvlc,/home/shahrukh/smellDetection/Detection/cloned_abidi/vlc-3.0.11/libvlc/src/org/videolan/libvlc/LibVLC.java,LibVLC.java
+CS2,NotUsingRelativePath,"iomx.13",loadLibraries,LibVLC,org.videolan.libvlc,/home/shahrukh/smellDetection/Detection/cloned_abidi/vlc-3.0.11/libvlc/src/org/videolan/libvlc/LibVLC.java,LibVLC.java
+CS3,NotUsingRelativePath,"iomx.14",loadLibraries,LibVLC,org.videolan.libvlc,/home/shahrukh/smellDetection/Detection/cloned_abidi/vlc-3.0.11/libvlc/src/org/videolan/libvlc/LibVLC.java,LibVLC.java
+CS4,NotUsingRelativePath,"anw.14",loadLibraries,LibVLC,org.videolan.libvlc,/home/shahrukh/smellDetection/Detection/cloned_abidi/vlc-3.0.11/libvlc/src/org/videolan/libvlc/LibVLC.java,LibVLC.java
+CS5,NotUsingRelativePath,"iomx.18",loadLibraries,LibVLC,org.videolan.libvlc,/home/shahrukh/smellDetection/Detection/cloned_abidi/vlc-3.0.11/libvlc/src/org/videolan/libvlc/LibVLC.java,LibVLC.java
+CS6,NotUsingRelativePath,"jniloader",loadLibraries,LibVLC,org.videolan.libvlc,/home/shahrukh/smellDetection/Detection/cloned_abidi/vlc-3.0.11/libvlc/src/org/videolan/libvlc/LibVLC.java,LibVLC.java
+CS7,NotUsingRelativePath,"anw.10",loadLibraries,LibVLC,org.videolan.libvlc,/home/shahrukh/smellDetection/Detection/cloned_abidi/vlc-3.0.11/libvlc/src/org/videolan/libvlc/LibVLC.java,LibVLC.java
+CS8,NotUsingRelativePath,"anw.21",loadLibraries,LibVLC,org.videolan.libvlc,/home/shahrukh/smellDetection/Detection/cloned_abidi/vlc-3.0.11/libvlc/src/org/videolan/libvlc/LibVLC.java,LibVLC.java
+CS9,NotUsingRelativePath,"iomx.19",loadLibraries,LibVLC,org.videolan.libvlc,/home/shahrukh/smellDetection/Detection/cloned_abidi/vlc-3.0.11/libvlc/src/org/videolan/libvlc/LibVLC.java,LibVLC.java
+CS10,NotUsingRelativePath,"iomx.10",loadLibraries,LibVLC,org.videolan.libvlc,/home/shahrukh/smellDetection/Detection/cloned_abidi/vlc-3.0.11/libvlc/src/org/videolan/libvlc/LibVLC.java,LibVLC.java
+CS11,NotUsingRelativePath,"vlcjni",loadLibraries,LibVLC,org.videolan.libvlc,/home/shahrukh/smellDetection/Detection/cloned_abidi/vlc-3.0.11/libvlc/src/org/videolan/libvlc/LibVLC.java,LibVLC.java
+CS12,NotUsingRelativePath,"anw.18",loadLibraries,LibVLC,org.videolan.libvlc,/home/shahrukh/smellDetection/Detection/cloned_abidi/vlc-3.0.11/libvlc/src/org/videolan/libvlc/LibVLC.java,LibVLC.java

@@ -1,0 +1,6 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,AssumingSafeMultiLanguageReturnValuesDetectio,className,JNI_findClass,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/pljava-V1_5_3/pljava-so/src/main/c/JNICalls.c,JNICalls.c
+CS2,AssumingSafeMultiLanguageReturnValuesDetectio,name,JNI_getMethodID,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/pljava-V1_5_3/pljava-so/src/main/c/JNICalls.c,JNICalls.c
+CS3,AssumingSafeMultiLanguageReturnValuesDetectio,name,JNI_getFieldID,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/pljava-V1_5_3/pljava-so/src/main/c/JNICalls.c,JNICalls.c
+CS4,AssumingSafeMultiLanguageReturnValuesDetectio,name,JNI_getStaticMethodID,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/pljava-V1_5_3/pljava-so/src/main/c/JNICalls.c,JNICalls.c
+CS5,AssumingSafeMultiLanguageReturnValuesDetectio,name,JNI_getStaticFieldID,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/pljava-V1_5_3/pljava-so/src/main/c/JNICalls.c,JNICalls.c

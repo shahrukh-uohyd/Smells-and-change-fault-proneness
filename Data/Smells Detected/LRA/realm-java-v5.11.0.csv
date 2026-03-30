@@ -1,0 +1,3 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,LocalReferencesAbuse,key,Java_io_realm_internal_OsRealmConfig_nativeCreateAndSetSyncConfig,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/realm-java-v5.11.0/realm/realm-library/src/main/cpp/io_realm_internal_OsRealmConfig.cpp,io_realm_internal_OsRealmConfig.cpp
+CS2,LocalReferencesAbuse,value,Java_io_realm_internal_OsRealmConfig_nativeCreateAndSetSyncConfig,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/realm-java-v5.11.0/realm/realm-library/src/main/cpp/io_realm_internal_OsRealmConfig.cpp,io_realm_internal_OsRealmConfig.cpp

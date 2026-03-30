@@ -1,0 +1,14 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+AP1,TooMuchScatteringDetectio,,,Artist,org.videolan.medialibrary.media,/home/abhaya/shahrukh/cloned_abidi/vlc-3.0.0/medialibrary/src/org/videolan/medialibrary/media/Artist.java
+AP2,TooMuchScatteringDetectio,,,LoginDialog,org.videolan.libvlc,/home/abhaya/shahrukh/cloned_abidi/vlc-3.0.0/libvlc/src/org/videolan/libvlc/Dialog.java
+AP3,TooMuchScatteringDetectio,,,MediaWrapper,org.videolan.medialibrary.media,/home/abhaya/shahrukh/cloned_abidi/vlc-3.0.0/medialibrary/src/org/videolan/medialibrary/media/MediaWrapper.java
+AP4,TooMuchScatteringDetectio,,,Dialog,org.videolan.libvlc,/home/abhaya/shahrukh/cloned_abidi/vlc-3.0.0/libvlc/src/org/videolan/libvlc/Dialog.java
+AP5,TooMuchScatteringDetectio,,,RendererItem,org.videolan.libvlc,/home/abhaya/shahrukh/cloned_abidi/vlc-3.0.0/libvlc/src/org/videolan/libvlc/RendererItem.java
+AP6,TooMuchScatteringDetectio,,,Genre,org.videolan.medialibrary.media,/home/abhaya/shahrukh/cloned_abidi/vlc-3.0.0/medialibrary/src/org/videolan/medialibrary/media/Genre.java
+AP7,TooMuchScatteringDetectio,,,MediaDiscoverer,org.videolan.libvlc,/home/abhaya/shahrukh/cloned_abidi/vlc-3.0.0/libvlc/src/org/videolan/libvlc/MediaDiscoverer.java
+AP8,TooMuchScatteringDetectio,,,VLCObject<T extends VLCEvent>,org.videolan.libvlc,/home/abhaya/shahrukh/cloned_abidi/vlc-3.0.0/libvlc/src/org/videolan/libvlc/VLCObject.java
+AP9,TooMuchScatteringDetectio,,,IdDialog,org.videolan.libvlc,/home/abhaya/shahrukh/cloned_abidi/vlc-3.0.0/libvlc/src/org/videolan/libvlc/Dialog.java
+AP10,TooMuchScatteringDetectio,,,QuestionDialog,org.videolan.libvlc,/home/abhaya/shahrukh/cloned_abidi/vlc-3.0.0/libvlc/src/org/videolan/libvlc/Dialog.java
+AP11,TooMuchScatteringDetectio,,,RendererDiscoverer,org.videolan.libvlc,/home/abhaya/shahrukh/cloned_abidi/vlc-3.0.0/libvlc/src/org/videolan/libvlc/RendererDiscoverer.java
+AP12,TooMuchScatteringDetectio,,,AWindow,org.videolan.libvlc,/home/abhaya/shahrukh/cloned_abidi/vlc-3.0.0/libvlc/src/org/videolan/libvlc/AWindow.java
+AP13,TooMuchScatteringDetectio,,,Album,org.videolan.medialibrary.media,/home/abhaya/shahrukh/cloned_abidi/vlc-3.0.0/medialibrary/src/org/videolan/medialibrary/media/Album.java

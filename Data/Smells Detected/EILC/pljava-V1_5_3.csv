@@ -1,0 +1,6 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+AP1,ExcessiveInterLanguageCommunicationDetectio,,_getOid,TupleDesc,org.postgresql.pljava.internal,/home/shahrukh/smellDetection/Detection/cloned_abidi/remainingForEILC/pljava-V1_5_3/pljava/src/main/java/org/postgresql/pljava/internal/TupleDesc.java
+AP2,ExcessiveInterLanguageCommunicationDetectio,,_detoast,State,org.postgresql.pljava.internal,/home/shahrukh/smellDetection/Detection/cloned_abidi/remainingForEILC/pljava-V1_5_3/pljava/src/main/java/org/postgresql/pljava/internal/VarlenaWrapper.java
+AP3,ExcessiveInterLanguageCommunicationDetectio,,_nextBuffer,State,org.postgresql.pljava.internal,/home/shahrukh/smellDetection/Detection/cloned_abidi/remainingForEILC/pljava-V1_5_3/pljava/src/main/java/org/postgresql/pljava/internal/VarlenaWrapper.java
+AP4,ExcessiveInterLanguageCommunicationDetectio,,_release,PgSavepoint,org.postgresql.pljava.internal,/home/shahrukh/smellDetection/Detection/cloned_abidi/remainingForEILC/pljava-V1_5_3/pljava/src/main/java/org/postgresql/pljava/internal/PgSavepoint.java
+AP5,ExcessiveInterLanguageCommunicationDetectio,,_rollback,PgSavepoint,org.postgresql.pljava.internal,/home/shahrukh/smellDetection/Detection/cloned_abidi/remainingForEILC/pljava-V1_5_3/pljava/src/main/java/org/postgresql/pljava/internal/PgSavepoint.java

@@ -1,0 +1,6 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotSecuringLibraries,libraryJavaFile,loadNativeLibrary,MoneroUtils,monero.common,/home/shahrukh/smellDetection/Detection/Revision_new_projects/Monero-java/v0.8.24/src/main/java/monero/common/MoneroUtils.java,MoneroUtils.java
+CS2,NotSecuringLibraries,libraryCppFile,loadNativeLibrary,MoneroUtils,monero.common,/home/shahrukh/smellDetection/Detection/Revision_new_projects/Monero-java/v0.8.24/src/main/java/monero/common/MoneroUtils.java,MoneroUtils.java
+CS3,NotSecuringLibraries,tempDir.resolve(libraryJavaFile).toString(),loadNativeLibrary,MoneroUtils,monero.common,/home/shahrukh/smellDetection/Detection/Revision_new_projects/Monero-java/v0.8.24/src/main/java/monero/common/MoneroUtils.java,MoneroUtils.java
+CS4,NotSecuringLibraries,tempDir.resolve(libraryCppFile).toString(),loadNativeLibrary,MoneroUtils,monero.common,/home/shahrukh/smellDetection/Detection/Revision_new_projects/Monero-java/v0.8.24/src/main/java/monero/common/MoneroUtils.java,MoneroUtils.java
+CS5,NotSecuringLibraries,libName,loadNativeLibrary,MoneroUtils,monero.common,/home/shahrukh/smellDetection/Detection/Revision_new_projects/Monero-java/v0.8.24/src/main/java/monero/common/MoneroUtils.java,MoneroUtils.java

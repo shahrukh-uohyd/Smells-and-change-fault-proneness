@@ -1,0 +1,7 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+AP1,ExcessiveInterLanguageCommunicationDetectio,,getUnlockedBalanceSubaddressJni,MoneroWalletFull,monero.wallet,/home/shahrukh/smellDetection/Detection/Revision_new_projects/Monero-java/v0.8.24/src/main/java/monero/wallet/MoneroWalletFull.java
+AP2,ExcessiveInterLanguageCommunicationDetectio,,openWalletJni,MoneroWalletFull,monero.wallet,/home/shahrukh/smellDetection/Detection/Revision_new_projects/Monero-java/v0.8.24/src/main/java/monero/wallet/MoneroWalletFull.java
+AP3,ExcessiveInterLanguageCommunicationDetectio,,getBalanceSubaddressJni,MoneroWalletFull,monero.wallet,/home/shahrukh/smellDetection/Detection/Revision_new_projects/Monero-java/v0.8.24/src/main/java/monero/wallet/MoneroWalletFull.java
+AP4,ExcessiveInterLanguageCommunicationDetectio,,getBalanceAccountJni,MoneroWalletFull,monero.wallet,/home/shahrukh/smellDetection/Detection/Revision_new_projects/Monero-java/v0.8.24/src/main/java/monero/wallet/MoneroWalletFull.java
+AP5,ExcessiveInterLanguageCommunicationDetectio,,walletExistsJni,MoneroWalletFull,monero.wallet,/home/shahrukh/smellDetection/Detection/Revision_new_projects/Monero-java/v0.8.24/src/main/java/monero/wallet/MoneroWalletFull.java
+AP6,ExcessiveInterLanguageCommunicationDetectio,,getUnlockedBalanceAccountJni,MoneroWalletFull,monero.wallet,/home/shahrukh/smellDetection/Detection/Revision_new_projects/Monero-java/v0.8.24/src/main/java/monero/wallet/MoneroWalletFull.java

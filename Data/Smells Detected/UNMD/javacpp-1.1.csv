@@ -1,0 +1,26 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,UnusedDeclarationDetectio,,put,SizeTPointer,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-1.1/src/main/java/org/bytedeco/javacpp/SizeTPointer.java,SizeTPointer.java
+CS2,UnusedDeclarationDetectio,,fetchSharedData,AdapterTest,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-1.1/src/test/java/org/bytedeco/javacpp/AdapterTest.java,AdapterTest.java
+CS3,UnusedDeclarationDetectio,,allocateArray,SizeTPointer,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-1.1/src/main/java/org/bytedeco/javacpp/SizeTPointer.java,SizeTPointer.java
+CS4,UnusedDeclarationDetectio,,storeSharedData,AdapterTest,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-1.1/src/test/java/org/bytedeco/javacpp/AdapterTest.java,AdapterTest.java
+CS5,UnusedDeclarationDetectio,,testStdString,AdapterTest,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-1.1/src/test/java/org/bytedeco/javacpp/AdapterTest.java,AdapterTest.java
+CS6,UnusedDeclarationDetectio,,testStdVectorByVal,AdapterTest,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-1.1/src/test/java/org/bytedeco/javacpp/AdapterTest.java,AdapterTest.java
+CS7,UnusedDeclarationDetectio,,memset,Pointer,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-1.1/src/main/java/org/bytedeco/javacpp/Pointer.java,Pointer.java
+CS8,UnusedDeclarationDetectio,,destructorCount,AdapterTest,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-1.1/src/test/java/org/bytedeco/javacpp/AdapterTest.java,AdapterTest.java
+CS9,UnusedDeclarationDetectio,,memcpy,Pointer,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-1.1/src/main/java/org/bytedeco/javacpp/Pointer.java,Pointer.java
+CS10,UnusedDeclarationDetectio,,memmove,Pointer,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-1.1/src/main/java/org/bytedeco/javacpp/Pointer.java,Pointer.java
+CS11,UnusedDeclarationDetectio,,constructorCount,AdapterTest,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-1.1/src/test/java/org/bytedeco/javacpp/AdapterTest.java,AdapterTest.java
+CS12,UnusedDeclarationDetectio,,testStdVectorByPtr,AdapterTest,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-1.1/src/test/java/org/bytedeco/javacpp/AdapterTest.java,AdapterTest.java
+CS13,UnusedDeclarationDetectio,,testStdVectorByRef,AdapterTest,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-1.1/src/test/java/org/bytedeco/javacpp/AdapterTest.java,AdapterTest.java
+CS14,UnusedDeclarationDetectio,,get,SizeTPointer,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-1.1/src/main/java/org/bytedeco/javacpp/SizeTPointer.java,SizeTPointer.java
+CS15,UnusedDeclarationDetectio,,errno,IndexerTest,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-1.1/src/test/java/org/bytedeco/javacpp/IndexerTest.java,IndexerTest.java
+CS16,UnusedDeclarationDetectio,,data,SharedData,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-1.1/src/test/java/org/bytedeco/javacpp/AdapterTest.java,AdapterTest.java
+CS17,UnusedDeclarationDetectio,,testShortString,AdapterTest,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-1.1/src/test/java/org/bytedeco/javacpp/AdapterTest.java,AdapterTest.java
+CS18,UnusedDeclarationDetectio,,asDirectBuffer,Pointer,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-1.1/src/main/java/org/bytedeco/javacpp/Pointer.java,Pointer.java
+CS19,UnusedDeclarationDetectio,,testCharString,AdapterTest,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-1.1/src/test/java/org/bytedeco/javacpp/AdapterTest.java,AdapterTest.java
+CS20,UnusedDeclarationDetectio,,deallocate,NativeDeallocator,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-1.1/src/main/java/org/bytedeco/javacpp/Pointer.java,Pointer.java
+CS21,UnusedDeclarationDetectio,,testIntString,AdapterTest,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-1.1/src/test/java/org/bytedeco/javacpp/AdapterTest.java,AdapterTest.java
+CS22,UnusedDeclarationDetectio,,createSharedData,AdapterTest,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-1.1/src/test/java/org/bytedeco/javacpp/AdapterTest.java,AdapterTest.java
+CS23,UnusedDeclarationDetectio,,memchr,Pointer,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-1.1/src/main/java/org/bytedeco/javacpp/Pointer.java,Pointer.java
+CS24,UnusedDeclarationDetectio,,memcmp,Pointer,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-1.1/src/main/java/org/bytedeco/javacpp/Pointer.java,Pointer.java
+CS25,UnusedDeclarationDetectio,,allocate,SharedData,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-1.1/src/test/java/org/bytedeco/javacpp/AdapterTest.java,AdapterTest.java

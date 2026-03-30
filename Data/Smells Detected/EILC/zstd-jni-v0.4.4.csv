@@ -1,0 +1,4 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+AP1,ExcessiveInterLanguageCommunicationDetectio,,getErrorName,Zstd,com.github.luben.zstd,/home/shahrukh/smellDetection/Detection/cloned_abidi/remainingForEILC/zstd-jni-v0.4.4/src/main/java/com/github/luben/zstd/Zstd.java
+AP2,ExcessiveInterLanguageCommunicationDetectio,,nextSrcSizeToDecompress,ZstdInputStream,com.github.luben.zstd,/home/shahrukh/smellDetection/Detection/cloned_abidi/remainingForEILC/zstd-jni-v0.4.4/src/main/java/com/github/luben/zstd/ZstdInputStream.java
+AP3,ExcessiveInterLanguageCommunicationDetectio,,isError,Zstd,com.github.luben.zstd,/home/shahrukh/smellDetection/Detection/cloned_abidi/remainingForEILC/zstd-jni-v0.4.4/src/main/java/com/github/luben/zstd/Zstd.java

@@ -1,0 +1,4 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+AP1,TooMuchClusteringDetectio,,,ColumnFamilyOptions,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v6.1.1/java/src/main/java/org/rocksdb/ColumnFamilyOptions.java
+AP2,TooMuchClusteringDetectio,,,RocksDB,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v6.1.1/java/src/main/java/org/rocksdb/RocksDB.java
+AP3,TooMuchClusteringDetectio,,,DBOptions,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v6.1.1/java/src/main/java/org/rocksdb/DBOptions.java

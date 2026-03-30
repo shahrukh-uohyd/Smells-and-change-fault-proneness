@@ -1,0 +1,9 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotCachingObjectsElements,"getHostAddress",Java_com_wolfssl_WolfSSLSession_dtlsSetPeer,,,/home/shahrukh/smellDetection/Detection/revision projects/wolfssl/v1.12.0-stable/native/com_wolfssl_WolfSSLSession.c,com_wolfssl_WolfSSLSession.c
+CS2,NotCachingObjectsElements,"isAnyLocalAddress",Java_com_wolfssl_WolfSSLSession_dtlsSetPeer,,,/home/shahrukh/smellDetection/Detection/revision projects/wolfssl/v1.12.0-stable/native/com_wolfssl_WolfSSLSession.c,com_wolfssl_WolfSSLSession.c
+CS3,NotCachingObjectsElements,"fd",Java_com_wolfssl_WolfSSLSession_setFd,,,/home/shahrukh/smellDetection/Detection/revision projects/wolfssl/v1.12.0-stable/native/com_wolfssl_WolfSSLSession.c,com_wolfssl_WolfSSLSession.c
+CS4,NotCachingObjectsElements,"descriptor",Java_com_wolfssl_WolfSSLSession_setFd,,,/home/shahrukh/smellDetection/Detection/revision projects/wolfssl/v1.12.0-stable/native/com_wolfssl_WolfSSLSession.c,com_wolfssl_WolfSSLSession.c
+CS5,NotCachingObjectsElements,"impl",Java_com_wolfssl_WolfSSLSession_setFd,,,/home/shahrukh/smellDetection/Detection/revision projects/wolfssl/v1.12.0-stable/native/com_wolfssl_WolfSSLSession.c,com_wolfssl_WolfSSLSession.c
+CS6,NotCachingObjectsElements,"delegate",Java_com_wolfssl_WolfSSLSession_setFd,,,/home/shahrukh/smellDetection/Detection/revision projects/wolfssl/v1.12.0-stable/native/com_wolfssl_WolfSSLSession.c,com_wolfssl_WolfSSLSession.c
+CS7,NotCachingObjectsElements,"getAddress",Java_com_wolfssl_WolfSSLSession_dtlsSetPeer,,,/home/shahrukh/smellDetection/Detection/revision projects/wolfssl/v1.12.0-stable/native/com_wolfssl_WolfSSLSession.c,com_wolfssl_WolfSSLSession.c
+CS8,NotCachingObjectsElements,"getPort",Java_com_wolfssl_WolfSSLSession_dtlsSetPeer,,,/home/shahrukh/smellDetection/Detection/revision projects/wolfssl/v1.12.0-stable/native/com_wolfssl_WolfSSLSession.c,com_wolfssl_WolfSSLSession.c

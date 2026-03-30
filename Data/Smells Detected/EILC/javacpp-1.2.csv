@@ -1,0 +1,15 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+AP1,ExcessiveInterLanguageCommunicationDetectio,,get,DoublePointer,org.bytedeco.javacpp,/home/shahrukh/smellDetection/Detection/cloned_abidi/remainingForEILC/javacpp-1.2/src/main/java/org/bytedeco/javacpp/DoublePointer.java
+AP2,ExcessiveInterLanguageCommunicationDetectio,,put,ShortPointer,org.bytedeco.javacpp,/home/shahrukh/smellDetection/Detection/cloned_abidi/remainingForEILC/javacpp-1.2/src/main/java/org/bytedeco/javacpp/ShortPointer.java
+AP3,ExcessiveInterLanguageCommunicationDetectio,,put,BytePointer,org.bytedeco.javacpp,/home/shahrukh/smellDetection/Detection/cloned_abidi/remainingForEILC/javacpp-1.2/src/main/java/org/bytedeco/javacpp/BytePointer.java
+AP4,ExcessiveInterLanguageCommunicationDetectio,,get,CharPointer,org.bytedeco.javacpp,/home/shahrukh/smellDetection/Detection/cloned_abidi/remainingForEILC/javacpp-1.2/src/main/java/org/bytedeco/javacpp/CharPointer.java
+AP5,ExcessiveInterLanguageCommunicationDetectio,,put,CharPointer,org.bytedeco.javacpp,/home/shahrukh/smellDetection/Detection/cloned_abidi/remainingForEILC/javacpp-1.2/src/main/java/org/bytedeco/javacpp/CharPointer.java
+AP6,ExcessiveInterLanguageCommunicationDetectio,,get,FloatPointer,org.bytedeco.javacpp,/home/shahrukh/smellDetection/Detection/cloned_abidi/remainingForEILC/javacpp-1.2/src/main/java/org/bytedeco/javacpp/FloatPointer.java
+AP7,ExcessiveInterLanguageCommunicationDetectio,,get,LongPointer,org.bytedeco.javacpp,/home/shahrukh/smellDetection/Detection/cloned_abidi/remainingForEILC/javacpp-1.2/src/main/java/org/bytedeco/javacpp/LongPointer.java
+AP8,ExcessiveInterLanguageCommunicationDetectio,,put,LongPointer,org.bytedeco.javacpp,/home/shahrukh/smellDetection/Detection/cloned_abidi/remainingForEILC/javacpp-1.2/src/main/java/org/bytedeco/javacpp/LongPointer.java
+AP9,ExcessiveInterLanguageCommunicationDetectio,,get,ShortPointer,org.bytedeco.javacpp,/home/shahrukh/smellDetection/Detection/cloned_abidi/remainingForEILC/javacpp-1.2/src/main/java/org/bytedeco/javacpp/ShortPointer.java
+AP10,ExcessiveInterLanguageCommunicationDetectio,,put,FloatPointer,org.bytedeco.javacpp,/home/shahrukh/smellDetection/Detection/cloned_abidi/remainingForEILC/javacpp-1.2/src/main/java/org/bytedeco/javacpp/FloatPointer.java
+AP11,ExcessiveInterLanguageCommunicationDetectio,,get,BytePointer,org.bytedeco.javacpp,/home/shahrukh/smellDetection/Detection/cloned_abidi/remainingForEILC/javacpp-1.2/src/main/java/org/bytedeco/javacpp/BytePointer.java
+AP12,ExcessiveInterLanguageCommunicationDetectio,,get,IntPointer,org.bytedeco.javacpp,/home/shahrukh/smellDetection/Detection/cloned_abidi/remainingForEILC/javacpp-1.2/src/main/java/org/bytedeco/javacpp/IntPointer.java
+AP13,ExcessiveInterLanguageCommunicationDetectio,,put,IntPointer,org.bytedeco.javacpp,/home/shahrukh/smellDetection/Detection/cloned_abidi/remainingForEILC/javacpp-1.2/src/main/java/org/bytedeco/javacpp/IntPointer.java
+AP14,ExcessiveInterLanguageCommunicationDetectio,,put,DoublePointer,org.bytedeco.javacpp,/home/shahrukh/smellDetection/Detection/cloned_abidi/remainingForEILC/javacpp-1.2/src/main/java/org/bytedeco/javacpp/DoublePointer.java

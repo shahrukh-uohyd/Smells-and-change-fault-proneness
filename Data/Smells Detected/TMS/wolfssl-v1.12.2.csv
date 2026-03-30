@@ -1,0 +1,4 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+AP1,TooMuchScatteringDetectio,,,RSA,com.wolfssl.wolfcrypt,/home/shahrukh/smellDetection/Detection/revision projects/wolfssl/v1.12.2/src/java/com/wolfssl/wolfcrypt/RSA.java
+AP2,TooMuchScatteringDetectio,,,ECC,com.wolfssl.wolfcrypt,/home/shahrukh/smellDetection/Detection/revision projects/wolfssl/v1.12.2/src/java/com/wolfssl/wolfcrypt/ECC.java
+AP3,TooMuchScatteringDetectio,,,EccKey,com.wolfssl.wolfcrypt,/home/shahrukh/smellDetection/Detection/revision projects/wolfssl/v1.12.2/src/java/com/wolfssl/wolfcrypt/EccKey.java

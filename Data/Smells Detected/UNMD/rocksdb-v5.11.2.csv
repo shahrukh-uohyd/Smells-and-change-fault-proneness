@@ -1,0 +1,3 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,UnusedDeclarationDetectio,,setUseOsBuffer,EnvOptions,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v5.11.2/java/src/main/java/org/rocksdb/EnvOptions.java,EnvOptions.java
+CS2,UnusedDeclarationDetectio,,useOsBuffer,EnvOptions,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v5.11.2/java/src/main/java/org/rocksdb/EnvOptions.java,EnvOptions.java

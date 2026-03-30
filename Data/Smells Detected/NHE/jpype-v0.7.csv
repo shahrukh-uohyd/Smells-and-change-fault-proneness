@@ -1,0 +1,8 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotHandlingExceptions,"<init>",JPReferenceQueue::init,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/jpype-v0.7/native/common/jp_reference_queue.cpp,jp_reference_queue.cpp
+CS2,NotHandlingExceptions,"stop",JPReferenceQueue::init,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/jpype-v0.7/native/common/jp_reference_queue.cpp,jp_reference_queue.cpp
+CS3,NotHandlingExceptions,"hostObject",JPProxy::init,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/jpype-v0.7/native/common/jp_proxy.cpp,jp_proxy.cpp
+CS4,NotHandlingExceptions,"getInstance",JPReferenceQueue::init,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/jpype-v0.7/native/common/jp_reference_queue.cpp,jp_reference_queue.cpp
+CS5,NotHandlingExceptions,"registerRef",JPReferenceQueue::init,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/jpype-v0.7/native/common/jp_reference_queue.cpp,jp_reference_queue.cpp
+CS6,NotHandlingExceptions,"<init>",JPProxy::init,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/jpype-v0.7/native/common/jp_proxy.cpp,jp_proxy.cpp
+CS7,NotHandlingExceptions,"start",JPReferenceQueue::init,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/jpype-v0.7/native/common/jp_reference_queue.cpp,jp_reference_queue.cpp

@@ -1,0 +1,6 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotSecuringLibraries,"wolfssljni",loadLibrary,WolfSSL,com.wolfssl,/home/shahrukh/smellDetection/Detection/revision projects/wolfssl/v1.14.0-stable/src/java/com/wolfssl/WolfSSL.java,WolfSSL.java
+CS2,NotSecuringLibraries,"wolfssl-fips",loadLibrary,WolfSSL,com.wolfssl,/home/shahrukh/smellDetection/Detection/revision projects/wolfssl/v1.14.0-stable/src/java/com/wolfssl/WolfSSL.java,WolfSSL.java
+CS3,NotSecuringLibraries,libName,loadLibrary,WolfSSL,com.wolfssl,/home/shahrukh/smellDetection/Detection/revision projects/wolfssl/v1.14.0-stable/src/java/com/wolfssl/WolfSSL.java,WolfSSL.java
+CS4,NotSecuringLibraries,libPath,loadLibraryAbsolute,WolfSSL,com.wolfssl,/home/shahrukh/smellDetection/Detection/revision projects/wolfssl/v1.14.0-stable/src/java/com/wolfssl/WolfSSL.java,WolfSSL.java
+CS5,NotSecuringLibraries,"wolfssl",loadLibrary,WolfSSL,com.wolfssl,/home/shahrukh/smellDetection/Detection/revision projects/wolfssl/v1.14.0-stable/src/java/com/wolfssl/WolfSSL.java,WolfSSL.java

@@ -1,0 +1,11 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+AP1,ExcessiveInterLanguageCommunicationDetectio,,getErrorString,WolfSSL,com.wolfssl,/home/shahrukh/smellDetection/Detection/revision projects/wolfssl/v1.12.0-stable/src/java/com/wolfssl/WolfSSL.java
+AP2,ExcessiveInterLanguageCommunicationDetectio,,isEnabledOCSP,WolfSSL,com.wolfssl,/home/shahrukh/smellDetection/Detection/revision projects/wolfssl/v1.12.0-stable/src/java/com/wolfssl/WolfSSL.java
+AP3,ExcessiveInterLanguageCommunicationDetectio,,isEnabledPKCallbacks,WolfSSL,com.wolfssl,/home/shahrukh/smellDetection/Detection/revision projects/wolfssl/v1.12.0-stable/src/java/com/wolfssl/WolfSSL.java
+AP4,ExcessiveInterLanguageCommunicationDetectio,,X509_load_certificate_file,WolfSSLCertificate,com.wolfssl,/home/shahrukh/smellDetection/Detection/revision projects/wolfssl/v1.12.0-stable/src/java/com/wolfssl/WolfSSLCertificate.java
+AP5,ExcessiveInterLanguageCommunicationDetectio,,X509_load_certificate_buffer,WolfSSLCertificate,com.wolfssl,/home/shahrukh/smellDetection/Detection/revision projects/wolfssl/v1.12.0-stable/src/java/com/wolfssl/WolfSSLCertificate.java
+AP6,ExcessiveInterLanguageCommunicationDetectio,,isEnabledCRL,WolfSSL,com.wolfssl,/home/shahrukh/smellDetection/Detection/revision projects/wolfssl/v1.12.0-stable/src/java/com/wolfssl/WolfSSL.java
+AP7,ExcessiveInterLanguageCommunicationDetectio,,isEnabledCRLMonitor,WolfSSL,com.wolfssl,/home/shahrukh/smellDetection/Detection/revision projects/wolfssl/v1.12.0-stable/src/java/com/wolfssl/WolfSSL.java
+AP8,ExcessiveInterLanguageCommunicationDetectio,,X509_get_next_altname,WolfSSLCertificate,com.wolfssl,/home/shahrukh/smellDetection/Detection/revision projects/wolfssl/v1.12.0-stable/src/java/com/wolfssl/WolfSSLCertificate.java
+AP9,ExcessiveInterLanguageCommunicationDetectio,,isEnabledPSK,WolfSSL,com.wolfssl,/home/shahrukh/smellDetection/Detection/revision projects/wolfssl/v1.12.0-stable/src/java/com/wolfssl/WolfSSL.java
+AP10,ExcessiveInterLanguageCommunicationDetectio,,isEnabledAtomicUser,WolfSSL,com.wolfssl,/home/shahrukh/smellDetection/Detection/revision projects/wolfssl/v1.12.0-stable/src/java/com/wolfssl/WolfSSL.java

@@ -1,0 +1,12 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,UnusedDeclarationDetectio,,put,SizeTPointer,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-0.9/src/main/java/org/bytedeco/javacpp/SizeTPointer.java,SizeTPointer.java
+CS2,UnusedDeclarationDetectio,,allocate,Pointer,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-0.9/src/main/java/org/bytedeco/javacpp/Pointer.java,Pointer.java
+CS3,UnusedDeclarationDetectio,,asDirectBuffer,Pointer,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-0.9/src/main/java/org/bytedeco/javacpp/Pointer.java,Pointer.java
+CS4,UnusedDeclarationDetectio,,get,SizeTPointer,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-0.9/src/main/java/org/bytedeco/javacpp/SizeTPointer.java,SizeTPointer.java
+CS5,UnusedDeclarationDetectio,,memset,Pointer,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-0.9/src/main/java/org/bytedeco/javacpp/Pointer.java,Pointer.java
+CS6,UnusedDeclarationDetectio,,deallocate,NativeDeallocator,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-0.9/src/main/java/org/bytedeco/javacpp/Pointer.java,Pointer.java
+CS7,UnusedDeclarationDetectio,,allocateArray,SizeTPointer,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-0.9/src/main/java/org/bytedeco/javacpp/SizeTPointer.java,SizeTPointer.java
+CS8,UnusedDeclarationDetectio,,memcpy,Pointer,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-0.9/src/main/java/org/bytedeco/javacpp/Pointer.java,Pointer.java
+CS9,UnusedDeclarationDetectio,,memchr,Pointer,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-0.9/src/main/java/org/bytedeco/javacpp/Pointer.java,Pointer.java
+CS10,UnusedDeclarationDetectio,,memcmp,Pointer,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-0.9/src/main/java/org/bytedeco/javacpp/Pointer.java,Pointer.java
+CS11,UnusedDeclarationDetectio,,memmove,Pointer,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-0.9/src/main/java/org/bytedeco/javacpp/Pointer.java,Pointer.java

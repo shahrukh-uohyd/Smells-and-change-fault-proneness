@@ -1,0 +1,4 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+AP1,TooMuchScatteringDetectio,,,Util,io.realm.internal,/home/abhaya/shahrukh/cloned_abidi/realm-java-v0.90.0/realm/realm-library/src/main/java/io/realm/internal/Util.java
+AP2,TooMuchScatteringDetectio,,,Version,io.realm.internal,/home/abhaya/shahrukh/cloned_abidi/realm-java-v0.90.0/realm/realm-library/src/main/java/io/realm/internal/Version.java
+AP3,TooMuchScatteringDetectio,,,SubtableSchema,io.realm.internal,/home/abhaya/shahrukh/cloned_abidi/realm-java-v0.90.0/realm/realm-library/src/main/java/io/realm/internal/SubtableSchema.java

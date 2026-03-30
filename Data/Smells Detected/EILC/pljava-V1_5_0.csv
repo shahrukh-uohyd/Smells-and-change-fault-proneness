@@ -1,0 +1,3 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+AP1,ExcessiveInterLanguageCommunicationDetectio,,_getOid,TupleDesc,org.postgresql.pljava.internal,/home/shahrukh/smellDetection/Detection/cloned_abidi/remainingForEILC/pljava-V1_5_0/pljava/src/main/java/org/postgresql/pljava/internal/TupleDesc.java
+AP2,ExcessiveInterLanguageCommunicationDetectio,,_getId,PgSavepoint,org.postgresql.pljava.internal,/home/shahrukh/smellDetection/Detection/cloned_abidi/remainingForEILC/pljava-V1_5_0/pljava/src/main/java/org/postgresql/pljava/internal/PgSavepoint.java

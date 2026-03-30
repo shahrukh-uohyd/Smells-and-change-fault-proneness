@@ -1,0 +1,5 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotHandlingExceptions,name,FindClass,,,/home/shahrukh/smellDetection/Detection/revision projects/extra projects/webrtc-java-0.2.0 (1)/webrtc-java-0.2.0/webrtc-jni/src/main/cpp/dependencies/jni-voithos/src/JavaUtils.cpp,JavaUtils.cpp
+CS2,NotHandlingExceptions,name,GetMethod,,,/home/shahrukh/smellDetection/Detection/revision projects/extra projects/webrtc-java-0.2.0 (1)/webrtc-java-0.2.0/webrtc-jni/src/main/cpp/dependencies/jni-voithos/src/JavaUtils.cpp,JavaUtils.cpp
+CS3,NotHandlingExceptions,name,GetStaticMethod,,,/home/shahrukh/smellDetection/Detection/revision projects/extra projects/webrtc-java-0.2.0 (1)/webrtc-java-0.2.0/webrtc-jni/src/main/cpp/dependencies/jni-voithos/src/JavaUtils.cpp,JavaUtils.cpp
+CS4,NotHandlingExceptions,cls,GetFieldID,,,/home/shahrukh/smellDetection/Detection/revision projects/extra projects/webrtc-java-0.2.0 (1)/webrtc-java-0.2.0/webrtc-jni/src/main/cpp/dependencies/jni-voithos/src/JavaUtils.cpp,JavaUtils.cpp

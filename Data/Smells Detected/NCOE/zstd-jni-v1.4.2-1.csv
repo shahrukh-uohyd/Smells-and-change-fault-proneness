@@ -1,0 +1,8 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotCachingObjectsElements,"nativePtr",Java_com_github_luben_zstd_ZstdDictDecompress_init,,,/home/abhaya/shahrukh/cloned_abidi/zstd-jni-v1.4.2-1/src/main/native/jni_fast_zstd.c,jni_fast_zstd.c
+CS2,NotCachingObjectsElements,"dstPos",Java_com_github_luben_zstd_ZstdInputStream_initDStream,,,/home/abhaya/shahrukh/cloned_abidi/zstd-jni-v1.4.2-1/src/main/native/jni_inputstream_zstd.c,jni_inputstream_zstd.c
+CS3,NotCachingObjectsElements,"nativePtr",Java_com_github_luben_zstd_Zstd_loadFastDictDecompress,,,/home/abhaya/shahrukh/cloned_abidi/zstd-jni-v1.4.2-1/src/main/native/jni_zstd.c,jni_zstd.c
+CS4,NotCachingObjectsElements,"produced",Java_com_github_luben_zstd_ZstdDirectBufferDecompressingStream_initDStream,,,/home/abhaya/shahrukh/cloned_abidi/zstd-jni-v1.4.2-1/src/main/native/jni_directbufferdecompress_zstd.c,jni_directbufferdecompress_zstd.c
+CS5,NotCachingObjectsElements,"nativePtr",Java_com_github_luben_zstd_ZstdDictCompress_init,,,/home/abhaya/shahrukh/cloned_abidi/zstd-jni-v1.4.2-1/src/main/native/jni_fast_zstd.c,jni_fast_zstd.c
+CS6,NotCachingObjectsElements,"srcPos",Java_com_github_luben_zstd_ZstdInputStream_initDStream,,,/home/abhaya/shahrukh/cloned_abidi/zstd-jni-v1.4.2-1/src/main/native/jni_inputstream_zstd.c,jni_inputstream_zstd.c
+CS7,NotCachingObjectsElements,"consumed",Java_com_github_luben_zstd_ZstdDirectBufferDecompressingStream_initDStream,,,/home/abhaya/shahrukh/cloned_abidi/zstd-jni-v1.4.2-1/src/main/native/jni_directbufferdecompress_zstd.c,jni_directbufferdecompress_zstd.c

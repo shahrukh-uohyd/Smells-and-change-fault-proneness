@@ -1,0 +1,2 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,UnusedParameters,is_fatal,Java_io_realm_SyncManager_nativeSimulateSyncError,,,/home/abhaya/shahrukh/cloned_abidi/realm-java-v5.15.0/realm/realm-library/src/main/cpp/io_realm_SyncManager.cpp,io_realm_SyncManager.cpp

@@ -1,0 +1,3 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotHandlingExceptions,"()Lorg/rocksdb/ColumnFamilyOptions;",getColumnFamilyOptionsMethod,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/rocksdb-v5.9.2/java/rocksjni/portal.h,portal.h
+CS2,NotHandlingExceptions,"()[B",getColumnFamilyNameMethod,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/rocksdb-v5.9.2/java/rocksjni/portal.h,portal.h

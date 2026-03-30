@@ -1,0 +1,13 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+AP1,TooMuchScatteringDetectio,,,Artist,org.videolan.medialibrary.media,/home/abhaya/shahrukh/cloned_abidi/vlc-3.0.13/medialibrary/src/org/videolan/medialibrary/media/Artist.java
+AP2,TooMuchScatteringDetectio,,,Genre,org.videolan.medialibrary.media,/home/abhaya/shahrukh/cloned_abidi/vlc-3.0.13/medialibrary/src/org/videolan/medialibrary/media/Genre.java
+AP3,TooMuchScatteringDetectio,,,AWindow,org.videolan.libvlc,/home/abhaya/shahrukh/cloned_abidi/vlc-3.0.13/libvlc/src/org/videolan/libvlc/AWindow.java
+AP4,TooMuchScatteringDetectio,,,RendererItem,org.videolan.libvlc,/home/abhaya/shahrukh/cloned_abidi/vlc-3.0.13/libvlc/src/org/videolan/libvlc/RendererItem.java
+AP5,TooMuchScatteringDetectio,,,Dialog,org.videolan.libvlc,/home/abhaya/shahrukh/cloned_abidi/vlc-3.0.13/libvlc/src/org/videolan/libvlc/Dialog.java
+AP6,TooMuchScatteringDetectio,,,IdDialog,org.videolan.libvlc,/home/abhaya/shahrukh/cloned_abidi/vlc-3.0.13/libvlc/src/org/videolan/libvlc/Dialog.java
+AP7,TooMuchScatteringDetectio,,,Album,org.videolan.medialibrary.media,/home/abhaya/shahrukh/cloned_abidi/vlc-3.0.13/medialibrary/src/org/videolan/medialibrary/media/Album.java
+AP8,TooMuchScatteringDetectio,,,LoginDialog,org.videolan.libvlc,/home/abhaya/shahrukh/cloned_abidi/vlc-3.0.13/libvlc/src/org/videolan/libvlc/Dialog.java
+AP9,TooMuchScatteringDetectio,,,MediaWrapper,org.videolan.medialibrary.media,/home/abhaya/shahrukh/cloned_abidi/vlc-3.0.13/medialibrary/src/org/videolan/medialibrary/media/MediaWrapper.java
+AP10,TooMuchScatteringDetectio,,,QuestionDialog,org.videolan.libvlc,/home/abhaya/shahrukh/cloned_abidi/vlc-3.0.13/libvlc/src/org/videolan/libvlc/Dialog.java
+AP11,TooMuchScatteringDetectio,,,MediaDiscoverer,org.videolan.libvlc,/home/abhaya/shahrukh/cloned_abidi/vlc-3.0.13/libvlc/src/org/videolan/libvlc/MediaDiscoverer.java
+AP12,TooMuchScatteringDetectio,,,VLCObject<T extends VLCEvent>,org.videolan.libvlc,/home/abhaya/shahrukh/cloned_abidi/vlc-3.0.13/libvlc/src/org/videolan/libvlc/VLCObject.java

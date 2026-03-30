@@ -1,0 +1,4 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,UnusedDeclarationDetectio,,nativeFindAllTimestamp,Table,io.realm.internal,/home/abhaya/shahrukh/cloned_abidi/realm-java-v1.2.0/realm/realm-library/src/main/java/io/realm/internal/Table.java,Table.java
+CS2,UnusedDeclarationDetectio,,nativeFindAllDate,TableView,io.realm.internal,/home/abhaya/shahrukh/cloned_abidi/realm-java-v1.2.0/realm/realm-library/src/main/java/io/realm/internal/TableView.java,TableView.java
+CS3,UnusedDeclarationDetectio,,nativeFindFirstDate,TableView,io.realm.internal,/home/abhaya/shahrukh/cloned_abidi/realm-java-v1.2.0/realm/realm-library/src/main/java/io/realm/internal/TableView.java,TableView.java

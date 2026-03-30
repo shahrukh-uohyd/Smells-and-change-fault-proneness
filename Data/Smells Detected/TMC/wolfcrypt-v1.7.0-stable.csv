@@ -1,0 +1,5 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+AP1,TooMuchClusteringDetectio,,,Fips,com.wolfssl.wolfcrypt,/home/shahrukh/smellDetection/Detection/revision projects/wolfcrypt/v1.7.0-stable/src/main/java/com/wolfssl/wolfcrypt/Fips.java
+AP2,TooMuchClusteringDetectio,,,Rsa,com.wolfssl.wolfcrypt,/home/shahrukh/smellDetection/Detection/revision projects/wolfcrypt/v1.7.0-stable/src/main/java/com/wolfssl/wolfcrypt/Rsa.java
+AP3,TooMuchClusteringDetectio,,,FeatureDetect,com.wolfssl.wolfcrypt,/home/shahrukh/smellDetection/Detection/revision projects/wolfcrypt/v1.7.0-stable/src/main/java/com/wolfssl/wolfcrypt/FeatureDetect.java
+AP4,TooMuchClusteringDetectio,,,WolfCrypt,com.wolfssl.wolfcrypt,/home/shahrukh/smellDetection/Detection/revision projects/wolfcrypt/v1.7.0-stable/src/main/java/com/wolfssl/wolfcrypt/WolfCrypt.java

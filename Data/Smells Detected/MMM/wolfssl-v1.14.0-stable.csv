@@ -1,0 +1,2 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,MemoryManagementMismatch,StringUTFChars,NativeALPNSelectCb,,,/home/shahrukh/smellDetection/Detection/revision projects/wolfssl/v1.14.0-stable/native/com_wolfssl_WolfSSLSession.c,com_wolfssl_WolfSSLSession.c

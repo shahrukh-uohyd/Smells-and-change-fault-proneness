@@ -1,0 +1,24 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,MemoryManagementMismatch,BooleanArrayElements,GetBooleanArrayElements,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/jpype-v0.6.3/native/jni_include/jni.h,jni.h
+CS2,MemoryManagementMismatch,ByteArrayElements,JPJavaEnv::GetByteArrayElements,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/jpype-v0.6.3/native/common/jp_javaenv_autogen.cpp,jp_javaenv_autogen.cpp
+CS3,MemoryManagementMismatch,ShortArrayElements,GetShortArrayElements,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/jpype-v0.6.3/native/jni_include/jni.h,jni.h
+CS4,MemoryManagementMismatch,FloatArrayElements,GetFloatArrayElements,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/jpype-v0.6.3/native/jni_include/jni.h,jni.h
+CS5,MemoryManagementMismatch,LongArrayElements,JPJavaEnv::GetLongArrayElements,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/jpype-v0.6.3/native/common/jp_javaenv_autogen.cpp,jp_javaenv_autogen.cpp
+CS6,MemoryManagementMismatch,StringChars,JPJavaEnv::GetStringChars,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/jpype-v0.6.3/native/common/jp_javaenv_autogen.cpp,jp_javaenv_autogen.cpp
+CS7,MemoryManagementMismatch,StringCritical,GetStringCritical,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/jpype-v0.6.3/native/jni_include/jni.h,jni.h
+CS8,MemoryManagementMismatch,LongArrayElements,GetLongArrayElements,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/jpype-v0.6.3/native/jni_include/jni.h,jni.h
+CS9,MemoryManagementMismatch,IntArrayElements,JPJavaEnv::GetIntArrayElements,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/jpype-v0.6.3/native/common/jp_javaenv_autogen.cpp,jp_javaenv_autogen.cpp
+CS10,MemoryManagementMismatch,StringUTFChars,GetStringUTFChars,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/jpype-v0.6.3/native/jni_include/jni.h,jni.h
+CS11,MemoryManagementMismatch,CharArrayElements,GetCharArrayElements,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/jpype-v0.6.3/native/jni_include/jni.h,jni.h
+CS12,MemoryManagementMismatch,StringChars,GetStringChars,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/jpype-v0.6.3/native/jni_include/jni.h,jni.h
+CS13,MemoryManagementMismatch,PrimitiveArrayCritical,GetPrimitiveArrayCritical,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/jpype-v0.6.3/native/jni_include/jni.h,jni.h
+CS14,MemoryManagementMismatch,CharArrayElements,JPJavaEnv::GetCharArrayElements,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/jpype-v0.6.3/native/common/jp_javaenv_autogen.cpp,jp_javaenv_autogen.cpp
+CS15,MemoryManagementMismatch,DoubleArrayElements,GetDoubleArrayElements,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/jpype-v0.6.3/native/jni_include/jni.h,jni.h
+CS16,MemoryManagementMismatch,IntArrayElements,GetIntArrayElements,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/jpype-v0.6.3/native/jni_include/jni.h,jni.h
+CS17,MemoryManagementMismatch,BooleanArrayElements,JPJavaEnv::GetBooleanArrayElements,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/jpype-v0.6.3/native/common/jp_javaenv_autogen.cpp,jp_javaenv_autogen.cpp
+CS18,MemoryManagementMismatch,DoubleArrayElements,JPJavaEnv::GetDoubleArrayElements,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/jpype-v0.6.3/native/common/jp_javaenv_autogen.cpp,jp_javaenv_autogen.cpp
+CS19,MemoryManagementMismatch,PrimitiveArrayCritical,JPJavaEnv::GetPrimitiveArrayCritical,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/jpype-v0.6.3/native/common/jp_javaenv.cpp,jp_javaenv.cpp
+CS20,MemoryManagementMismatch,StringUTFChars,JPJavaEnv::GetStringUTFChars,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/jpype-v0.6.3/native/common/jp_javaenv_autogen.cpp,jp_javaenv_autogen.cpp
+CS21,MemoryManagementMismatch,ByteArrayElements,GetByteArrayElements,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/jpype-v0.6.3/native/jni_include/jni.h,jni.h
+CS22,MemoryManagementMismatch,FloatArrayElements,JPJavaEnv::GetFloatArrayElements,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/jpype-v0.6.3/native/common/jp_javaenv_autogen.cpp,jp_javaenv_autogen.cpp
+CS23,MemoryManagementMismatch,ShortArrayElements,JPJavaEnv::GetShortArrayElements,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/jpype-v0.6.3/native/common/jp_javaenv_autogen.cpp,jp_javaenv_autogen.cpp

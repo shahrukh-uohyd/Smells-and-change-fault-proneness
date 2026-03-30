@@ -1,0 +1,4 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+AP1,TooMuchScatteringDetectio,,,ZstdDictDecompress,com.github.luben.zstd,/home/abhaya/shahrukh/cloned_abidi/zstd-jni-v1.3.4-1/src/main/java/com/github/luben/zstd/ZstdDictDecompress.java
+AP2,TooMuchScatteringDetectio,,,ZstdDirectBufferDecompressingStream,com.github.luben.zstd,/home/abhaya/shahrukh/cloned_abidi/zstd-jni-v1.3.4-1/src/main/java/com/github/luben/zstd/ZstdDirectBufferDecompressingStream.java
+AP3,TooMuchScatteringDetectio,,,ZstdDictCompress,com.github.luben.zstd,/home/abhaya/shahrukh/cloned_abidi/zstd-jni-v1.3.4-1/src/main/java/com/github/luben/zstd/ZstdDictCompress.java

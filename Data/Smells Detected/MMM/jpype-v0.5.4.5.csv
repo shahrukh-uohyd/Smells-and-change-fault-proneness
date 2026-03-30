@@ -1,0 +1,11 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,MemoryManagementMismatch,ByteArrayElements,JPJavaEnv::GetByteArrayElements,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/jpype-v0.5.4.5/src/native/common/jp_javaenv_autogen.cpp,jp_javaenv_autogen.cpp
+CS2,MemoryManagementMismatch,CharArrayElements,JPJavaEnv::GetCharArrayElements,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/jpype-v0.5.4.5/src/native/common/jp_javaenv_autogen.cpp,jp_javaenv_autogen.cpp
+CS3,MemoryManagementMismatch,LongArrayElements,JPJavaEnv::GetLongArrayElements,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/jpype-v0.5.4.5/src/native/common/jp_javaenv_autogen.cpp,jp_javaenv_autogen.cpp
+CS4,MemoryManagementMismatch,BooleanArrayElements,JPJavaEnv::GetBooleanArrayElements,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/jpype-v0.5.4.5/src/native/common/jp_javaenv_autogen.cpp,jp_javaenv_autogen.cpp
+CS5,MemoryManagementMismatch,DoubleArrayElements,JPJavaEnv::GetDoubleArrayElements,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/jpype-v0.5.4.5/src/native/common/jp_javaenv_autogen.cpp,jp_javaenv_autogen.cpp
+CS6,MemoryManagementMismatch,StringChars,JPJavaEnv::GetStringChars,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/jpype-v0.5.4.5/src/native/common/jp_javaenv_autogen.cpp,jp_javaenv_autogen.cpp
+CS7,MemoryManagementMismatch,StringUTFChars,JPJavaEnv::GetStringUTFChars,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/jpype-v0.5.4.5/src/native/common/jp_javaenv_autogen.cpp,jp_javaenv_autogen.cpp
+CS8,MemoryManagementMismatch,IntArrayElements,JPJavaEnv::GetIntArrayElements,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/jpype-v0.5.4.5/src/native/common/jp_javaenv_autogen.cpp,jp_javaenv_autogen.cpp
+CS9,MemoryManagementMismatch,FloatArrayElements,JPJavaEnv::GetFloatArrayElements,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/jpype-v0.5.4.5/src/native/common/jp_javaenv_autogen.cpp,jp_javaenv_autogen.cpp
+CS10,MemoryManagementMismatch,ShortArrayElements,JPJavaEnv::GetShortArrayElements,,,/home/shahrukh/smellDetection/Detection/cloned_abidi/jpype-v0.5.4.5/src/native/common/jp_javaenv_autogen.cpp,jp_javaenv_autogen.cpp

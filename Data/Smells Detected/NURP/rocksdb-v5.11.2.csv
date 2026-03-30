@@ -1,0 +1,2 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotUsingRelativePath,"rocksdbjni",loadLibrary,RocksDB,org.rocksdb,/home/shahrukh/smellDetection/Detection/cloned_abidi/rocksdb-v5.11.2/java/src/main/java/org/rocksdb/RocksDB.java,RocksDB.java

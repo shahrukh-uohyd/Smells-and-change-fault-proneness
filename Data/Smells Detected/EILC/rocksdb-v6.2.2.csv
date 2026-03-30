@@ -1,0 +1,21 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+AP1,EILCModifiedF,,createNewSlice0,Slice,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v6.2.2/java/src/main/java/org/rocksdb/Slice.java
+AP2,EILCModifiedF,,createNewSlice1,Slice,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v6.2.2/java/src/main/java/org/rocksdb/Slice.java
+AP3,EILCModifiedF,,beginTransaction,OptimisticTransactionDB,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v6.2.2/java/src/main/java/org/rocksdb/OptimisticTransactionDB.java
+AP4,EILCModifiedF,,dbPathsLen,DBOptions,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v6.2.2/java/src/main/java/org/rocksdb/DBOptions.java
+AP5,EILCModifiedF,,write0,RocksDB,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v6.2.2/java/src/main/java/org/rocksdb/RocksDB.java
+AP6,EILCModifiedF,,write1,RocksDB,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v6.2.2/java/src/main/java/org/rocksdb/RocksDB.java
+AP7,EILCModifiedF,,createNewLoggerDbOptions,Logger,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v6.2.2/java/src/main/java/org/rocksdb/Logger.java
+AP8,EILCModifiedF,,dbPaths,DBOptions,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v6.2.2/java/src/main/java/org/rocksdb/DBOptions.java
+AP9,EILCModifiedF,,dbPaths,Options,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v6.2.2/java/src/main/java/org/rocksdb/Options.java
+AP10,EILCModifiedF,,dbPathsLen,Options,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v6.2.2/java/src/main/java/org/rocksdb/Options.java
+AP11,EILCModifiedF,,iterator,RocksDB,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v6.2.2/java/src/main/java/org/rocksdb/RocksDB.java
+AP12,EILCModifiedF,,open,TtlDB,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v6.2.2/java/src/main/java/org/rocksdb/TtlDB.java
+AP13,EILCModifiedF,,iteratorCF,RocksDB,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v6.2.2/java/src/main/java/org/rocksdb/RocksDB.java
+AP14,EILCModifiedF,,beginTransaction,TransactionDB,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v6.2.2/java/src/main/java/org/rocksdb/TransactionDB.java
+AP15,EILCModifiedF,,openCF,TtlDB,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v6.2.2/java/src/main/java/org/rocksdb/TtlDB.java
+AP16,EILCModifiedF,,iterator0,WriteBatchWithIndex,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v6.2.2/java/src/main/java/org/rocksdb/WriteBatchWithIndex.java
+AP17,EILCModifiedF,,createNewLoggerOptions,Logger,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v6.2.2/java/src/main/java/org/rocksdb/Logger.java
+AP18,EILCModifiedF,,iterator1,WriteBatchWithIndex,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v6.2.2/java/src/main/java/org/rocksdb/WriteBatchWithIndex.java
+AP19,EILCModifiedF,,beginTransaction_withOld,OptimisticTransactionDB,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v6.2.2/java/src/main/java/org/rocksdb/OptimisticTransactionDB.java
+AP20,EILCModifiedF,,beginTransaction_withOld,TransactionDB,org.rocksdb,/home/abhaya/shahrukh/cloned_abidi/rocksdb-v6.2.2/java/src/main/java/org/rocksdb/TransactionDB.java

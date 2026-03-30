@@ -1,0 +1,10 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+AP1,ExcessiveInterLanguageCommunicationDetectio,,nativeOnMouseEvent,AWindow,org.videolan.libvlc,/home/shahrukh/smellDetection/Detection/cloned_abidi/remainingForEILC/vlc-3.0.11/libvlc/src/org/videolan/libvlc/AWindow.java
+AP2,ExcessiveInterLanguageCommunicationDetectio,,nativeNewFromPath,Media,org.videolan.libvlc,/home/shahrukh/smellDetection/Detection/cloned_abidi/remainingForEILC/vlc-3.0.11/libvlc/src/org/videolan/libvlc/Media.java
+AP3,ExcessiveInterLanguageCommunicationDetectio,,nativeNewFromFd,Media,org.videolan.libvlc,/home/shahrukh/smellDetection/Detection/cloned_abidi/remainingForEILC/vlc-3.0.11/libvlc/src/org/videolan/libvlc/Media.java
+AP4,ExcessiveInterLanguageCommunicationDetectio,,nativeNewFromLibVlc,MediaPlayer,org.videolan.libvlc,/home/shahrukh/smellDetection/Detection/cloned_abidi/remainingForEILC/vlc-3.0.11/libvlc/src/org/videolan/libvlc/MediaPlayer.java
+AP5,ExcessiveInterLanguageCommunicationDetectio,,nativePlaylistAppendGroup,Playlist,org.videolan.medialibrary.media,/home/shahrukh/smellDetection/Detection/cloned_abidi/remainingForEILC/vlc-3.0.11/medialibrary/src/org/videolan/medialibrary/media/Playlist.java
+AP6,ExcessiveInterLanguageCommunicationDetectio,,nativePlaylistAppend,Playlist,org.videolan.medialibrary.media,/home/shahrukh/smellDetection/Detection/cloned_abidi/remainingForEILC/vlc-3.0.11/medialibrary/src/org/videolan/medialibrary/media/Playlist.java
+AP7,ExcessiveInterLanguageCommunicationDetectio,,nativeOnWindowSize,AWindow,org.videolan.libvlc,/home/shahrukh/smellDetection/Detection/cloned_abidi/remainingForEILC/vlc-3.0.11/libvlc/src/org/videolan/libvlc/AWindow.java
+AP8,ExcessiveInterLanguageCommunicationDetectio,,nativeNewFromLocation,Media,org.videolan.libvlc,/home/shahrukh/smellDetection/Detection/cloned_abidi/remainingForEILC/vlc-3.0.11/libvlc/src/org/videolan/libvlc/Media.java
+AP9,ExcessiveInterLanguageCommunicationDetectio,,nativeNewFromMedia,MediaPlayer,org.videolan.libvlc,/home/shahrukh/smellDetection/Detection/cloned_abidi/remainingForEILC/vlc-3.0.11/libvlc/src/org/videolan/libvlc/MediaPlayer.java

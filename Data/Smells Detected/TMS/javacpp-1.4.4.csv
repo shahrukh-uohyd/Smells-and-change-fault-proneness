@@ -1,0 +1,20 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+AP1,TooMuchScatteringDetectio,,,IntPointer,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-1.4.4/src/main/java/org/bytedeco/javacpp/IntPointer.java
+AP2,TooMuchScatteringDetectio,,,NativeDeallocator,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-1.4.4/src/main/java/org/bytedeco/javacpp/Pointer.java
+AP3,TooMuchScatteringDetectio,,,Loader,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-1.4.4/src/main/java/org/bytedeco/javacpp/Loader.java
+AP4,TooMuchScatteringDetectio,,,BoolPointer,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-1.4.4/src/main/java/org/bytedeco/javacpp/BoolPointer.java
+AP5,TooMuchScatteringDetectio,,,SharedData,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-1.4.4/src/test/java/org/bytedeco/javacpp/AdapterTest.java
+AP6,TooMuchScatteringDetectio,,,DoublePointer,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-1.4.4/src/main/java/org/bytedeco/javacpp/DoublePointer.java
+AP7,TooMuchScatteringDetectio,,,TestFunction,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-1.4.4/src/test/java/org/bytedeco/javacpp/PointerTest.java
+AP8,TooMuchScatteringDetectio,,,EnumTest,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-1.4.4/src/test/java/org/bytedeco/javacpp/EnumTest.java
+AP9,TooMuchScatteringDetectio,,,CharPointer,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-1.4.4/src/main/java/org/bytedeco/javacpp/CharPointer.java
+AP10,TooMuchScatteringDetectio,,,UniqueData,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-1.4.4/src/test/java/org/bytedeco/javacpp/AdapterTest.java
+AP11,TooMuchScatteringDetectio,,,LongPointer,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-1.4.4/src/main/java/org/bytedeco/javacpp/LongPointer.java
+AP12,TooMuchScatteringDetectio,,,SizeTPointer,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-1.4.4/src/main/java/org/bytedeco/javacpp/SizeTPointer.java
+AP13,TooMuchScatteringDetectio,,,BufferCallback,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-1.4.4/src/test/java/org/bytedeco/javacpp/BufferTest.java
+AP14,TooMuchScatteringDetectio,,,BooleanPointer,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-1.4.4/src/main/java/org/bytedeco/javacpp/BooleanPointer.java
+AP15,TooMuchScatteringDetectio,,,FloatPointer,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-1.4.4/src/main/java/org/bytedeco/javacpp/FloatPointer.java
+AP16,TooMuchScatteringDetectio,,,CLongPointer,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-1.4.4/src/main/java/org/bytedeco/javacpp/CLongPointer.java
+AP17,TooMuchScatteringDetectio,,,ShortPointer,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-1.4.4/src/main/java/org/bytedeco/javacpp/ShortPointer.java
+AP18,TooMuchScatteringDetectio,,,PointerPointer<P extends Pointer>,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-1.4.4/src/main/java/org/bytedeco/javacpp/PointerPointer.java
+AP19,TooMuchScatteringDetectio,,,EnumCallback,org.bytedeco.javacpp,/home/abhaya/shahrukh/cloned_abidi/javacpp-1.4.4/src/test/java/org/bytedeco/javacpp/EnumTest.java

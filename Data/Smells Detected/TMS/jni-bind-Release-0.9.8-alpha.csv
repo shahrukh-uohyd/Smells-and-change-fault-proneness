@@ -1,0 +1,4 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+AP1,TooMuchScatteringDetectio,,,BuilderTest,com.jnibind.test,/home/shahrukh/smellDetection/Detection/Revision_new_projects/jni-bind/Release-0.9.8-alpha/javatests/com/jnibind/test/BuilderTest.java
+AP2,TooMuchScatteringDetectio,,,ThreadTest,com.jnibind.test,/home/shahrukh/smellDetection/Detection/Revision_new_projects/jni-bind/Release-0.9.8-alpha/javatests/com/jnibind/test/ThreadTest.java
+AP3,TooMuchScatteringDetectio,,,ClassLoaderTest,com.jnibind.test,/home/shahrukh/smellDetection/Detection/Revision_new_projects/jni-bind/Release-0.9.8-alpha/javatests/com/jnibind/test/ClassLoaderTest.java

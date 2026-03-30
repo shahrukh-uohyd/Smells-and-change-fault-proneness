@@ -1,0 +1,24 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+AP1,TooMuchScatteringDetectio,,,SinglePfree<T>,org.postgresql.pljava.internal,/home/abhaya/shahrukh/cloned_abidi/pljava-V1_5_3/pljava/src/main/java/org/postgresql/pljava/internal/DualState.java
+AP2,TooMuchScatteringDetectio,,,SingleMemContextDelete<T>,org.postgresql.pljava.internal,/home/abhaya/shahrukh/cloned_abidi/pljava-V1_5_3/pljava/src/main/java/org/postgresql/pljava/internal/DualState.java
+AP3,TooMuchScatteringDetectio,,,Relation,org.postgresql.pljava.internal,/home/abhaya/shahrukh/cloned_abidi/pljava-V1_5_3/pljava/src/main/java/org/postgresql/pljava/internal/Relation.java
+AP4,TooMuchScatteringDetectio,,,SQLOutputToChunk,org.postgresql.pljava.jdbc,/home/abhaya/shahrukh/cloned_abidi/pljava-V1_5_3/pljava/src/main/java/org/postgresql/pljava/jdbc/SQLOutputToChunk.java
+AP5,TooMuchScatteringDetectio,,,SingleFreeTupleDesc<T>,org.postgresql.pljava.internal,/home/abhaya/shahrukh/cloned_abidi/pljava-V1_5_3/pljava/src/main/java/org/postgresql/pljava/internal/DualState.java
+AP6,TooMuchScatteringDetectio,,,SingleHeapFreeTuple<T>,org.postgresql.pljava.internal,/home/abhaya/shahrukh/cloned_abidi/pljava-V1_5_3/pljava/src/main/java/org/postgresql/pljava/internal/DualState.java
+AP7,TooMuchScatteringDetectio,,,XactListener,org.postgresql.pljava.internal,/home/abhaya/shahrukh/cloned_abidi/pljava-V1_5_3/pljava/src/main/java/org/postgresql/pljava/internal/XactListener.java
+AP8,TooMuchScatteringDetectio,,,SingleSPIcursorClose<T>,org.postgresql.pljava.internal,/home/abhaya/shahrukh/cloned_abidi/pljava-V1_5_3/pljava/src/main/java/org/postgresql/pljava/internal/DualState.java
+AP9,TooMuchScatteringDetectio,,,TupleDesc,org.postgresql.pljava.internal,/home/abhaya/shahrukh/cloned_abidi/pljava-V1_5_3/pljava/src/main/java/org/postgresql/pljava/internal/TupleDesc.java
+AP10,TooMuchScatteringDetectio,,,SubXactListener,org.postgresql.pljava.internal,/home/abhaya/shahrukh/cloned_abidi/pljava-V1_5_3/pljava/src/main/java/org/postgresql/pljava/internal/SubXactListener.java
+AP11,TooMuchScatteringDetectio,,,Tuple,org.postgresql.pljava.internal,/home/abhaya/shahrukh/cloned_abidi/pljava-V1_5_3/pljava/src/main/java/org/postgresql/pljava/internal/Tuple.java
+AP12,TooMuchScatteringDetectio,,,SingleSPIfreeplan<T>,org.postgresql.pljava.internal,/home/abhaya/shahrukh/cloned_abidi/pljava-V1_5_3/pljava/src/main/java/org/postgresql/pljava/internal/DualState.java
+AP13,TooMuchScatteringDetectio,,,ExecutionPlan,org.postgresql.pljava.internal,/home/abhaya/shahrukh/cloned_abidi/pljava-V1_5_3/pljava/src/main/java/org/postgresql/pljava/internal/ExecutionPlan.java
+AP14,TooMuchScatteringDetectio,,,Invocation,org.postgresql.pljava.jdbc,/home/abhaya/shahrukh/cloned_abidi/pljava-V1_5_3/pljava/src/main/java/org/postgresql/pljava/jdbc/Invocation.java
+AP15,TooMuchScatteringDetectio,,,TypeOid,org.postgresql.pljava.jdbc,/home/abhaya/shahrukh/cloned_abidi/pljava-V1_5_3/pljava/src/main/java/org/postgresql/pljava/jdbc/TypeOid.java
+AP16,TooMuchScatteringDetectio,,,PgSavepoint,org.postgresql.pljava.internal,/home/abhaya/shahrukh/cloned_abidi/pljava-V1_5_3/pljava/src/main/java/org/postgresql/pljava/internal/PgSavepoint.java
+AP17,TooMuchScatteringDetectio,,,Session,org.postgresql.pljava.internal,/home/abhaya/shahrukh/cloned_abidi/pljava-V1_5_3/pljava/src/main/java/org/postgresql/pljava/internal/Session.java
+AP18,TooMuchScatteringDetectio,,,SPI,org.postgresql.pljava.internal,/home/abhaya/shahrukh/cloned_abidi/pljava-V1_5_3/pljava/src/main/java/org/postgresql/pljava/internal/SPI.java
+AP19,TooMuchScatteringDetectio,,,State,org.postgresql.pljava.internal,/home/abhaya/shahrukh/cloned_abidi/pljava-V1_5_3/pljava/src/main/java/org/postgresql/pljava/internal/VarlenaWrapper.java
+AP20,TooMuchScatteringDetectio,,,SQLXMLImpl<V extends VarlenaWrapper>,org.postgresql.pljava.jdbc,/home/abhaya/shahrukh/cloned_abidi/pljava-V1_5_3/pljava/src/main/java/org/postgresql/pljava/jdbc/SQLXMLImpl.java
+AP21,TooMuchScatteringDetectio,,,Oid,org.postgresql.pljava.internal,/home/abhaya/shahrukh/cloned_abidi/pljava-V1_5_3/pljava/src/main/java/org/postgresql/pljava/internal/Oid.java
+AP22,TooMuchScatteringDetectio,,,SingleRowReader,org.postgresql.pljava.jdbc,/home/abhaya/shahrukh/cloned_abidi/pljava-V1_5_3/pljava/src/main/java/org/postgresql/pljava/jdbc/SingleRowReader.java
+AP23,TooMuchScatteringDetectio,,,SingleFreeErrorData<T>,org.postgresql.pljava.internal,/home/abhaya/shahrukh/cloned_abidi/pljava-V1_5_3/pljava/src/main/java/org/postgresql/pljava/internal/DualState.java
